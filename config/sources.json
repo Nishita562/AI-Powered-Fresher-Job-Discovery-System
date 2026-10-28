@@ -1,0 +1,70 @@
+{
+  "_comment": "Website adapter configuration. Selectors live here (not in code) so a layout change only needs a config edit. Only public pages that robots.txt allows are used; no login, CAPTCHA or paywall is ever bypassed.",
+  "greenhouse": {
+    "board_url": "https://job-boards.greenhouse.io/{token}",
+    "listing_selector": "tr.job-post",
+    "title_selector": "p.body--medium",
+    "location_selector": "p.body__secondary",
+    "link_selector": "a[href]",
+    "next_page_selector": "button[aria-label='Next page']:not([disabled]), a[aria-label='Next page']",
+    "max_pages": 5,
+    "detail": {
+      "title_selector": "h1",
+      "location_selector": ".job__location",
+      "description_selector": "div.job__description"
+    }
+  },
+  "lever": {
+    "board_url": "https://jobs.lever.co/{token}",
+    "listing_selector": "div.posting",
+    "title_selector": "[data-qa='posting-name']",
+    "location_selector": ".location",
+    "commitment_selector": ".commitment",
+    "workplace_selector": ".workplaceTypes",
+    "link_selector": "a.posting-title",
+    "detail": {
+      "title_selector": "div.posting-headline h2",
+      "location_selector": ".posting-categories .location",
+      "description_selector": "div.section.page-centered:not(:has(.posting-headline))"
+    }
+  },
+  "generic": {
+    "_comment": "Ported from the original Node.js prototype (CANDIDATE_LISTING_SELECTORS). Tried in order; whole-page text is the last resort.",
+    "listing_selectors": [
+      "[class*='job-card']",
+      "[class*='job-listing']",
+      "[class*='job-tile']",
+      "[class*='jobCard']",
+      "[data-testid*='job']",
+      "li[class*='job']",
+      "div[class*='career'] li",
+      "article",
+      "tr"
+    ],
+    "min_elements": 1,
+    "max_elements": 500,
+    "wait_after_load_ms": 1500
+  },
+  "live_boards": [
+    {"company": "Groww", "platform": "greenhouse", "token": "groww"},
+    {"company": "Druva", "platform": "greenhouse", "token": "druva"},
+    {"company": "HackerRank", "platform": "greenhouse", "token": "hackerrank"},
+    {"company": "InMobi", "platform": "greenhouse", "token": "inmobi"},
+    {"company": "Glance", "platform": "greenhouse", "token": "glance"},
+    {"company": "Rubrik", "platform": "greenhouse", "token": "rubrik"},
+    {"company": "Databricks", "platform": "greenhouse", "token": "databricks"},
+    {"company": "Stripe", "platform": "greenhouse", "token": "stripe"},
+    {"company": "Coinbase", "platform": "greenhouse", "token": "coinbase"},
+    {"company": "Twilio", "platform": "greenhouse", "token": "twilio"},
+    {"company": "Okta", "platform": "greenhouse", "token": "okta"},
+    {"company": "MongoDB", "platform": "greenhouse", "token": "mongodb"},
+    {"company": "GitLab", "platform": "greenhouse", "token": "gitlab"},
+    {"company": "Zscaler", "platform": "greenhouse", "token": "zscaler"},
+    {"company": "Pinterest", "platform": "greenhouse", "token": "pinterest"},
+    {"company": "Paytm", "platform": "lever", "token": "paytm"},
+    {"company": "Meesho", "platform": "lever", "token": "meesho"},
+    {"company": "CRED", "platform": "lever", "token": "cred"},
+    {"company": "Zeta", "platform": "lever", "token": "zeta"},
+    {"company": "FamPay", "platform": "lever", "token": "fampay"}
+  ]
+}

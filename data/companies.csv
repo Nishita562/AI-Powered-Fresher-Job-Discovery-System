@@ -1,0 +1,519 @@
+company_id,company_name,industry,headquarters,career_url,url_type,ats_platform,ats_board_token,verification_status,verification_detail,last_checked,notes
+C0001,Tata Consultancy Services,IT Services,"Mumbai, India",https://www.tcs.com/careers,careers_page,other,,unverified,HTTP 403: access restricted (not bypassed) (browser),2026-10-25,seed
+C0002,Infosys,IT Services,"Bengaluru, India",https://www.infosys.com/careers/,careers_page,unknown,,unverified,HTTP 403: access restricted (not bypassed) (browser),2026-10-25,seed
+C0003,Wipro,IT Services,"Bengaluru, India",https://careers.wipro.com/,careers_page,unknown,,verified,HTTP 200,2026-10-25,seed
+C0004,HCLTech,IT Services,"Noida, India",https://www.hcltech.com/careers,careers_page,unknown,,verified,HTTP 200 → https://careers.hcltech.com/,2026-10-25,seed
+C0005,Tech Mahindra,IT Services,"Pune, India",https://careers.techmahindra.com/,careers_page,unknown,,verified,HTTP 200,2026-10-25,seed
+C0006,Cognizant,IT Services,"Teaneck, United States",https://careers.cognizant.com/,careers_page,unknown,,verified,HTTP 200 → https://careers.cognizant.com/global-en/,2026-10-25,seed
+C0007,Capgemini,IT Services,"Paris, France",https://www.capgemini.com/in-en/careers/,careers_page,unknown,,verified,HTTP 200,2026-10-25,seed
+C0008,Accenture India,IT Services,"Dublin, Ireland",https://www.accenture.com/in-en/careers,careers_page,unknown,,verified,HTTP 200,2026-10-25,seed
+C0009,IBM India,IT Services,"Armonk, United States",https://www.ibm.com/careers,careers_page,unknown,,verified,HTTP 200,2026-10-25,seed
+C0010,LTIMindtree,IT Services,"Mumbai, India",https://www.ltimindtree.com/careers/,careers_page,unknown,,verified,HTTP 200 → https://www.ltm.com/careers,2026-10-25,seed; merged duplicates: Larsen & Toubro Infotech + Mindtree
+C0011,Mphasis,IT Services,"Bengaluru, India",https://www.mphasis.com/home/careers.html,careers_page,unknown,,verified,HTTP 200 → https://www.mphasis.com/home.html,2026-10-25,seed
+C0012,Persistent Systems,IT Services,"Pune, India",https://www.persistent.com/careers/,careers_page,unknown,,verified,HTTP 200 → https://careers.persistent.com/,2026-10-25,seed
+C0013,Zensar Technologies,IT Services,"Pune, India",https://www.zensar.com/careers,careers_page,unknown,,verified,HTTP 200,2026-10-25,seed
+C0014,Hexaware Technologies,IT Services,"Navi Mumbai, India",https://hexaware.com/careers/,careers_page,unknown,,verified,HTTP 200 → https://jobs.hexaware.com/,2026-10-25,seed
+C0015,Coforge,IT Services,"Noida, India",https://www.coforge.com/careers,careers_page,unknown,,verified,HTTP 200 → https://careers.coforge.com/coforge/,2026-10-25,seed; formerly NIIT Technologies
+C0016,L&T Technology Services,IT Services,"Vadodara, India",https://www.ltts.com/careers,careers_page,unknown,,verified,HTTP 200,2026-10-25,seed; ER&D services
+C0017,Cyient,IT Services,"Hyderabad, India",https://www.cyient.com/careers,careers_page,unknown,,verified,HTTP 200,2026-10-25,seed (seed URL careers.cyient.com replaced)
+C0018,Birlasoft,IT Services,"Pune, India",https://www.birlasoft.com/careers,careers_page,unknown,,verified,HTTP 200,2026-10-25,seed
+C0019,Sonata Software,IT Services,"Bengaluru, India",https://www.sonata-software.com/careers,careers_page,unknown,,verified,HTTP 200,2026-10-25,seed
+C0020,UST,IT Services,"Aliso Viejo, United States",https://www.ust.com/en/careers,careers_page,unknown,,verified,HTTP 200,2026-10-25,seed; formerly UST Global
+C0021,GlobalLogic India,IT Services,"San Jose, United States",https://www.globallogic.com/in/careers/,careers_page,unknown,,verified,HTTP 200,2026-10-25,seed; Hitachi Group company
+C0022,Publicis Sapient,IT Services,"Boston, United States",https://www.publicissapient.com/careers,careers_page,unknown,,verified,HTTP 200 → https://careers.publicissapient.com/,2026-10-25,seed
+C0023,Thoughtworks India,IT Services,"Chicago, United States",https://www.thoughtworks.com/careers,careers_page,unknown,,verified,HTTP 200,2026-10-25,seed
+C0024,Virtusa,IT Services,"Southborough, United States",https://www.virtusa.com/careers,careers_page,unknown,,unverified,HTTP 403: access restricted (not bypassed) (browser),2026-10-25,seed
+C0025,Genpact,IT Services,"New York, United States",https://www.genpact.com/careers,careers_page,unknown,,verified,HTTP 200,2026-10-25,seed; professional services/BPM
+C0026,WNS Global Services,IT Services,"Mumbai, India",https://www.wns.com/careers,careers_page,unknown,,verified,HTTP 200 → https://www.wns.com/about-us/careers,2026-10-25,seed; Capgemini acquisition announced 2025 - verify branding
+C0027,Concentrix,IT Services,"Newark, United States",https://www.concentrix.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,seed; CX/BPM
+C0028,Infosys BPM,IT Services,"Bengaluru, India",https://www.infosysbpm.com/,homepage,unknown,,unverified,HTTP 403: access restricted (not bypassed) (browser),2026-10-25,seed; Infosys subsidiary
+C0029,KPIT Technologies,IT Services,"Pune, India",https://www.kpit.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,automotive software/ER&D
+C0030,Tata Elxsi,IT Services,"Bengaluru, India",https://www.tataelxsi.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,design and ER&D services
+C0031,Happiest Minds Technologies,IT Services,"Bengaluru, India",https://www.happiestminds.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0032,Mastek,IT Services,"Mumbai, India",https://www.mastek.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0033,Sasken Technologies,IT Services,"Bengaluru, India",https://www.sasken.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0034,NTT DATA,IT Services,"Tokyo, Japan",https://www.nttdata.com/,homepage,unknown,,verified,HTTP 200 → https://www.nttdata.com/en-in,2026-10-25,
+C0035,DXC Technology,IT Services,"Ashburn, United States",https://dxc.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0036,Atos,IT Services,"Bezons, France",https://atos.net/,homepage,unknown,,verified,HTTP 200 → https://www.atos.ai/,2026-10-25,
+C0037,Kyndryl,IT Services,"New York, United States",https://www.kyndryl.com/,homepage,unknown,,verified,HTTP 200 → https://www.kyndryl.com/in/en,2026-10-25,
+C0038,EPAM Systems,IT Services,"Newtown, United States",https://www.epam.com/,homepage,unknown,,verified,HTTP 200 (browser),2026-10-25,
+C0039,Altimetrik,IT Services,"Southfield, United States",https://www.altimetrik.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0040,Infogain,IT Services,"Los Gatos, United States",https://www.infogain.com/,homepage,unknown,,verified,HTTP 200 → https://www.tenarai.com/,2026-10-25,
+C0041,Quest Global,IT Services,"Singapore, Singapore",https://www.quest-global.com/,homepage,unknown,,verified,HTTP 200 → https://www.questglobal.com/,2026-10-25,ER&D services
+C0042,Tata Technologies,IT Services,"Pune, India",https://www.tatatechnologies.com/,homepage,unknown,,unverified,HTTP 403: access restricted (not bypassed) (browser),2026-10-25,ER&D services
+C0043,Synechron,IT Services,"New York, United States",https://www.synechron.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0044,Nagarro,IT Services,"Munich, Germany",https://www.nagarro.com/,homepage,unknown,,verified,HTTP 200 → https://www.nagarro.com/en/,2026-10-25,
+C0045,Globant,IT Services,"Luxembourg, Luxembourg",https://www.globant.com/,homepage,unknown,,unverified,HTTP 403: access restricted (not bypassed) (browser),2026-10-25,
+C0046,CGI,IT Services,"Montreal, Canada",https://www.cgi.com/,homepage,unknown,,verified,HTTP 200 → https://www.cgi.com/en,2026-10-25,
+C0047,ITC Infotech,IT Services,"Bengaluru, India",https://www.itcinfotech.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,ITC Ltd subsidiary
+C0048,eClerx Services,IT Services,"Mumbai, India",https://eclerx.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0049,Cybage Software,IT Services,"Pune, India",https://www.cybage.com/,homepage,unknown,,verified,HTTP 200 (browser),2026-10-25,
+C0050,Brillio,IT Services,"Santa Clara, United States",https://www.brillio.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0051,Microsoft India,Software Product,"Redmond, United States",https://careers.microsoft.com/,careers_page,other,,verified,HTTP 200 → https://careers.microsoft.com/v2/global/en/home.html,2026-10-25,seed
+C0052,Google India,Software Product,"Mountain View, United States",https://careers.google.com/,careers_page,other,,verified,HTTP 200 → https://www.google.com/about/careers/applications/,2026-10-25,seed
+C0053,Oracle India,Software Product,"Austin, United States",https://www.oracle.com/careers/,careers_page,other,,verified,HTTP 200,2026-10-25,seed
+C0054,SAP Labs India,Software Product,"Walldorf, Germany",https://jobs.sap.com/,careers_page,successfactors,,verified,HTTP 200 → https://jobs.sap.com/en/,2026-10-25,seed
+C0055,Adobe India,Software Product,"San Jose, United States",https://www.adobe.com/careers.html,careers_page,workday,,unverified,HTTP 403: access restricted (not bypassed) (browser),2026-10-25,seed
+C0056,Intuit India,Software Product,"Mountain View, United States",https://www.intuit.com/careers/,careers_page,unknown,,verified,HTTP 200 (browser),2026-10-25,seed
+C0057,Autodesk,Software Product,"San Francisco, United States",https://www.autodesk.com/,homepage,workday,,unverified,HTTP 403: access restricted (not bypassed) (browser),2026-10-25,
+C0058,PTC,Software Product,"Boston, United States",https://www.ptc.com/,homepage,unknown,,verified,HTTP 200 → https://www.ptc.com/en,2026-10-25,
+C0059,Dassault Systemes,Software Product,"Velizy-Villacoublay, France",https://www.3ds.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0060,MathWorks,Software Product,"Natick, United States",https://www.mathworks.com/,homepage,unknown,,unverified,HTTP 403: access restricted (not bypassed) (browser),2026-10-25,
+C0061,Tally Solutions,Software Product,"Bengaluru, India",https://tallysolutions.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0062,Nutanix,Software Product,"San Jose, United States",https://www.nutanix.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0063,Amdocs,Software Product,"Chesterfield, United States",https://www.amdocs.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0064,MongoDB,Software Product,"New York, United States",https://www.mongodb.com/,homepage,greenhouse,mongodb,verified,HTTP 200,2026-10-25,public greenhouse board 'mongodb' responded with 382 listings on 2026-10-25
+C0065,Confluent,Software Product,"Mountain View, United States",https://www.confluent.io/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0066,Intellect Design Arena,Software Product,"Chennai, India",https://www.intellectdesign.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,banking software
+C0067,Nucleus Software,Software Product,"Noida, India",https://www.nucleussoftware.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,banking software
+C0068,Newgen Software,Software Product,"New Delhi, India",https://newgensoft.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0069,Red Hat,Software Product,"Raleigh, United States",https://www.redhat.com/,homepage,unknown,,verified,HTTP 200 → https://www.redhat.com/en,2026-10-25,IBM subsidiary
+C0070,OpenText,Software Product,"Waterloo, Canada",https://www.opentext.com/,homepage,unknown,,verified,HTTP 200 (browser),2026-10-25,
+C0071,Amadeus,Software Product,"Madrid, Spain",https://amadeus.com/,homepage,unknown,,verified,HTTP 200 → https://amadeus.com/en,2026-10-25,travel tech; Bengaluru labs
+C0072,Arcesium,Software Product,"New York, United States",https://www.arcesium.com/,homepage,unknown,,unverified,HTTP 429: access restricted (not bypassed) (browser),2026-10-25,
+C0073,Guidewire Software,Software Product,"San Mateo, United States",https://www.guidewire.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0074,Thomson Reuters,Software Product,"Toronto, Canada",https://www.thomsonreuters.com/,homepage,unknown,,verified,HTTP 200 → https://www.thomsonreuters.com/en,2026-10-25,
+C0075,Salesforce India,SaaS,"San Francisco, United States",https://www.salesforce.com/company/careers/,careers_page,workday,,verified,HTTP 200 → https://www.salesforce.com/company/careers/?bc=OTH,2026-10-25,seed
+C0076,Freshworks,SaaS,"San Mateo, United States",https://www.freshworks.com/company/careers/,careers_page,smartrecruiters,,verified,HTTP 200,2026-10-25,seed
+C0077,Zoho,SaaS,"Chennai, India",https://www.zoho.com/careers.html,careers_page,unknown,,verified,HTTP 200 → https://www.zoho.com/,2026-10-25,seed
+C0078,Postman,SaaS,"San Francisco, United States",https://www.postman.com/company/careers/,careers_page,unknown,,verified,HTTP 200,2026-10-25,seed
+C0079,Chargebee,SaaS,,https://www.chargebee.com/careers/,careers_page,unknown,,verified,HTTP 200 → https://www.chargebee.com/company/careers/,2026-10-25,seed
+C0080,Druva,SaaS,,https://www.druva.com/,homepage,greenhouse,druva,verified,HTTP 200,2026-10-25,seed; public greenhouse board 'druva' responded with 31 listings on 2026-10-25
+C0081,Icertis,SaaS,"Bellevue, United States",https://www.icertis.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,seed
+C0082,Atlassian,SaaS,"Sydney, Australia",https://www.atlassian.com/company/careers,careers_page,unknown,,verified,HTTP 200,2026-10-25,
+C0083,ServiceNow,SaaS,"Santa Clara, United States",https://careers.servicenow.com/,careers_page,smartrecruiters,,verified,HTTP 200,2026-10-25,
+C0084,Workday,SaaS,"Pleasanton, United States",https://www.workday.com/,homepage,workday,,verified,HTTP 200,2026-10-25,
+C0085,Twilio,SaaS,"San Francisco, United States",https://www.twilio.com/,homepage,greenhouse,twilio,verified,HTTP 200 → https://www.twilio.com/en-us,2026-10-25,public greenhouse board 'twilio' responded with 134 listings on 2026-10-25
+C0086,Snowflake,SaaS,"Bozeman, United States",https://www.snowflake.com/,homepage,unknown,,verified,HTTP 200 → https://www.snowflake.com/en/,2026-10-25,
+C0087,Zendesk,SaaS,"San Francisco, United States",https://www.zendesk.com/,homepage,unknown,,verified,HTTP 200 → https://www.zendesk.com/in/#georedirect,2026-10-25,
+C0088,Rippling,SaaS,"San Francisco, United States",https://www.rippling.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0089,Toast,SaaS,"Boston, United States",https://pos.toasttab.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0090,New Relic,SaaS,"San Francisco, United States",https://newrelic.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0091,ADP,SaaS,"Roseland, United States",https://www.adp.com/,homepage,unknown,,verified,HTTP 200 (browser),2026-10-25,
+C0092,BrowserStack,SaaS,,https://www.browserstack.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0093,Darwinbox,SaaS,"Hyderabad, India",https://darwinbox.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0094,LeadSquared,SaaS,"Bengaluru, India",https://www.leadsquared.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0095,Whatfix,SaaS,,https://whatfix.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0096,MoEngage,SaaS,,https://www.moengage.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0097,Mindtickle,SaaS,"San Francisco, United States",https://www.mindtickle.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0098,Sprinklr,SaaS,,https://www.sprinklr.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0099,Capillary Technologies,SaaS,"Bengaluru, India",https://www.capillarytech.com/,homepage,unknown,,verified,HTTP 200 (browser),2026-10-25,
+C0100,HighRadius,SaaS,"Houston, United States",https://www.highradius.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0101,Amagi,SaaS,"Bengaluru, India",https://www.amagi.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,media-tech SaaS
+C0102,Gupshup,SaaS,"San Francisco, United States",https://www.gupshup.io/,homepage,unknown,,verified,HTTP 200 → https://www.gupshup.ai:443/,2026-10-25,
+C0103,Route Mobile,SaaS,"Mumbai, India",https://www.routemobile.com/,homepage,unknown,,verified,HTTP 200 → https://routemobile.com/,2026-10-25,CPaaS; Proximus Group
+C0104,Tanla Platforms,SaaS,"Hyderabad, India",https://www.tanla.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,CPaaS
+C0105,Amazon India,Internet & E-commerce,"Seattle, United States",https://www.amazon.jobs/en/,careers_page,other,,verified,HTTP 200,2026-10-25,seed; merged duplicate: Amazon Development Centre India (same URL)
+C0106,Flipkart,Internet & E-commerce,"Bengaluru, India",https://www.flipkartcareers.com/,careers_page,unknown,,verified,HTTP 200,2026-10-25,seed (seed URL flipkart.com/careers replaced)
+C0107,Myntra,Internet & E-commerce,"Bengaluru, India",https://careers.myntra.com/,careers_page,unknown,,verified,HTTP 200,2026-10-25,seed; Flipkart Group
+C0108,Swiggy,Internet & E-commerce,"Bengaluru, India",https://careers.swiggy.com/,careers_page,unknown,,verified,HTTP 200 → https://careers.swiggy.in:443/,2026-10-25,seed
+C0109,Zomato,Internet & E-commerce,"Gurugram, India",https://www.zomato.com/careers,careers_page,unknown,,verified,HTTP 200 → https://www.eternal.com/careers/,2026-10-25,seed; parent renamed Eternal Ltd (2025); also covers Blinkit
+C0110,Nykaa,Internet & E-commerce,"Mumbai, India",https://www.nykaa.com/,homepage,unknown,,unverified,Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.nykaa.com/ (browser),2026-10-25,seed
+C0111,Meesho,Internet & E-commerce,"Bengaluru, India",https://www.meesho.com/,homepage,lever,meesho,unverified,"CAPTCHA / anti-bot page detected (skipped, not bypassed) (browser)",2026-10-25,seed; public lever board 'meesho' responded with 58 listings on 2026-10-25
+C0112,BigBasket,Internet & E-commerce,"Bengaluru, India",https://www.bigbasket.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,seed; Tata Digital company
+C0113,MakeMyTrip,Internet & E-commerce,"Gurugram, India",https://careers.makemytrip.com/,careers_page,unknown,,verified,HTTP 200,2026-10-25,seed
+C0114,Info Edge (Naukri),Internet & E-commerce,"Noida, India",https://www.infoedge.in/,homepage,unknown,,verified,HTTP 200,2026-10-25,seed name Infoedge (Naukri)
+C0115,Meta India,Internet & E-commerce,"Menlo Park, United States",https://www.metacareers.com/,careers_page,other,,verified,HTTP 200,2026-10-25,
+C0116,LinkedIn India,Internet & E-commerce,"Sunnyvale, United States",https://careers.linkedin.com/,careers_page,unknown,,verified,HTTP 200,2026-10-25,Microsoft subsidiary
+C0117,Expedia Group,Internet & E-commerce,"Seattle, United States",https://www.expediagroup.com/,homepage,unknown,,verified,HTTP 200 → https://www.expediagroup.com/en-us,2026-10-25,
+C0118,Airbnb,Internet & E-commerce,"San Francisco, United States",https://careers.airbnb.com/,careers_page,greenhouse,,verified,HTTP 200,2026-10-25,
+C0119,Zepto,Internet & E-commerce,"Mumbai, India",https://www.zeptonow.com/,homepage,unknown,,verified,HTTP 202,2026-10-25,
+C0120,Lenskart,Internet & E-commerce,"Gurugram, India",https://www.lenskart.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0121,Urban Company,Internet & E-commerce,"Gurugram, India",https://www.urbancompany.com/,homepage,unknown,,verified,HTTP 200 → https://www.urbancompany.com/delhi-ncr,2026-10-25,
+C0122,FirstCry,Internet & E-commerce,"Pune, India",https://www.firstcry.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,Brainbees Solutions
+C0123,IndiaMART,Internet & E-commerce,"Noida, India",https://www.indiamart.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0124,ixigo,Internet & E-commerce,"Gurugram, India",https://www.ixigo.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,Le Travenues Technology
+C0125,OYO,Internet & E-commerce,"Gurugram, India",https://www.oyorooms.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0126,Udaan,Internet & E-commerce,"Bengaluru, India",https://udaan.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0127,Moglix,Internet & E-commerce,"Noida, India",https://www.moglix.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0128,NoBroker,Internet & E-commerce,"Bengaluru, India",https://www.nobroker.in/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0129,BookMyShow,Internet & E-commerce,"Mumbai, India",https://in.bookmyshow.com/,homepage,unknown,,verified,HTTP 200 (browser),2026-10-25,Bigtree Entertainment
+C0130,InMobi,Internet & E-commerce,"Bengaluru, India",https://www.inmobi.com/,homepage,greenhouse,inmobi,verified,HTTP 200,2026-10-25,adtech; public greenhouse board 'inmobi' responded with 82 listings on 2026-10-25
+C0131,Glance,Internet & E-commerce,"Bengaluru, India",https://glance.com/,homepage,greenhouse,glance,verified,HTTP 200,2026-10-25,InMobi Group; public greenhouse board 'glance' responded with 38 listings on 2026-10-25
+C0132,Media.net,Internet & E-commerce,,https://www.media.net/,homepage,unknown,,verified,HTTP 200,2026-10-25,adtech
+C0133,Cars24,Internet & E-commerce,"Gurugram, India",https://www.cars24.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0134,CarDekho,Internet & E-commerce,"Jaipur, India",https://www.cardekho.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0135,Apna,Internet & E-commerce,"Bengaluru, India",https://apna.co/,homepage,unknown,,verified,HTTP 200,2026-10-25,jobs platform
+C0136,Unstop,Internet & E-commerce,,https://unstop.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,student hiring/competitions platform
+C0137,Internshala,Internet & E-commerce,"Gurugram, India",https://internshala.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,internship platform
+C0138,Paytm,Fintech,"Noida, India",https://paytm.com/careers,careers_page,lever,paytm,verified,HTTP 200,2026-10-25,seed; One 97 Communications; public lever board 'paytm' responded with 196 listings on 2026-10-25
+C0139,PhonePe,Fintech,"Bengaluru, India",https://www.phonepe.com/careers/,careers_page,unknown,,verified,HTTP 200,2026-10-25,seed
+C0140,Razorpay,Fintech,"Bengaluru, India",https://razorpay.com/jobs/,careers_page,unknown,,verified,HTTP 200 → https://razorpay.com/careers/,2026-10-25,seed
+C0141,CRED,Fintech,"Bengaluru, India",https://careers.cred.club/,careers_page,lever,cred,verified,HTTP 200,2026-10-25,seed; public lever board 'cred' responded with 8 listings on 2026-10-25
+C0142,Zerodha,Fintech,"Bengaluru, India",https://zerodha.com/careers/,careers_page,unknown,,verified,HTTP 200 → https://careers.zerodha.com/,2026-10-25,seed
+C0143,PolicyBazaar,Fintech,"Gurugram, India",https://www.policybazaar.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,seed; PB Fintech
+C0144,Groww,Fintech,"Bengaluru, India",https://groww.in/,homepage,greenhouse,groww,verified,HTTP 200 (browser),2026-10-25,public greenhouse board 'groww' responded with 10 listings on 2026-10-25
+C0145,Upstox,Fintech,"Mumbai, India",https://upstox.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0146,Angel One,Fintech,"Mumbai, India",https://www.angelone.in/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0147,Pine Labs,Fintech,"Noida, India",https://www.pinelabs.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0148,BharatPe,Fintech,"New Delhi, India",https://bharatpe.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0149,MobiKwik,Fintech,"Gurugram, India",https://www.mobikwik.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0150,Cashfree Payments,Fintech,"Bengaluru, India",https://www.cashfree.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0151,Juspay,Fintech,"Bengaluru, India",https://juspay.io/,homepage,unknown,,verified,HTTP 200 → https://juspay.io/in,2026-10-25,
+C0152,slice,Fintech,"Bengaluru, India",https://www.sliceit.com/,homepage,unknown,,verified,HTTP 200 → https://slice.bank.in/,2026-10-25,merged with North East Small Finance Bank
+C0153,Navi Technologies,Fintech,"Bengaluru, India",https://navi.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0154,Zeta,Fintech,"Bengaluru, India",https://www.zeta.tech/,homepage,lever,zeta,verified,HTTP 200 → https://www.zeta.tech/in/,2026-10-25,banking tech; public lever board 'zeta' responded with 27 listings on 2026-10-25
+C0155,Perfios,Fintech,"Bengaluru, India",https://www.perfios.com/,homepage,unknown,,verified,HTTP 200 → https://perfios.ai/,2026-10-25,
+C0156,Acko,Fintech,"Bengaluru, India",https://www.acko.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,insurtech
+C0157,Go Digit General Insurance,Fintech,"Bengaluru, India",https://www.godigit.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,insurtech
+C0158,PayU India,Fintech,"Hoofddorp, Netherlands",https://payu.in/,homepage,unknown,,verified,HTTP 200,2026-10-25,Prosus group
+C0159,ClearTax,Fintech,"Bengaluru, India",https://cleartax.in/,homepage,unknown,,verified,HTTP 200,2026-10-25,Clear
+C0160,NPCI,Fintech,"Mumbai, India",https://www.npci.org.in/,homepage,unknown,,verified,HTTP 200 (browser),2026-10-25,National Payments Corporation of India (UPI)
+C0161,PayPal India,Fintech,"San Jose, United States",https://careers.pypl.com/,careers_page,unknown,,verified,HTTP 200 → https://careers.pypl.com/home/default.aspx,2026-10-25,
+C0162,Visa,Fintech,"San Francisco, United States",https://www.visa.com/,homepage,smartrecruiters,,verified,HTTP 200 (browser),2026-10-25,careers subdomain did not resolve on 2026-10-25; homepage used
+C0163,Mastercard,Fintech,"Purchase, United States",https://careers.mastercard.com/,careers_page,workday,,verified,HTTP 200 → https://careers.mastercard.com/us/en/,2026-10-25,
+C0164,FIS,Fintech,"Jacksonville, United States",https://www.fisglobal.com/,homepage,unknown,,verified,HTTP 200 (browser),2026-10-25,
+C0165,Fiserv,Fintech,"Milwaukee, United States",https://www.fiserv.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0166,Broadridge,Fintech,"Lake Success, United States",https://www.broadridge.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0167,HDFC Bank,BFSI,"Mumbai, India",https://www.hdfcbank.com/,homepage,unknown,,verified,HTTP 200 → https://www.hdfc.bank.in/,2026-10-25,seed; RBI-mandated .bank.in domain migration may redirect
+C0168,ICICI Bank,BFSI,"Mumbai, India",https://www.icicibank.com/,homepage,unknown,,verified,HTTP 200 → https://www.icici.bank.in/,2026-10-25,seed; .bank.in domain migration may redirect; previous careers URL https://www.icicibank.com/careers returned HTTP 404 on 2026-10-25
+C0169,Axis Bank,BFSI,"Mumbai, India",https://www.axisbank.com/careers,careers_page,unknown,,verified,HTTP 200 → https://www.axis.bank.in/careers,2026-10-25,seed; .bank.in domain migration may redirect
+C0170,State Bank of India,BFSI,"Mumbai, India",https://bank.sbi/web/careers,careers_page,unknown,,verified,HTTP 200 → https://sbi.bank.in/web/careers,2026-10-25,seed; PSU bank
+C0171,Kotak Mahindra Bank,BFSI,"Mumbai, India",https://www.kotak.com/,homepage,unknown,,verified,HTTP 200 → https://www.kotak.bank.in/en/home.html,2026-10-25,seed
+C0172,Bajaj Finserv,BFSI,"Pune, India",https://www.bajajfinserv.in/,homepage,unknown,,verified,HTTP 200,2026-10-25,seed
+C0173,Yes Bank,BFSI,"Mumbai, India",https://www.yesbank.in/,homepage,unknown,,verified,HTTP 200 → https://www.yes.bank.in/,2026-10-25,
+C0174,IndusInd Bank,BFSI,"Mumbai, India",https://www.indusind.com/,homepage,unknown,,verified,HTTP 200 → https://www.indusind.bank.in/,2026-10-25,
+C0175,IDFC FIRST Bank,BFSI,"Mumbai, India",https://www.idfcfirstbank.com/,homepage,unknown,,verified,HTTP 200 → https://www.idfcfirst.bank.in/,2026-10-25,
+C0176,Bank of Baroda,BFSI,"Vadodara, India",https://www.bankofbaroda.in/,homepage,unknown,,verified,HTTP 200 → https://bankofbaroda.bank.in/,2026-10-25,PSU bank
+C0177,Punjab National Bank,BFSI,"New Delhi, India",https://www.pnbindia.in/,homepage,unknown,,verified,HTTP 200 → https://pnb.bank.in/,2026-10-25,PSU bank
+C0178,Canara Bank,BFSI,"Bengaluru, India",https://canarabank.com/,homepage,unknown,,verified,HTTP 200 → https://www.canarabank.bank.in:443/,2026-10-25,PSU bank
+C0179,Life Insurance Corporation of India,BFSI,"Mumbai, India",https://licindia.in/,homepage,unknown,,verified,HTTP 200,2026-10-25,PSU insurer
+C0180,HDFC Life,BFSI,"Mumbai, India",https://www.hdfclife.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0181,Tata Capital,BFSI,"Mumbai, India",https://www.tatacapital.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0182,National Stock Exchange of India,BFSI,"Mumbai, India",https://www.nseindia.com/,homepage,unknown,,unverified,Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.nseindia.com/ (browser),2026-10-25,
+C0183,CRISIL,BFSI,"Mumbai, India",https://www.crisil.com/,homepage,unknown,,verified,HTTP 200 → https://www.crisil.com/en/home.html,2026-10-25,S&P Global company
+C0184,JPMorgan Chase,BFSI,"New York, United States",https://careers.jpmorgan.com/,careers_page,unknown,,verified,HTTP 200 → https://www.jpmorganchase.com/careers?redirect=careers_jpm,2026-10-25,
+C0185,Goldman Sachs,BFSI,"New York, United States",https://www.goldmansachs.com/careers/,careers_page,unknown,,verified,HTTP 200,2026-10-25,
+C0186,Morgan Stanley,BFSI,"New York, United States",https://www.morganstanley.com/careers,careers_page,unknown,,verified,HTTP 200 → https://www.morganstanley.com/people,2026-10-25,
+C0187,Deutsche Bank,BFSI,"Frankfurt, Germany",https://careers.db.com/,careers_page,unknown,,verified,HTTP 200,2026-10-25,
+C0188,Barclays,BFSI,"London, United Kingdom",https://home.barclays/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0189,HSBC,BFSI,"London, United Kingdom",https://www.hsbc.com/careers,careers_page,unknown,,verified,HTTP 200,2026-10-25,
+C0190,Citi,BFSI,"New York, United States",https://jobs.citi.com/,careers_page,unknown,,verified,HTTP 200,2026-10-25,
+C0191,Wells Fargo,BFSI,"San Francisco, United States",https://www.wellsfargojobs.com/,careers_page,unknown,,verified,HTTP 200,2026-10-25,
+C0192,Bank of America,BFSI,"Charlotte, United States",https://careers.bankofamerica.com/,careers_page,unknown,,verified,HTTP 200 → https://careers.bankofamerica.com/en-us,2026-10-25,
+C0193,American Express,BFSI,"New York, United States",https://www.americanexpress.com/en-us/careers/,careers_page,unknown,,verified,HTTP 200,2026-10-25,
+C0194,BNY,BFSI,"New York, United States",https://www.bny.com/,homepage,unknown,,verified,HTTP 200 → https://www.bny.com/corporate/global/en.html,2026-10-25,formerly BNY Mellon
+C0195,State Street,BFSI,"Boston, United States",https://www.statestreet.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0196,Northern Trust,BFSI,"Chicago, United States",https://www.northerntrust.com/,homepage,unknown,,verified,HTTP 200 → https://www.northerntrust.com/asia-pac/home,2026-10-25,
+C0197,UBS,BFSI,"Zurich, Switzerland",https://www.ubs.com/,homepage,unknown,,verified,HTTP None (browser),2026-10-25,Credit Suisse merged into UBS
+C0198,Standard Chartered,BFSI,"London, United Kingdom",https://www.sc.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0199,Nomura,BFSI,"Tokyo, Japan",https://www.nomura.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0200,Societe Generale,BFSI,"Paris, France",https://www.societegenerale.com/,homepage,unknown,,verified,HTTP 200 → https://www.societegenerale.com/fr,2026-10-25,
+C0201,BNP Paribas,BFSI,"Paris, France",https://group.bnpparibas/,homepage,unknown,,unverified,HTTP 403: access restricted (not bypassed) (browser),2026-10-25,
+C0202,NatWest Group,BFSI,"Edinburgh, United Kingdom",https://www.natwestgroup.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0203,Lloyds Banking Group,BFSI,"London, United Kingdom",https://www.lloydsbankinggroup.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,Hyderabad tech centre
+C0204,Fidelity Investments,BFSI,"Boston, United States",https://www.fidelity.com/,homepage,unknown,,unverified,Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.fidelity.com/ (browser),2026-10-25,
+C0205,BlackRock,BFSI,"New York, United States",https://www.blackrock.com/,homepage,unknown,,verified,HTTP 200 → https://www.blackrock.com/corporate,2026-10-25,
+C0206,Morningstar,BFSI,"Chicago, United States",https://www.morningstar.com/,homepage,unknown,,verified,HTTP None (browser),2026-10-25,
+C0207,MSCI,BFSI,"New York, United States",https://www.msci.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0208,S&P Global,BFSI,"New York, United States",https://www.spglobal.com/,homepage,unknown,,unverified,HTTP 403: access restricted (not bypassed) (browser),2026-10-25,
+C0209,Moody's,BFSI,"New York, United States",https://www.moodys.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0210,LSEG,BFSI,"London, United Kingdom",https://www.lseg.com/,homepage,unknown,,verified,HTTP 200 → https://www.lseg.com/en,2026-10-25,London Stock Exchange Group
+C0211,Experian,BFSI,"Dublin, Ireland",https://www.experianplc.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0212,TransUnion,BFSI,"Chicago, United States",https://www.transunion.com/,homepage,unknown,,verified,HTTP 200 (browser),2026-10-25,includes TransUnion CIBIL
+C0213,Marsh McLennan,BFSI,"New York, United States",https://www.marshmclennan.com/,homepage,unknown,,verified,HTTP 200 → https://www.marsh.com/en-gb/home.html,2026-10-25,
+C0214,Aon,BFSI,"Dublin, Ireland",https://www.aon.com/,homepage,unknown,,verified,HTTP 200 → https://www.aon.com/en/,2026-10-25,
+C0215,WTW,BFSI,"London, United Kingdom",https://www.wtwco.com/,homepage,unknown,,unverified,HTTP 429: access restricted (not bypassed) (browser),2026-10-25,Willis Towers Watson
+C0216,D. E. Shaw India,BFSI,"New York, United States",https://www.deshawindia.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0217,Tower Research Capital,BFSI,"New York, United States",https://www.tower-research.com/,homepage,unknown,,verified,HTTP 200 → https://tower-research.com/,2026-10-25,
+C0218,AlphaGrep Securities,BFSI,"Mumbai, India",https://www.alpha-grep.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0219,Deloitte India,Consulting,"London, United Kingdom",https://www.deloitte.com/in/en/careers.html,careers_page,unknown,,verified,HTTP 200,2026-10-25,seed (seed www2 URL updated)
+C0220,EY India,Consulting,"London, United Kingdom",https://www.ey.com/en_in/careers,careers_page,unknown,,verified,HTTP 200,2026-10-25,seed
+C0221,PwC India,Consulting,"London, United Kingdom",https://www.pwc.in/careers.html,careers_page,unknown,,verified,HTTP 200 (browser),2026-10-25,seed
+C0222,KPMG India,Consulting,"London, United Kingdom",https://kpmg.com/,homepage,unknown,,verified,HTTP 200 → https://kpmg.com/xx/en.html,2026-10-25,seed (seed home.kpmg URL replaced with root)
+C0223,McKinsey & Company India,Consulting,"New York, United States",https://www.mckinsey.com/careers,careers_page,unknown,,unverified,Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.mckinsey.com/careers (browser),2026-10-25,seed
+C0224,Boston Consulting Group,Consulting,"Boston, United States",https://careers.bcg.com/,careers_page,unknown,,verified,HTTP 200 → https://careers.bcg.com/global/en/,2026-10-25,
+C0225,Bain & Company,Consulting,"Boston, United States",https://www.bain.com/careers/,careers_page,unknown,,verified,HTTP 200,2026-10-25,
+C0226,ZS Associates,Consulting,"Evanston, United States",https://www.zs.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0227,Kearney,Consulting,"Chicago, United States",https://www.kearney.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0228,Grant Thornton Bharat,Consulting,"New Delhi, India",https://www.grantthornton.in/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0229,Alvarez & Marsal,Consulting,"New York, United States",https://www.alvarezandmarsal.com/,homepage,unknown,,unverified,"CAPTCHA / anti-bot page detected (skipped, not bypassed) (browser)",2026-10-25,
+C0230,Gartner,Consulting,"Stamford, United States",https://www.gartner.com/,homepage,unknown,,verified,HTTP 200 (browser),2026-10-25,
+C0231,Protiviti,Consulting,"Menlo Park, United States",https://www.protiviti.com/,homepage,unknown,,verified,HTTP 200 → https://www.protiviti.com/in-en,2026-10-25,
+C0232,Databricks,Analytics & AI,"San Francisco, United States",https://www.databricks.com/company/careers,careers_page,greenhouse,databricks,verified,HTTP 200,2026-10-25,public greenhouse board 'databricks' responded with 896 listings on 2026-10-25
+C0233,Eightfold AI,Analytics & AI,"Santa Clara, United States",https://eightfold.ai/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0234,ThoughtSpot,Analytics & AI,"Mountain View, United States",https://www.thoughtspot.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0235,FICO,Analytics & AI,"Bozeman, United States",https://www.fico.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0236,Axtria,Analytics & AI,"Berkeley Heights, United States",https://www.axtria.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0237,Evalueserve,Analytics & AI,,https://www.evalueserve.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0238,EXL,Analytics & AI,"New York, United States",https://www.exlservice.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0239,Mu Sigma,Analytics & AI,,https://www.mu-sigma.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0240,Fractal Analytics,Analytics & AI,"Mumbai, India",https://fractal.ai/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0241,Tiger Analytics,Analytics & AI,,https://www.tigeranalytics.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0242,LatentView Analytics,Analytics & AI,"Chennai, India",https://www.latentview.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0243,Course5 Intelligence,Analytics & AI,"Mumbai, India",https://www.course5i.com/,homepage,unknown,,verified,HTTP 200 → https://www.c5i.ai/,2026-10-25,
+C0244,Sigmoid,Analytics & AI,,https://www.sigmoid.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0245,Quantiphi,Analytics & AI,"Marlborough, United States",https://quantiphi.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0246,Tredence,Analytics & AI,,https://www.tredence.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0247,MathCo,Analytics & AI,,https://mathco.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,formerly TheMathCompany
+C0248,NielsenIQ,Analytics & AI,"Chicago, United States",https://nielseniq.com/,homepage,unknown,,verified,HTTP 200 → https://nielseniq.com/global/en/,2026-10-25,
+C0249,Sarvam AI,Analytics & AI,"Bengaluru, India",https://www.sarvam.ai/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0250,Krutrim,Analytics & AI,"Bengaluru, India",https://www.olakrutrim.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,Ola group AI company
+C0251,Haptik,Analytics & AI,"Mumbai, India",https://www.haptik.ai/,homepage,unknown,,verified,HTTP 200,2026-10-25,conversational AI
+C0252,Yellow.ai,Analytics & AI,"San Mateo, United States",https://yellow.ai/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0253,Uniphore,Analytics & AI,"Palo Alto, United States",https://www.uniphore.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0254,Palo Alto Networks,Cybersecurity,"Santa Clara, United States",https://www.paloaltonetworks.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0255,Zscaler,Cybersecurity,"San Jose, United States",https://www.zscaler.com/,homepage,greenhouse,zscaler,verified,HTTP 200,2026-10-25,public greenhouse board 'zscaler' responded with 352 listings on 2026-10-25
+C0256,Fortinet,Cybersecurity,"Sunnyvale, United States",https://www.fortinet.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0257,CrowdStrike,Cybersecurity,"Austin, United States",https://www.crowdstrike.com/,homepage,workday,,verified,HTTP 200 → https://www.crowdstrike.com/en-us/,2026-10-25,
+C0258,Check Point Software Technologies,Cybersecurity,"Tel Aviv, Israel",https://www.checkpoint.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0259,Qualys,Cybersecurity,"Foster City, United States",https://www.qualys.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0260,Gen Digital,Cybersecurity,"Tempe, United States",https://www.gendigital.com/,homepage,unknown,,verified,HTTP 200 → https://www.gendigital.com/us/en/,2026-10-25,Norton/Avast parent
+C0261,McAfee,Cybersecurity,"San Jose, United States",https://www.mcafee.com/,homepage,unknown,,unverified,Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.mcafee.com/ (browser),2026-10-25,
+C0262,Sophos,Cybersecurity,"Abingdon, United Kingdom",https://www.sophos.com/,homepage,unknown,,unverified,Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.sophos.com/ (browser),2026-10-25,
+C0263,Okta,Cybersecurity,"San Francisco, United States",https://www.okta.com/,homepage,greenhouse,okta,verified,HTTP 200,2026-10-25,public greenhouse board 'okta' responded with 390 listings on 2026-10-25
+C0264,Rubrik,Cybersecurity,"Palo Alto, United States",https://www.rubrik.com/,homepage,greenhouse,rubrik,unverified,HTTP 403: access restricted (not bypassed) (browser),2026-10-25,data security; public greenhouse board 'rubrik' responded with 148 listings on 2026-10-25
+C0265,Akamai Technologies,Cybersecurity,"Cambridge, United States",https://www.akamai.com/,homepage,unknown,,unverified,HTTP 403: access restricted (not bypassed) (browser),2026-10-25,
+C0266,F5,Cybersecurity,"Seattle, United States",https://www.f5.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0267,Quick Heal Technologies,Cybersecurity,"Pune, India",https://www.quickheal.co.in/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0268,CloudSEK,Cybersecurity,"Bengaluru, India",https://www.cloudsek.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0269,Broadcom India,Semiconductors & Hardware,"Palo Alto, United States",https://www.broadcom.com/company/careers,careers_page,workday,,verified,HTTP 200,2026-10-25,merged: seed VMware India (VMware acquired by Broadcom 2023)
+C0270,Cisco India,Semiconductors & Hardware,"San Jose, United States",https://jobs.cisco.com/,careers_page,unknown,,verified,HTTP 200 → https://careers.cisco.com/global/en,2026-10-25,seed; networking
+C0271,Dell Technologies India,Semiconductors & Hardware,"Round Rock, United States",https://jobs.dell.com/,careers_page,workday,,verified,HTTP 200 → https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers,2026-10-25,seed
+C0272,HP India,Semiconductors & Hardware,"Palo Alto, United States",https://www.hp.com/,homepage,workday,,verified,HTTP 200 → https://www.hp.com/in-en/home.html,2026-10-25,seed (seed URL careers.hp.com not confirmed)
+C0273,Qualcomm India,Semiconductors & Hardware,"San Diego, United States",https://www.qualcomm.com/company/careers,careers_page,unknown,,verified,HTTP 200,2026-10-25,seed
+C0274,Intel India,Semiconductors & Hardware,"Santa Clara, United States",https://jobs.intel.com/,careers_page,workday,,verified,HTTP 200 (browser),2026-10-25,seed
+C0275,Texas Instruments India,Semiconductors & Hardware,"Dallas, United States",https://careers.ti.com/,careers_page,unknown,,verified,HTTP 200 → https://careers.ti.com/en/sites/CX,2026-10-25,seed
+C0276,NVIDIA India,Semiconductors & Hardware,"Santa Clara, United States",https://www.nvidia.com/en-us/about-nvidia/careers/,careers_page,workday,,verified,HTTP 200,2026-10-25,seed
+C0277,Samsung R&D Institute India,Semiconductors & Hardware,"Suwon, South Korea",https://www.samsung.com/in/,homepage,unknown,,verified,HTTP 200,2026-10-25,seed
+C0278,LG Electronics India,Semiconductors & Hardware,"Seoul, South Korea",https://www.lg.com/in/,homepage,unknown,,unverified,HTTP 403: access restricted (not bypassed) (browser),2026-10-25,seed
+C0279,Apple India,Semiconductors & Hardware,"Cupertino, United States",https://www.apple.com/careers/in/,careers_page,other,,verified,HTTP 200,2026-10-25,
+C0280,Hewlett Packard Enterprise,Semiconductors & Hardware,"Houston, United States",https://www.hpe.com/,homepage,unknown,,unverified,Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.hpe.com/ (browser),2026-10-25,includes Juniper Networks (acquired 2025)
+C0281,Arista Networks,Semiconductors & Hardware,"Santa Clara, United States",https://www.arista.com/,homepage,unknown,,verified,HTTP 200 → https://www.arista.com/en/,2026-10-25,
+C0282,NetApp,Semiconductors & Hardware,"San Jose, United States",https://www.netapp.com/,homepage,unknown,,unverified,"CAPTCHA / anti-bot page detected (skipped, not bypassed) (browser)",2026-10-25,storage
+C0283,Pure Storage,Semiconductors & Hardware,"Santa Clara, United States",https://www.purestorage.com/,homepage,unknown,,verified,HTTP 200 → https://www.everpuredata.com/,2026-10-25,storage
+C0284,AMD India,Semiconductors & Hardware,"Santa Clara, United States",https://careers.amd.com/,careers_page,unknown,,verified,HTTP 200 → https://careers.amd.com/careers-home/jobs,2026-10-25,
+C0285,Micron Technology,Semiconductors & Hardware,"Boise, United States",https://www.micron.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0286,Analog Devices,Semiconductors & Hardware,"Wilmington, United States",https://www.analog.com/,homepage,workday,,unverified,HTTP 403: access restricted (not bypassed) (browser),2026-10-25,
+C0287,NXP Semiconductors,Semiconductors & Hardware,"Eindhoven, Netherlands",https://www.nxp.com/,homepage,workday,,verified,HTTP 200 (browser),2026-10-25,
+C0288,Infineon Technologies,Semiconductors & Hardware,"Neubiberg, Germany",https://www.infineon.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0289,STMicroelectronics,Semiconductors & Hardware,"Geneva, Switzerland",https://www.st.com/,homepage,unknown,,unverified,Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.st.com/ (browser),2026-10-25,
+C0290,Renesas Electronics,Semiconductors & Hardware,"Tokyo, Japan",https://www.renesas.com/,homepage,unknown,,verified,HTTP 200 → https://www.renesas.com/en,2026-10-25,
+C0291,Microchip Technology,Semiconductors & Hardware,"Chandler, United States",https://www.microchip.com/,homepage,unknown,,unverified,"CAPTCHA / anti-bot page detected (skipped, not bypassed) (browser)",2026-10-25,
+C0292,Marvell Technology,Semiconductors & Hardware,"Wilmington, United States",https://www.marvell.com/,homepage,unknown,,verified,HTTP 200 (browser),2026-10-25,
+C0293,MediaTek,Semiconductors & Hardware,"Hsinchu, Taiwan",https://www.mediatek.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0294,Arm,Semiconductors & Hardware,"Cambridge, United Kingdom",https://www.arm.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0295,Synopsys,Semiconductors & Hardware,"Sunnyvale, United States",https://careers.synopsys.com/,careers_page,unknown,,verified,HTTP 200,2026-10-25,EDA; Ansys acquired 2025
+C0296,Cadence Design Systems,Semiconductors & Hardware,"San Jose, United States",https://www.cadence.com/,homepage,workday,,verified,HTTP 200 → https://www.cadence.com/en_US/home.html,2026-10-25,EDA
+C0297,Keysight Technologies,Semiconductors & Hardware,"Santa Rosa, United States",https://www.keysight.com/,homepage,unknown,,verified,HTTP 200 (browser),2026-10-25,
+C0298,Applied Materials,Semiconductors & Hardware,"Santa Clara, United States",https://www.appliedmaterials.com/,homepage,unknown,,unverified,HTTP 403: access restricted (not bypassed) (browser),2026-10-25,
+C0299,Lam Research,Semiconductors & Hardware,"Fremont, United States",https://www.lamresearch.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0300,KLA,Semiconductors & Hardware,"Milpitas, United States",https://www.kla.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0301,Western Digital,Semiconductors & Hardware,"San Jose, United States",https://www.westerndigital.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0302,Sandisk,Semiconductors & Hardware,"Milpitas, United States",https://www.sandisk.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,spun off from Western Digital 2025
+C0303,onsemi,Semiconductors & Hardware,"Scottsdale, United States",https://www.onsemi.com/,homepage,unknown,,verified,HTTP 200 (browser),2026-10-25,
+C0304,Tessolve,Semiconductors & Hardware,"Bengaluru, India",https://www.tessolve.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0305,Mirafra Technologies,Semiconductors & Hardware,"Bengaluru, India",https://mirafra.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0306,eInfochips,Semiconductors & Hardware,,https://www.einfochips.com/,homepage,unknown,,unverified,HTTP 403: access restricted (not bypassed) (browser),2026-10-25,Arrow Electronics company
+C0307,Tata Electronics,Semiconductors & Hardware,,https://www.tataelectronics.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,semiconductor fab and electronics manufacturing
+C0308,Dixon Technologies,Semiconductors & Hardware,"Noida, India",https://www.dixoninfo.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,electronics manufacturing
+C0309,Tata Communications,Telecom,"Mumbai, India",https://www.tatacommunications.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,seed; previous careers URL https://www.tatacommunications.com/careers/ returned HTTP 404 on 2026-10-25
+C0310,Bharti Airtel,Telecom,"New Delhi, India",https://www.airtel.in/,homepage,unknown,,verified,HTTP 200,2026-10-25,seed
+C0311,Reliance Jio,Telecom,"Navi Mumbai, India",https://careers.jio.com/,careers_page,unknown,,verified,HTTP 200,2026-10-25,seed; Jio Platforms
+C0312,Vodafone Idea,Telecom,"Mumbai, India",https://www.myvi.in/,homepage,unknown,,verified,HTTP 200,2026-10-25,seed
+C0313,Ericsson,Telecom,"Stockholm, Sweden",https://www.ericsson.com/,homepage,unknown,,verified,HTTP 200 → https://www.ericsson.com/en,2026-10-25,
+C0314,Nokia,Telecom,"Espoo, Finland",https://www.nokia.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0315,Ciena,Telecom,"Hanover, United States",https://www.ciena.com/,homepage,unknown,,verified,HTTP 200 (browser),2026-10-25,
+C0316,Mavenir,Telecom,"Richardson, United States",https://www.mavenir.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0317,Motorola Solutions,Telecom,"Chicago, United States",https://www.motorolasolutions.com/,homepage,unknown,,verified,HTTP 200 → https://www.motorolasolutions.com/en_xp.html?geo=redirect,2026-10-25,
+C0318,Tejas Networks,Telecom,"Bengaluru, India",https://www.tejasnetworks.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,Tata Group company
+C0319,STL (Sterlite Technologies),Telecom,,https://stl.tech/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0320,Vodafone Intelligent Solutions (VOIS),Telecom,"Newbury, United Kingdom",https://www.vodafone.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,Vodafone Group shared services; Pune hub
+C0321,Sify Technologies,Telecom,"Chennai, India",https://www.sifytechnologies.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0322,BYJU'S,Edtech,"Bengaluru, India",https://byjus.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,seed; Think & Learn under insolvency proceedings - limited hiring
+C0323,Unacademy,Edtech,"Bengaluru, India",https://unacademy.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,seed
+C0324,upGrad,Edtech,"Mumbai, India",https://www.upgrad.com/careers/,careers_page,unknown,,verified,HTTP 200,2026-10-25,seed
+C0325,PhysicsWallah,Edtech,"Noida, India",https://www.pw.live/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0326,Vedantu,Edtech,"Bengaluru, India",https://www.vedantu.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0327,Simplilearn,Edtech,"Bengaluru, India",https://www.simplilearn.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0328,Great Learning,Edtech,,https://www.mygreatlearning.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0329,Scaler,Edtech,"Bengaluru, India",https://www.scaler.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,InterviewBit
+C0330,Eruditus,Edtech,"Mumbai, India",https://www.eruditus.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,Emeritus brand
+C0331,Testbook,Edtech,"Navi Mumbai, India",https://testbook.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0332,Adda247,Edtech,"Gurugram, India",https://www.adda247.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0333,Masai School,Edtech,"Bengaluru, India",https://www.masaischool.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0334,Newton School,Edtech,"Bengaluru, India",https://www.newtonschool.co/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0335,Allen Career Institute,Edtech,"Kota, India",https://allen.in/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0336,NIIT,Edtech,"Gurugram, India",https://www.niit.com/,homepage,unknown,,verified,HTTP 200 → https://www.niit.ai/india,2026-10-25,
+C0337,Sun Pharmaceutical Industries,Healthtech & Pharma,"Mumbai, India",https://sunpharma.com/,homepage,unknown,,unverified,HTTP 403: access restricted (not bypassed) (browser),2026-10-25,
+C0338,Dr. Reddy's Laboratories,Healthtech & Pharma,"Hyderabad, India",https://www.drreddys.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0339,Cipla,Healthtech & Pharma,"Mumbai, India",https://www.cipla.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0340,Lupin,Healthtech & Pharma,"Mumbai, India",https://www.lupin.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0341,Aurobindo Pharma,Healthtech & Pharma,"Hyderabad, India",https://www.aurobindo.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0342,Zydus Lifesciences,Healthtech & Pharma,"Ahmedabad, India",https://www.zyduslife.com/,homepage,unknown,,verified,HTTP 200 (browser),2026-10-25,
+C0343,Biocon,Healthtech & Pharma,"Bengaluru, India",https://www.biocon.com/,homepage,unknown,,verified,HTTP 200 (browser),2026-10-25,
+C0344,Serum Institute of India,Healthtech & Pharma,"Pune, India",https://www.seruminstitute.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0345,Syngene International,Healthtech & Pharma,"Bengaluru, India",https://www.syngeneintl.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0346,Novartis,Healthtech & Pharma,"Basel, Switzerland",https://www.novartis.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,Hyderabad hub
+C0347,AstraZeneca India,Healthtech & Pharma,"Cambridge, United Kingdom",https://www.astrazeneca.com/,homepage,unknown,,verified,HTTP 200 (browser),2026-10-25,
+C0348,Novo Nordisk,Healthtech & Pharma,"Bagsvaerd, Denmark",https://www.novonordisk.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0349,Eli Lilly,Healthtech & Pharma,"Indianapolis, United States",https://www.lilly.com/,homepage,unknown,,verified,HTTP 200 (browser),2026-10-25,
+C0350,MSD (Merck & Co.),Healthtech & Pharma,"Rahway, United States",https://www.merck.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0351,Amgen India,Healthtech & Pharma,"Thousand Oaks, United States",https://www.amgen.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0352,Siemens Healthineers,Healthtech & Pharma,"Erlangen, Germany",https://www.siemens-healthineers.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0353,GE HealthCare,Healthtech & Pharma,"Chicago, United States",https://www.gehealthcare.com/,homepage,unknown,,verified,HTTP 200 → https://www.gehealthcare.com/en-us,2026-10-25,
+C0354,Philips India,Healthtech & Pharma,"Amsterdam, Netherlands",https://www.philips.com/,homepage,unknown,,verified,HTTP 200 → https://www.philips.co.in/,2026-10-25,Philips Innovation Campus Bengaluru
+C0355,Medtronic,Healthtech & Pharma,"Dublin, Ireland",https://www.medtronic.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0356,IQVIA,Healthtech & Pharma,"Durham, United States",https://www.iqvia.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0357,Optum,Healthtech & Pharma,"Eden Prairie, United States",https://www.optum.com/,homepage,unknown,,verified,HTTP 200 → https://www.optum.com/en/,2026-10-25,UnitedHealth Group
+C0358,The Cigna Group,Healthtech & Pharma,"Bloomfield, United States",https://www.thecignagroup.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,Evernorth India
+C0359,Carelon Global Solutions,Healthtech & Pharma,"Indianapolis, United States",https://www.carelon.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,Elevance Health
+C0360,CitiusTech,Healthtech & Pharma,"Mumbai, India",https://www.citiustech.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,healthcare IT services
+C0361,Innovaccer,Healthtech & Pharma,"San Francisco, United States",https://innovaccer.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0362,Qure.ai,Healthtech & Pharma,"Mumbai, India",https://www.qure.ai/,homepage,unknown,,verified,HTTP 200,2026-10-25,medical imaging AI
+C0363,Practo,Healthtech & Pharma,"Bengaluru, India",https://www.practo.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0364,PharmEasy,Healthtech & Pharma,"Mumbai, India",https://pharmeasy.in/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0365,Tata 1mg,Healthtech & Pharma,"Gurugram, India",https://www.1mg.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0366,HealthifyMe,Healthtech & Pharma,"Bengaluru, India",https://www.healthifyme.com/,homepage,unknown,,verified,HTTP 200 → https://www.healthifyme.com/in/,2026-10-25,
+C0367,Cult.fit,Healthtech & Pharma,"Bengaluru, India",https://www.cult.fit/,homepage,unknown,,verified,HTTP 200,2026-10-25,Curefit
+C0368,Tata Motors,Automotive & Mobility,"Mumbai, India",https://www.tatamotors.com/careers/,careers_page,unknown,,verified,HTTP 200,2026-10-25,seed; PV and CV businesses demerged 2025
+C0369,Maruti Suzuki India,Automotive & Mobility,"New Delhi, India",https://www.marutisuzuki.com/corporate/careers,careers_page,unknown,,verified,HTTP 200,2026-10-25,seed
+C0370,Mahindra & Mahindra,Automotive & Mobility,"Mumbai, India",https://www.mahindra.com/careers,careers_page,unknown,,verified,HTTP 200 → https://www.mahindra.com/career,2026-10-25,seed; merged duplicate: Mahindra Group (same URL)
+C0371,Hero MotoCorp,Automotive & Mobility,"New Delhi, India",https://www.heromotocorp.com/,homepage,unknown,,verified,HTTP 200 → https://www.heromotocorp.com/en-in.html,2026-10-25,seed
+C0372,Ola,Automotive & Mobility,"Bengaluru, India",https://www.olacabs.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,seed; ANI Technologies
+C0373,Uber India,Automotive & Mobility,"San Francisco, United States",https://www.uber.com/,homepage,unknown,,verified,HTTP 200 → https://www.uber.com/in/en/,2026-10-25,seed; previous careers URL https://www.uber.com/us/en/careers/ returned HTTP 404 on 2026-10-25
+C0374,Ola Electric,Automotive & Mobility,"Bengaluru, India",https://www.olaelectric.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0375,Ather Energy,Automotive & Mobility,"Bengaluru, India",https://www.atherenergy.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0376,Rapido,Automotive & Mobility,"Bengaluru, India",https://www.rapido.bike/,homepage,unknown,,verified,HTTP 200 → https://www.rapido.bike/Home,2026-10-25,
+C0377,Bajaj Auto,Automotive & Mobility,"Pune, India",https://www.bajajauto.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0378,TVS Motor Company,Automotive & Mobility,"Chennai, India",https://www.tvsmotor.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0379,Ashok Leyland,Automotive & Mobility,"Chennai, India",https://www.ashokleyland.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0380,Hyundai Motor India,Automotive & Mobility,"Seoul, South Korea",https://www.hyundai.com/in/en,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0381,Toyota Kirloskar Motor,Automotive & Mobility,"Bengaluru, India",https://www.toyotabharat.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0382,Cummins India,Automotive & Mobility,"Columbus, United States",https://www.cummins.com/,homepage,unknown,,verified,HTTP 200 → https://www.cummins.com/en-in,2026-10-25,
+C0383,Volvo Group India,Automotive & Mobility,"Gothenburg, Sweden",https://www.volvogroup.com/,homepage,unknown,,verified,HTTP 200 → https://www.volvogroup.com/en/,2026-10-25,
+C0384,Mercedes-Benz Research and Development India,Automotive & Mobility,"Stuttgart, Germany",https://www.mbrdi.co.in/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0385,Continental,Automotive & Mobility,"Hanover, Germany",https://www.continental.com/,homepage,unknown,,verified,HTTP 200 → https://www.continental.com/en/,2026-10-25,
+C0386,ZF Group,Automotive & Mobility,"Friedrichshafen, Germany",https://www.zf.com/,homepage,unknown,,verified,HTTP 200 → https://www.zf.com/mobile/en/homepage/homepage.html,2026-10-25,
+C0387,Valeo,Automotive & Mobility,"Paris, France",https://www.valeo.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0388,Harman International,Automotive & Mobility,"Stamford, United States",https://www.harman.com/,homepage,unknown,,verified,HTTP 200 (browser),2026-10-25,Samsung subsidiary
+C0389,Ford Motor Company,Automotive & Mobility,"Dearborn, United States",https://www.ford.com/,homepage,unknown,,unverified,HTTP 403: access restricted (not bypassed) (browser),2026-10-25,Ford Business Solutions Chennai
+C0390,General Motors,Automotive & Mobility,"Detroit, United States",https://www.gm.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,GM Technical Centre India
+C0391,Larsen & Toubro,Manufacturing & Engineering,"Mumbai, India",https://www.larsentoubro.com/corporate/careers/,careers_page,unknown,,verified,HTTP 200,2026-10-25,seed
+C0392,Bosch India,Manufacturing & Engineering,"Gerlingen, Germany",https://www.bosch.in/careers/,careers_page,smartrecruiters,,verified,HTTP 200,2026-10-25,seed
+C0393,Siemens India,Manufacturing & Engineering,"Munich, Germany",https://jobs.siemens.com/,careers_page,unknown,,verified,HTTP 200 → https://jobs.siemens.com/en_US/externaljobs,2026-10-25,seed (seed regional jobs URL replaced with global jobs portal)
+C0394,Honeywell,Manufacturing & Engineering,"Charlotte, United States",https://www.honeywell.com/,homepage,unknown,,verified,HTTP 200 → https://www.honeywell.com/us/en,2026-10-25,
+C0395,ABB India,Manufacturing & Engineering,"Zurich, Switzerland",https://www.abb.com/,homepage,unknown,,verified,HTTP 200 → https://www.abb.com/global/en,2026-10-25,
+C0396,Schneider Electric India,Manufacturing & Engineering,"Rueil-Malmaison, France",https://www.se.com/,homepage,unknown,,verified,HTTP 200 → https://www.se.com/ww/en/,2026-10-25,
+C0397,Emerson,Manufacturing & Engineering,"St. Louis, United States",https://www.emerson.com/,homepage,unknown,,verified,HTTP 200 → https://www.emerson.com/en/corporate,2026-10-25,
+C0398,Rockwell Automation,Manufacturing & Engineering,"Milwaukee, United States",https://www.rockwellautomation.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0399,Eaton,Manufacturing & Engineering,"Dublin, Ireland",https://www.eaton.com/,homepage,unknown,,unverified,Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.eaton.com/ (browser),2026-10-25,
+C0400,Johnson Controls,Manufacturing & Engineering,"Cork, Ireland",https://www.johnsoncontrols.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0401,Caterpillar,Manufacturing & Engineering,"Irving, United States",https://www.caterpillar.com/,homepage,unknown,,unverified,Page.goto: Timeout 25000ms exceeded. (browser),2026-10-25,
+C0402,John Deere,Manufacturing & Engineering,"Moline, United States",https://www.deere.com/,homepage,unknown,,verified,HTTP 200 → https://www.deere.com/en-us/,2026-10-25,
+C0403,Alstom,Manufacturing & Engineering,"Saint-Ouen-sur-Seine, France",https://www.alstom.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,rail
+C0404,Tata Steel,Manufacturing & Engineering,"Mumbai, India",https://www.tatasteel.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0405,JSW Steel,Manufacturing & Engineering,"Mumbai, India",https://www.jswsteel.in/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0406,Hindalco Industries,Manufacturing & Engineering,"Mumbai, India",https://www.hindalco.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,Aditya Birla Group
+C0407,UltraTech Cement,Manufacturing & Engineering,"Mumbai, India",https://www.ultratechcement.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,Aditya Birla Group
+C0408,Vedanta,Manufacturing & Engineering,"Mumbai, India",https://www.vedantalimited.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0409,Havells India,Manufacturing & Engineering,"Noida, India",https://www.havells.com/,homepage,unknown,,verified,HTTP 200 → https://havells.com/,2026-10-25,
+C0410,Bharat Forge,Manufacturing & Engineering,"Pune, India",https://www.bharatforge.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0411,Zetwerk,Manufacturing & Engineering,"Bengaluru, India",https://www.zetwerk.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0412,Tata Projects,Manufacturing & Engineering,"Hyderabad, India",https://www.tataprojects.com/,homepage,unknown,,verified,HTTP 200 → https://tataprojects.com/,2026-10-25,
+C0413,Boeing India,Aerospace & Defence,"Arlington, United States",https://www.boeing.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0414,Airbus India,Aerospace & Defence,"Toulouse, France",https://www.airbus.com/,homepage,unknown,,verified,HTTP 200 → https://www.airbus.com/en,2026-10-25,
+C0415,Rolls-Royce India,Aerospace & Defence,"London, United Kingdom",https://www.rolls-royce.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0416,Safran India,Aerospace & Defence,"Paris, France",https://www.safran-group.com/,homepage,unknown,,verified,HTTP 200 (browser),2026-10-25,
+C0417,RTX,Aerospace & Defence,"Arlington, United States",https://www.rtx.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,Collins Aerospace and Pratt & Whitney India
+C0418,GE Aerospace,Aerospace & Defence,"Evendale, United States",https://www.geaerospace.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0419,Tata Advanced Systems,Aerospace & Defence,,https://www.tataadvancedsystems.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0420,Skyroot Aerospace,Aerospace & Defence,"Hyderabad, India",https://skyroot.in/,homepage,unknown,,verified,HTTP 200 → https://www.skyroot.in/,2026-10-25,
+C0421,Pixxel,Aerospace & Defence,"Bengaluru, India",https://www.pixxel.space/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0422,Tata Power,Energy & Utilities,"Mumbai, India",https://www.tatapower.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0423,ReNew,Energy & Utilities,"Gurugram, India",https://www.renew.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0424,Suzlon Energy,Energy & Utilities,"Pune, India",https://www.suzlon.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0425,Shell India,Energy & Utilities,"London, United Kingdom",https://www.shell.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0426,bp India,Energy & Utilities,"London, United Kingdom",https://www.bp.com/,homepage,unknown,,unverified,HTTP 403: access restricted (not bypassed) (browser),2026-10-25,
+C0427,Chevron,Energy & Utilities,"Houston, United States",https://www.chevron.com/,homepage,unknown,,unverified,HTTP 403: access restricted (not bypassed) (browser),2026-10-25,Chevron ENGINE Bengaluru
+C0428,ExxonMobil,Energy & Utilities,"Spring, United States",https://corporate.exxonmobil.com/,homepage,unknown,,unverified,HTTP 403: access restricted (not bypassed) (browser),2026-10-25,
+C0429,SLB,Energy & Utilities,"Houston, United States",https://www.slb.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,formerly Schlumberger
+C0430,Baker Hughes,Energy & Utilities,"Houston, United States",https://www.bakerhughes.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0431,Siemens Energy,Energy & Utilities,"Munich, Germany",https://www.siemens-energy.com/,homepage,unknown,,verified,HTTP 200 → https://www.siemens-energy.com/global/en/home.html,2026-10-25,
+C0432,GE Vernova,Energy & Utilities,"Cambridge, United States",https://www.gevernova.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0433,Walmart Global Tech India,FMCG & Retail,"Bentonville, United States",https://careers.walmart.com/,careers_page,workday,,verified,HTTP 200 → https://careers.walmart.com/us/en/home,2026-10-25,
+C0434,Target India,FMCG & Retail,"Minneapolis, United States",https://corporate.target.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0435,Lowe's India,FMCG & Retail,"Mooresville, United States",https://corporate.lowes.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0436,Tesco Business Services,FMCG & Retail,"Welwyn Garden City, United Kingdom",https://www.tescoplc.com/,homepage,unknown,,verified,HTTP 200 (browser),2026-10-25,
+C0437,Avenue Supermarts (DMart),FMCG & Retail,"Mumbai, India",https://www.dmartindia.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0438,Titan Company,FMCG & Retail,"Bengaluru, India",https://www.titancompany.in/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0439,Hindustan Unilever,FMCG & Retail,"Mumbai, India",https://www.hul.co.in/,homepage,unknown,,unverified,HTTP 403: access restricted (not bypassed) (browser),2026-10-25,
+C0440,Nestle India,FMCG & Retail,"Vevey, Switzerland",https://www.nestle.in/,homepage,unknown,,unverified,HTTP 403: access restricted (not bypassed) (browser),2026-10-25,
+C0441,Procter & Gamble India,FMCG & Retail,"Cincinnati, United States",https://www.pgcareers.com/,careers_page,unknown,,verified,HTTP 200 → https://www.pgcareers.com/in/en,2026-10-25,
+C0442,Dabur India,FMCG & Retail,"Ghaziabad, India",https://www.dabur.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0443,Marico,FMCG & Retail,"Mumbai, India",https://marico.com/,homepage,unknown,,verified,HTTP 200 → https://marico.com/global,2026-10-25,
+C0444,Godrej Consumer Products,FMCG & Retail,"Mumbai, India",https://www.godrejcp.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0445,Britannia Industries,FMCG & Retail,"Kolkata, India",https://britannia.co.in/,homepage,unknown,,verified,HTTP 200 → https://www.britannia.co.in/,2026-10-25,
+C0446,Tata Consumer Products,FMCG & Retail,"Mumbai, India",https://www.tataconsumer.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0447,PepsiCo India,FMCG & Retail,"Purchase, United States",https://www.pepsico.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0448,Mondelez India,FMCG & Retail,"Chicago, United States",https://www.mondelezinternational.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0449,Asian Paints,FMCG & Retail,"Mumbai, India",https://www.asianpaints.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0450,Pidilite Industries,FMCG & Retail,"Mumbai, India",https://www.pidilite.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0451,Delhivery,Logistics & Supply Chain,"Gurugram, India",https://www.delhivery.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0452,Shadowfax,Logistics & Supply Chain,"Bengaluru, India",https://www.shadowfax.in/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0453,Blue Dart Express,Logistics & Supply Chain,"Mumbai, India",https://www.bluedart.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,DHL Group company
+C0454,BlackBuck,Logistics & Supply Chain,"Bengaluru, India",https://blackbuck.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,Zinka Logistics Solutions
+C0455,Porter,Logistics & Supply Chain,"Bengaluru, India",https://porter.in/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0456,Xpressbees,Logistics & Supply Chain,"Pune, India",https://www.xpressbees.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0457,Shiprocket,Logistics & Supply Chain,"New Delhi, India",https://www.shiprocket.in/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0458,Locus,Logistics & Supply Chain,"Bengaluru, India",https://locus.sh/,homepage,unknown,,verified,HTTP 200,2026-10-25,route optimisation SaaS
+C0459,DHL Group,Logistics & Supply Chain,"Bonn, Germany",https://group.dhl.com/,homepage,unknown,,unverified,Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://group.dhl.com/ (browser),2026-10-25,
+C0460,Maersk,Logistics & Supply Chain,"Copenhagen, Denmark",https://www.maersk.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0461,FedEx,Logistics & Supply Chain,"Memphis, United States",https://www.fedex.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0462,Mahindra Logistics,Logistics & Supply Chain,"Mumbai, India",https://mahindralogistics.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0463,Dream11 (Dream Sports),Media & Gaming,"Mumbai, India",https://www.dreamsports.group/,homepage,unknown,,verified,HTTP 200,2026-10-25,seed name Dream11; business affected by 2025 online gaming law - verify hiring
+C0464,Games24x7,Media & Gaming,"Mumbai, India",https://www.games24x7.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,seed; business affected by 2025 online gaming law - verify hiring
+C0465,Nazara Technologies,Media & Gaming,"Mumbai, India",https://www.nazara.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,seed
+C0466,Electronic Arts India,Media & Gaming,"Redwood City, United States",https://www.ea.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,Hyderabad studio
+C0467,Ubisoft India,Media & Gaming,"Saint-Mande, France",https://www.ubisoft.com/,homepage,unknown,,verified,HTTP 200 → https://www.ubisoft.com/en-gb,2026-10-25,
+C0468,Rockstar Games India,Media & Gaming,"New York, United States",https://www.rockstargames.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,Take-Two subsidiary
+C0469,JioStar,Media & Gaming,"Mumbai, India",https://www.jiostar.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,Viacom18 + Star India merger (2024)
+C0470,Zee Entertainment Enterprises,Media & Gaming,"Mumbai, India",https://www.zee.com/,homepage,unknown,,unverified,"CAPTCHA / anti-bot page detected (skipped, not bypassed) (browser)",2026-10-25,
+C0471,Times Internet,Media & Gaming,"Noida, India",https://timesinternet.in/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0472,ShareChat,Media & Gaming,"Bengaluru, India",https://sharechat.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,Mohalla Tech
+C0473,Dailyhunt,Media & Gaming,"Bengaluru, India",https://www.dailyhunt.in/,homepage,unknown,,verified,HTTP 200 → https://m.dailyhunt.in/news/india/english/for+you?launch=true&mode=pwa,2026-10-25,VerSe Innovation
+C0474,Pocket FM,Media & Gaming,"Bengaluru, India",https://www.pocketfm.com/,homepage,unknown,,verified,HTTP 200 → https://pocketfm.com/,2026-10-25,
+C0475,Reliance Industries,Conglomerate,"Mumbai, India",https://www.ril.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,seed
+C0476,Tata Group,Conglomerate,"Mumbai, India",https://www.tata.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,seed; Tata Sons holding
+C0477,Aditya Birla Group,Conglomerate,"Mumbai, India",https://careers.adityabirla.com/,careers_page,unknown,,verified,HTTP 200,2026-10-25,seed
+C0478,Adani Group,Conglomerate,"Ahmedabad, India",https://www.adani.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0479,ITC Limited,Conglomerate,"Kolkata, India",https://www.itcportal.com/,homepage,unknown,,verified,HTTP 200 → https://itcportal.com/,2026-10-25,
+C0480,Murugappa Group,Conglomerate,"Chennai, India",https://www.murugappa.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0481,Indian Space Research Organisation,Government & PSU,"Bengaluru, India",https://www.isro.gov.in/Careers.html,careers_page,unknown,,verified,HTTP 200,2026-10-25,seed
+C0482,Defence Research and Development Organisation,Government & PSU,"New Delhi, India",https://www.drdo.gov.in/,homepage,unknown,,unverified,Page.goto: Timeout 25000ms exceeded. (browser),2026-10-25,seed
+C0483,Bharat Electronics,Government & PSU,"Bengaluru, India",https://bel-india.in/,homepage,unknown,,verified,HTTP 200 (browser),2026-10-25,seed; defence PSU
+C0484,Hindustan Aeronautics,Government & PSU,"Bengaluru, India",https://hal-india.co.in/,homepage,unknown,,verified,HTTP 200,2026-10-25,seed; defence PSU
+C0485,Oil and Natural Gas Corporation,Government & PSU,"New Delhi, India",https://ongcindia.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,seed
+C0486,Bharat Petroleum,Government & PSU,"Mumbai, India",https://www.bharatpetroleum.in/,homepage,unknown,,verified,HTTP 200 → https://www.bharatpetroleum.in/index,2026-10-25,seed
+C0487,Indian Oil Corporation,Government & PSU,"New Delhi, India",https://iocl.com/,homepage,unknown,,verified,HTTP 307 (browser),2026-10-25,seed
+C0488,NTPC,Government & PSU,"New Delhi, India",https://www.ntpc.co.in/,homepage,unknown,,verified,HTTP 200 → https://ntpc.co.in/,2026-10-25,seed name National Thermal Power Corporation
+C0489,Hindustan Petroleum,Government & PSU,"Mumbai, India",https://www.hindustanpetroleum.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0490,BHEL,Government & PSU,"New Delhi, India",https://www.bhel.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,Bharat Heavy Electricals
+C0491,GAIL (India),Government & PSU,"New Delhi, India",https://gailonline.com/,homepage,unknown,,verified,HTTP 200 → https://www.gailonline.com/,2026-10-25,
+C0492,Power Grid Corporation of India,Government & PSU,"Gurugram, India",https://www.powergrid.in/,homepage,unknown,,verified,HTTP 200 (browser),2026-10-25,
+C0493,Coal India,Government & PSU,"Kolkata, India",https://www.coalindia.in/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0494,Steel Authority of India,Government & PSU,"New Delhi, India",https://www.sail.co.in/,homepage,unknown,,verified,HTTP 200 (browser),2026-10-25,SAIL
+C0495,NHPC,Government & PSU,"Faridabad, India",https://www.nhpcindia.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0496,Oil India,Government & PSU,"Duliajan, India",https://www.oil-india.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0497,Engineers India Limited,Government & PSU,"New Delhi, India",https://engineersindia.com/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0498,Bhabha Atomic Research Centre,Government & PSU,"Mumbai, India",https://www.barc.gov.in/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0499,Nuclear Power Corporation of India,Government & PSU,"Mumbai, India",https://www.npcil.nic.in/,homepage,unknown,,verified,HTTP 200 → https://www.npcil.nic.in/Content/Hindi/index.aspx,2026-10-25,
+C0500,C-DAC,Government & PSU,"Pune, India",https://www.cdac.in/,homepage,unknown,,verified,HTTP 200,2026-10-25,Centre for Development of Advanced Computing
+C0501,C-DOT,Government & PSU,"New Delhi, India",https://www.cdot.in/,homepage,unknown,,verified,HTTP 200 → https://www.cdot.in/cdotweb/web/home.php,2026-10-25,Centre for Development of Telematics
+C0502,National Informatics Centre,Government & PSU,"New Delhi, India",https://www.nic.in/,homepage,unknown,,verified,HTTP 200 → https://www.nic.gov.in/,2026-10-25,
+C0503,CSIR,Government & PSU,"New Delhi, India",https://www.csir.res.in/,homepage,unknown,,verified,HTTP 200 → https://www.csir.res.in/hi,2026-10-25,Council of Scientific and Industrial Research
+C0504,BSNL,Government & PSU,"New Delhi, India",https://www.bsnl.co.in/,homepage,unknown,,verified,HTTP 200 → https://bsnl.co.in/,2026-10-25,telecom PSU
+C0505,RailTel Corporation of India,Government & PSU,"New Delhi, India",https://www.railtelindia.com/,homepage,unknown,,verified,HTTP 200 → https://www.railtel.in/hi/,2026-10-25,
+C0506,Mazagon Dock Shipbuilders,Government & PSU,"Mumbai, India",https://mazagondock.in/,homepage,unknown,,verified,HTTP 200,2026-10-25,defence PSU
+C0507,Bharat Dynamics,Government & PSU,"Hyderabad, India",https://bdl-india.in/,homepage,unknown,,unverified,Page.goto: Timeout 25000ms exceeded. (browser),2026-10-25,defence PSU
+C0508,Electronics Corporation of India,Government & PSU,"Hyderabad, India",https://www.ecil.co.in/,homepage,unknown,,verified,HTTP 200,2026-10-25,ECIL
+C0509,Airports Authority of India,Government & PSU,"New Delhi, India",https://www.aai.aero/,homepage,unknown,,verified,HTTP 200,2026-10-25,
+C0510,Reserve Bank of India,Government & PSU,"Mumbai, India",https://www.rbi.org.in/,homepage,unknown,,verified,HTTP 200,2026-10-25,regulator; Grade B officer recruitment
+C0511,SEBI,Government & PSU,"Mumbai, India",https://www.sebi.gov.in/,homepage,unknown,,verified,HTTP 200,2026-10-25,regulator
+C0512,NABARD,Government & PSU,"Mumbai, India",https://www.nabard.org/,homepage,unknown,,verified,HTTP 200 → https://www.nabard.org/Hindi/Default.aspx,2026-10-25,
+C0513,HackerRank,Software Product,"Mountain View, USA",https://www.hackerrank.com/,homepage,greenhouse,hackerrank,verified,HTTP 200,2026-10-25,added for public job-board adapter; public greenhouse board 'hackerrank' responded with 30 listings on 2026-10-25
+C0514,Stripe,Fintech,"San Francisco, USA",https://stripe.com/,homepage,greenhouse,stripe,verified,HTTP 200 → https://stripe.com/in,2026-10-25,added for public job-board adapter; public greenhouse board 'stripe' responded with 719 listings on 2026-10-25
+C0515,Coinbase,Fintech,,https://www.coinbase.com/,homepage,greenhouse,coinbase,verified,HTTP 200 → https://www.coinbase.com/en-in,2026-10-25,added for public job-board adapter; public greenhouse board 'coinbase' responded with 227 listings on 2026-10-25
+C0516,GitLab,Software Product,,https://about.gitlab.com/,homepage,greenhouse,gitlab,verified,HTTP 200,2026-10-25,added for public job-board adapter; public greenhouse board 'gitlab' responded with 239 listings on 2026-10-25
+C0517,Pinterest,Internet & E-commerce,"San Francisco, USA",https://www.pinterest.com/,homepage,greenhouse,pinterest,verified,HTTP 200,2026-10-25,added for public job-board adapter; public greenhouse board 'pinterest' responded with 163 listings on 2026-10-25
+C0518,FamPay,Fintech,"Bengaluru, India",https://fampay.in/,homepage,lever,fampay,verified,HTTP 200 → https://www.famapp.in:443/,2026-10-25,added for public job-board adapter; public lever board 'fampay' responded with 18 listings on 2026-10-25

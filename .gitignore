@@ -1,0 +1,41 @@
+# Python environments
+.venv/
+venv/
+env/
+.venv_*/
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# macOS and editors
+.DS_Store
+.vscode/
+
+# Test and log files
+.pytest_cache/
+.coverage
+*.log
+nohup.out
+
+# Local databases and crawl state
+database/*.db
+database/*.sqlite
+database/*.sqlite3
+database/crawl_status.json
+
+# Generated exports
+exports/*
+!exports/.gitkeep
+
+# Generated reports and test artifacts
+playwright-report/
+test-results/
+
+# Personal college reports
+/docs/project_report.docx
+/docs/project_report.pdf

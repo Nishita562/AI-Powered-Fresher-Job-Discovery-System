@@ -1,0 +1,2356 @@
+job_id,title,company,location,work_mode,experience_text,min_experience_years,max_experience_years,employment_type,description,skills,eligibility,salary,deadline,apply_url,source,source_type,data_mode,category,is_fresher_friendly,discovered_at
+672eff9e4a14db70,AI/ML Intern,Arcadia Data Labs,"Kolkata, West Bengal",On-site,Freshers,0.0,1.0,Internship,"About Arcadia Data Labs: Arcadia Data Labs is an analytics consultancy helping retailers make data-driven decisions.
+Join our applied-ML team to prototype models that solve real business problems.
+
+What you will do:
+• Clean and explore datasets with pandas and NumPy
+• Present findings to product teams
+• Help deploy models behind simple REST APIs
+• Monitor model quality after release
+
+What we are looking for:
+• Skills: python, machine learning, scikit-learn, pandas, numpy, sql, linux, agile
+• Freshers and final-year students are welcome; no prior work experience required.
+• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).
+
+Employment type: 6-month internship.
+Location: Kolkata, West Bengal.
+Work mode: on-site, five days a week from our office.
+Stipend: ₹25,000 per month.","agile, linux, machine learning, numpy, pandas, python, rest api, scikit-learn, sql","• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).","₹25,000 per month",,https://example.com/sample-jobs/arcadia-data-labs/ai-ml-intern-001,Sample dataset (fictional),sample,sample,Data Science & AI,True,2026-10-17T09:00:00+00:00
+d13963cca230a9b5,Machine Learning Engineer Intern,Helixon Robotics,"Mumbai, Maharashtra",Unknown,Freshers,0.0,1.0,Internship,"About Helixon Robotics: Helixon Robotics is a robotics company building warehouse automation systems.
+Join our applied-ML team to prototype models that solve real business problems.
+
+What you will do:
+• Help deploy models behind simple REST APIs
+• Present findings to product teams
+• Write reproducible experiments and document results
+• Clean and explore datasets with pandas and NumPy
+
+What we are looking for:
+• Skills: python, machine learning, scikit-learn, pandas, numpy, sql
+• Freshers and final-year students are welcome; no prior work experience required.
+• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc. in Computer Science or a related field.
+
+Employment type: 6-month internship.
+Location: Mumbai, Maharashtra.
+Stipend: ₹30,000 per month.
+Apply by 20 November 2026.","machine learning, numpy, pandas, python, rest api, robotics, scikit-learn, sql","• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc.","₹30,000 per month",2026-11-20,https://example.com/sample-jobs/helixon-robotics/machine-learning-engineer-intern-002,Sample dataset (fictional),sample,sample,Data Science & AI,True,2026-10-02T09:00:00+00:00
+36ef4ef7ab2eb8d6,AI/ML Intern,Kestrel Secure,"Noida, Uttar Pradesh",On-site,Freshers,0.0,1.0,Internship,"About Kestrel Secure: Kestrel Secure is a cybersecurity firm offering managed detection and response.
+Join our applied-ML team to prototype models that solve real business problems.
+
+What you will do:
+• Help deploy models behind simple REST APIs
+• Clean and explore datasets with pandas and NumPy
+• Write reproducible experiments and document results
+• Train and evaluate classification and regression models
+
+What we are looking for:
+• Skills: python, machine learning, scikit-learn, pandas, numpy, sql
+• Freshers and final-year students are welcome; no prior work experience required.
+• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc. preferred.
+
+Employment type: 6-month internship.
+Location: Noida, Uttar Pradesh.
+Work mode: on-site, five days a week from our office.
+Stipend: ₹25,000 per month.
+Apply by 10 November 2026.","cybersecurity, machine learning, numpy, pandas, problem solving, python, rest api, scikit-learn, sql",• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc.,"₹25,000 per month",2026-11-10,https://example.com/sample-jobs/kestrel-secure/ai-ml-intern-003,Sample dataset (fictional),sample,sample,Data Science & AI,True,2026-10-18T09:00:00+00:00
+eb89cecd7daa4e94,AI/ML Intern,Bluefin Systems,"Chennai, Tamil Nadu",On-site,Freshers,0.0,1.0,Internship,"About Bluefin Systems: Bluefin Systems is a product company building cloud-native logistics software.
+Join our applied-ML team to prototype models that solve real business problems.
+
+What you will do:
+• Present findings to product teams
+• Write reproducible experiments and document results
+• Train and evaluate classification and regression models
+• Monitor model quality after release
+
+What we are looking for:
+• Skills: python, machine learning, scikit-learn, pandas, numpy, sql, linux
+• Freshers and final-year students are welcome; no prior work experience required.
+• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).
+
+Employment type: 6-month internship.
+Location: Chennai, Tamil Nadu.
+Work mode: on-site, five days a week from our office.","linux, machine learning, numpy, pandas, python, scikit-learn, sql","• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).",,,https://example.com/sample-jobs/bluefin-systems/ai-ml-intern-004,Sample dataset (fictional),sample,sample,Data Science & AI,True,2026-09-25T09:00:00+00:00
+695676d5accdc7d3,Graduate Engineer Trainee – Data Science,Juniper Learning Tech,"Kolkata, West Bengal",Unknown,0-1 years,0.0,1.0,Graduate Trainee,"About Juniper Learning Tech: Juniper Learning Tech is an edtech platform for school and college learners.
+Our graduate programme trains new engineers in end-to-end data-science projects.
+
+What you will do:
+• Work on feature engineering and model validation
+• Create dashboards for business stakeholders
+• Automate recurring analysis with Python
+• Participate in code reviews and knowledge-sharing sessions
+
+What we are looking for:
+• Skills: python, statistics, machine learning, sql, data visualization, linux
+• Experience: 0-1 years.
+• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc. in Computer Science or a related field.
+
+Employment type: Full-time graduate trainee programme.
+Location: Kolkata, West Bengal.
+CTC: 5.5 LPA.","data visualization, feature engineering, linux, machine learning, python, sql, statistics","Our graduate programme trains new engineers in end-to-end data-science projects. • Eligibility: B.Tech/B.E., BCA, MCA or M.Sc.",5.5 LPA,,https://example.com/sample-jobs/juniper-learning-tech/graduate-engineer-trainee-data-science-005,Sample dataset (fictional),sample,sample,Data Science & AI,True,2026-09-27T09:00:00+00:00
+439d4f77ccb30487,Graduate Engineer Trainee – Data Science,Willow Civic Tech,"Gurugram, Haryana",Unknown,0-1 years,0.0,1.0,Graduate Trainee,"About Willow Civic Tech: Willow Civic Tech is a govtech company building citizen-service portals.
+Our graduate programme trains new engineers in end-to-end data-science projects.
+
+What you will do:
+• Automate recurring analysis with Python
+• Participate in code reviews and knowledge-sharing sessions
+• Create dashboards for business stakeholders
+• Work on feature engineering and model validation
+
+What we are looking for:
+• Skills: python, statistics, machine learning, sql, data visualization, problem solving
+• Experience: 0-1 years.
+• Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.
+
+Employment type: Full-time graduate trainee programme.
+Location: Gurugram, Haryana.
+CTC: 5.5 LPA.
+Apply by 07 October 2026.","data visualization, feature engineering, machine learning, problem solving, python, sql, statistics",Our graduate programme trains new engineers in end-to-end data-science projects. • Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.,5.5 LPA,2026-10-07,https://example.com/sample-jobs/willow-civic-tech/graduate-engineer-trainee-data-science-006,Sample dataset (fictional),sample,sample,Data Science & AI,True,2026-10-07T09:00:00+00:00
+e07ee4f65c8fa9ca,Graduate Engineer Trainee – Data Science,Bluefin Systems,"Hyderabad, Telangana",On-site,0-1 years,0.0,1.0,Graduate Trainee,"About Bluefin Systems: Bluefin Systems is a product company building cloud-native logistics software.
+Our graduate programme trains new engineers in end-to-end data-science projects.
+
+What you will do:
+• Create dashboards for business stakeholders
+• Participate in code reviews and knowledge-sharing sessions
+• Work on feature engineering and model validation
+• Build statistical models for demand forecasting
+
+What we are looking for:
+• Skills: python, statistics, machine learning, sql, data visualization
+• Experience: 0-1 years.
+• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering.
+
+Employment type: Full-time graduate trainee programme.
+Location: Hyderabad, Telangana.
+Work mode: on-site, five days a week from our office.
+CTC: 5.5 LPA.","data visualization, feature engineering, machine learning, python, sql, statistics","Our graduate programme trains new engineers in end-to-end data-science projects. • Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering.",5.5 LPA,,https://example.com/sample-jobs/bluefin-systems/graduate-engineer-trainee-data-science-007,Sample dataset (fictional),sample,sample,Data Science & AI,True,2026-09-29T09:00:00+00:00
+118c4401c60a1834,Data Science Trainee,Vertex Cloudworks,"Noida, Uttar Pradesh",On-site,0-1 years,0.0,1.0,Graduate Trainee,"About Vertex Cloudworks: Vertex Cloudworks is a DevOps and platform-engineering consultancy.
+Our graduate programme trains new engineers in end-to-end data-science projects.
+
+What you will do:
+• Automate recurring analysis with Python
+• Participate in code reviews and knowledge-sharing sessions
+• Learn MLOps practices from senior mentors
+• Work on feature engineering and model validation
+
+What we are looking for:
+• Skills: python, statistics, machine learning, sql, data visualization, agile, problem solving
+• Experience: 0-1 years.
+• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering.
+
+Employment type: Full-time graduate trainee programme.
+Location: Noida, Uttar Pradesh.
+Work mode: on-site, five days a week from our office.","agile, data visualization, feature engineering, machine learning, mlops, problem solving, python, sql, statistics","Our graduate programme trains new engineers in end-to-end data-science projects. • Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering.",,,https://example.com/sample-jobs/vertex-cloudworks/data-science-trainee-008,Sample dataset (fictional),sample,sample,Data Science & AI,True,2026-10-16T09:00:00+00:00
+d94e2f6214ce2b7f,Data Analyst – Fresher,Quartz Quality Labs,"Pune, Maharashtra",On-site,0-2 years,0.0,2.0,Full-time,"About Quartz Quality Labs: Quartz Quality Labs is a software testing and quality-engineering services company.
+We are looking for curious analysts who enjoy turning raw data into clear insights.
+
+What you will do:
+• Document metric definitions
+• Build Power BI dashboards and weekly reports
+• Maintain data-quality checks
+• Analyse trends and present recommendations
+
+What we are looking for:
+• Skills: sql, excel, power bi, python, data analysis
+• Experience: 0-2 years in analytics (freshers can apply).
+• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).
+
+Employment type: Full-time.
+Location: Pune, Maharashtra.
+Work mode: on-site, five days a week from our office.
+CTC: 4-6 LPA.","data analysis, data visualization, excel, machine learning, power bi, python, sql","• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).",4-6 LPA,,https://example.com/sample-jobs/quartz-quality-labs/data-analyst-fresher-009,Sample dataset (fictional),sample,sample,Data Analytics & BI,True,2026-09-30T09:00:00+00:00
+1de854b0a2b11eaf,Data Analyst – Fresher,Umbra Insurance Digital,"Ahmedabad, Gujarat",On-site,0-2 years,0.0,2.0,Full-time,"About Umbra Insurance Digital: Umbra Insurance Digital is the digital arm of an insurance group.
+We are looking for curious analysts who enjoy turning raw data into clear insights.
+
+What you will do:
+• Analyse trends and present recommendations
+• Document metric definitions
+• Write SQL queries to extract and validate data
+• Build Power BI dashboards and weekly reports
+
+What we are looking for:
+• Skills: sql, excel, power bi, python, data analysis, git, agile
+• Experience: 0-2 years in analytics (freshers can apply).
+• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering.
+
+Employment type: Full-time.
+Location: Ahmedabad, Gujarat.
+Work mode: on-site, five days a week from our office.
+Apply by 18 September 2026.","agile, data analysis, data visualization, excel, git, power bi, python, sql","• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering.",,2026-09-18,https://example.com/sample-jobs/umbra-insurance-digital/data-analyst-fresher-010,Sample dataset (fictional),sample,sample,Data Analytics & BI,True,2026-10-07T09:00:00+00:00
+a5c583f487126da0,Associate Data Analyst,Arcadia Data Labs,"Ahmedabad, Gujarat",On-site,0-2 years,0.0,2.0,Full-time,"About Arcadia Data Labs: Arcadia Data Labs is an analytics consultancy helping retailers make data-driven decisions.
+We are looking for curious analysts who enjoy turning raw data into clear insights.
+
+What you will do:
+• Work closely with operations teams
+• Build Power BI dashboards and weekly reports
+• Document metric definitions
+• Maintain data-quality checks
+
+What we are looking for:
+• Skills: sql, excel, power bi, python, data analysis, problem solving, agile
+• Experience: 0-2 years in analytics (freshers can apply).
+• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc. in Computer Science or a related field.
+
+Employment type: Full-time.
+Location: Ahmedabad, Gujarat.
+Work mode: on-site, five days a week from our office.
+CTC: 4-6 LPA.
+Apply by 21 November 2026.","agile, data analysis, data visualization, excel, power bi, problem solving, python, sql","• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc.",4-6 LPA,2026-11-21,https://example.com/sample-jobs/arcadia-data-labs/associate-data-analyst-011,Sample dataset (fictional),sample,sample,Data Analytics & BI,True,2026-10-08T09:00:00+00:00
+d10a17b527db711f,Junior Data Analyst,Quartz Quality Labs,"Kochi, Kerala",Unknown,0-2 years,0.0,2.0,Full-time,"About Quartz Quality Labs: Quartz Quality Labs is a software testing and quality-engineering services company.
+We are looking for curious analysts who enjoy turning raw data into clear insights.
+
+What you will do:
+• Write SQL queries to extract and validate data
+• Build Power BI dashboards and weekly reports
+• Document metric definitions
+• Maintain data-quality checks
+
+What we are looking for:
+• Skills: sql, excel, power bi, python, data analysis, communication
+• Experience: 0-2 years in analytics (freshers can apply).
+• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering.
+
+Employment type: Full-time.
+Location: Kochi, Kerala.
+Salary: ₹4,50,000 per annum.","communication, data analysis, data visualization, excel, power bi, python, sql","• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering.","₹4,50,000 per annum",,https://example.com/sample-jobs/quartz-quality-labs/junior-data-analyst-012,Sample dataset (fictional),sample,sample,Data Analytics & BI,True,2026-10-09T09:00:00+00:00
+896555c687349008,BI Analyst Intern,Evergreen FinServ Tech,"Gurugram, Haryana",On-site,freshers,0.0,1.0,Internship,"About Evergreen FinServ Tech: Evergreen FinServ Tech is a fintech platform for digital lending and payments.
+Help our BI team design dashboards used by leadership every week.
+
+What you will do:
+• Support ad-hoc analysis requests
+• Automate Excel reports
+• Validate KPI calculations
+• Prepare presentation decks
+
+What we are looking for:
+• Skills: tableau, sql, excel, data visualization, communication, linux
+• Open to final-year students and freshers.
+• Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.
+
+Employment type: Internship (3 months).
+Location: Gurugram, Haryana.
+Work mode: on-site, five days a week from our office.
+Stipend: ₹15,000 per month.
+Apply by 19 November 2026.","communication, data visualization, excel, linux, sql, tableau",• Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.,"₹15,000 per month",2026-11-19,https://example.com/sample-jobs/evergreen-finserv-tech/bi-analyst-intern-013,Sample dataset (fictional),sample,sample,Data Analytics & BI,True,2026-10-16T09:00:00+00:00
+20f62aab16c6c478,BI Analyst Intern,Quartz Quality Labs,"Chennai, Tamil Nadu",On-site,freshers,0.0,1.0,Internship,"About Quartz Quality Labs: Quartz Quality Labs is a software testing and quality-engineering services company.
+Help our BI team design dashboards used by leadership every week.
+
+What you will do:
+• Prepare presentation decks
+• Support ad-hoc analysis requests
+• Gather reporting requirements
+• Automate Excel reports
+
+What we are looking for:
+• Skills: tableau, sql, excel, data visualization, communication
+• Open to final-year students and freshers.
+• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc. in Computer Science or a related field.
+
+Employment type: Internship (3 months).
+Location: Chennai, Tamil Nadu.
+Work mode: on-site, five days a week from our office.","communication, data visualization, excel, sql, tableau","• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc.",,,https://example.com/sample-jobs/quartz-quality-labs/bi-analyst-intern-014,Sample dataset (fictional),sample,sample,Data Analytics & BI,True,2026-10-17T09:00:00+00:00
+b557150a24f0ef06,Business Intelligence Intern,Vertex Cloudworks,"Kolkata, West Bengal",Unknown,freshers,0.0,1.0,Internship,"About Vertex Cloudworks: Vertex Cloudworks is a DevOps and platform-engineering consultancy.
+Help our BI team design dashboards used by leadership every week.
+
+What you will do:
+• Support ad-hoc analysis requests
+• Validate KPI calculations
+• Gather reporting requirements
+• Automate Excel reports
+
+What we are looking for:
+• Skills: tableau, sql, excel, data visualization, communication, problem solving
+• Open to final-year students and freshers.
+• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc. in Computer Science or a related field.
+
+Employment type: Internship (3 months).
+Location: Kolkata, West Bengal.
+Stipend: ₹15,000 per month.
+Apply by 13 November 2026.","communication, data visualization, excel, problem solving, sql, tableau","• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc.","₹15,000 per month",2026-11-13,https://example.com/sample-jobs/vertex-cloudworks/business-intelligence-intern-015,Sample dataset (fictional),sample,sample,Data Analytics & BI,True,2026-10-22T09:00:00+00:00
+70c76639764700a7,BI Analyst Intern,Teal Logistics Digital,"Kolkata, West Bengal",On-site,freshers,0.0,1.0,Internship,"About Teal Logistics Digital: Teal Logistics Digital is a supply-chain analytics company.
+Help our BI team design dashboards used by leadership every week.
+
+What you will do:
+• Design Tableau dashboards
+• Validate KPI calculations
+• Automate Excel reports
+• Gather reporting requirements
+
+What we are looking for:
+• Skills: tableau, sql, excel, data visualization, communication
+• Open to final-year students and freshers.
+• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering.
+
+Employment type: Internship (3 months).
+Location: Kolkata, West Bengal.
+Work mode: on-site, five days a week from our office.
+Stipend: ₹15,000 per month.
+Apply by 31 October 2026.","communication, data visualization, excel, sql, tableau","• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering.","₹15,000 per month",2026-10-31,https://example.com/sample-jobs/teal-logistics-digital/bi-analyst-intern-016,Sample dataset (fictional),sample,sample,Data Analytics & BI,True,2026-09-29T09:00:00+00:00
+8ee8a19c3bc5a9cb,Software Engineer I,Willow Civic Tech,"Chennai, Tamil Nadu",On-site,0-1 years,0.0,1.0,Full-time,"About Willow Civic Tech: Willow Civic Tech is a govtech company building citizen-service portals.
+Build and maintain backend services used by thousands of customers.
+
+What you will do:
+• Write unit and integration tests
+• Work with relational databases
+• Review code and follow clean-code practices
+• Fix bugs and improve performance
+
+What we are looking for:
+• Skills: java, spring boot, sql, rest api, git, data structures
+• Experience: 0-1 years. Freshers with strong fundamentals in data structures are encouraged to apply.
+• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering.
+
+Employment type: Full-time, permanent.
+Location: Chennai, Tamil Nadu.
+Work mode: on-site, five days a week from our office.
+CTC: 6.5 LPA.","data structures, git, java, rest api, spring boot, sql","• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering.",6.5 LPA,,https://example.com/sample-jobs/willow-civic-tech/software-engineer-i-017,Sample dataset (fictional),sample,sample,Software Development,True,2026-10-23T09:00:00+00:00
+8a01842f0c671092,Software Engineer – Fresher,Foxglove Health AI,Hybrid — Pune,Hybrid,0-1 years,0.0,1.0,Full-time,"About Foxglove Health AI: Foxglove Health AI is a healthtech company applying AI to diagnostic imaging.
+Build and maintain backend services used by thousands of customers.
+
+What you will do:
+• Work with relational databases
+• Review code and follow clean-code practices
+• Develop REST APIs with Java and Spring Boot
+• Participate in agile ceremonies
+
+What we are looking for:
+• Skills: java, spring boot, sql, rest api, git, data structures, linux
+• Experience: 0-1 years. Freshers with strong fundamentals in data structures are encouraged to apply.
+• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc. in Computer Science or a related field.
+
+Employment type: Full-time, permanent.
+Location: Hybrid — Pune.
+This is a hybrid role with three days a week in the office.
+CTC: 6.5 LPA.
+Apply by 06 October 2026.","agile, data structures, git, java, linux, rest api, spring boot, sql","• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc.",6.5 LPA,2026-10-06,https://example.com/sample-jobs/foxglove-health-ai/software-engineer-fresher-018,Sample dataset (fictional),sample,sample,Software Development,True,2026-10-17T09:00:00+00:00
+bfcaaa3bdaf40fa5,Software Engineer – Fresher,Foxglove Health AI,"New Delhi, Delhi",Unknown,0-1 years,0.0,1.0,Full-time,"About Foxglove Health AI: Foxglove Health AI is a healthtech company applying AI to diagnostic imaging.
+Build and maintain backend services used by thousands of customers.
+
+What you will do:
+• Write unit and integration tests
+• Participate in agile ceremonies
+• Develop REST APIs with Java and Spring Boot
+• Work with relational databases
+
+What we are looking for:
+• Skills: java, spring boot, sql, rest api, git, data structures
+• Experience: 0-1 years. Freshers with strong fundamentals in data structures are encouraged to apply.
+• Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.
+
+Employment type: Full-time, permanent.
+Location: New Delhi, Delhi.
+CTC: 6.5 LPA.","agile, data structures, git, java, rest api, spring boot, sql",• Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.,6.5 LPA,,https://example.com/sample-jobs/foxglove-health-ai/software-engineer-fresher-019,Sample dataset (fictional),sample,sample,Software Development,True,2026-10-09T09:00:00+00:00
+565a1eed8535f41b,Software Engineer – Fresher,Orchid Consulting Group,Hybrid — Bengaluru,Hybrid,0-1 years,0.0,1.0,Full-time,"About Orchid Consulting Group: Orchid Consulting Group is a management and technology consulting firm.
+Build and maintain backend services used by thousands of customers.
+
+What you will do:
+• Fix bugs and improve performance
+• Write unit and integration tests
+• Develop REST APIs with Java and Spring Boot
+• Work with relational databases
+
+What we are looking for:
+• Skills: java, spring boot, sql, rest api, git, data structures
+• Experience: 0-1 years. Freshers with strong fundamentals in data structures are encouraged to apply.
+• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc. preferred.
+
+Employment type: Full-time, permanent.
+Location: Hybrid — Bengaluru.
+This is a hybrid role with three days a week in the office.
+CTC: 7-9 LPA.
+Apply by 13 November 2026.","data structures, git, java, problem solving, rest api, spring boot, sql",• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc.,7-9 LPA,2026-11-13,https://example.com/sample-jobs/orchid-consulting-group/software-engineer-fresher-020,Sample dataset (fictional),sample,sample,Software Development,True,2026-10-02T09:00:00+00:00
+40aa00ee2ebbb89d,Python Developer – Entry Level,Kestrel Secure,"Hyderabad, Telangana",On-site,0-2 years,0.0,2.0,Full-time,"About Kestrel Secure: Kestrel Secure is a cybersecurity firm offering managed detection and response.
+Work on Django-based web applications and internal automation tools.
+
+What you will do:
+• Maintain CI pipelines
+• Develop features in Django and Django REST Framework
+• Write automated tests with pytest
+• Collaborate with front-end developers
+
+What we are looking for:
+• Skills: python, django, rest api, postgresql, git, docker
+• 0-2 years of experience in Python development.
+• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc. preferred.
+
+Employment type: Full-time.
+Location: Hyderabad, Telangana.
+Work mode: on-site, five days a week from our office.
+CTC: 5-7 LPA.
+Apply by 22 November 2026.","cybersecurity, django, docker, git, postgresql, problem solving, pytest, python, rest api",• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc.,5-7 LPA,2026-11-22,https://example.com/sample-jobs/kestrel-secure/python-developer-entry-level-021,Sample dataset (fictional),sample,sample,Software Development,True,2026-10-06T09:00:00+00:00
+7f49cac7938373dd,Junior Python Developer,Helixon Robotics,"Chennai, Tamil Nadu",Unknown,0-2 years,0.0,2.0,Full-time,"About Helixon Robotics: Helixon Robotics is a robotics company building warehouse automation systems.
+Work on Django-based web applications and internal automation tools.
+
+What you will do:
+• Maintain CI pipelines
+• Collaborate with front-end developers
+• Containerise services with Docker
+• Write automated tests with pytest
+
+What we are looking for:
+• Skills: python, django, rest api, postgresql, git, docker, linux
+• 0-2 years of experience in Python development.
+• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc. in Computer Science or a related field.
+
+Employment type: Full-time.
+Location: Chennai, Tamil Nadu.
+CTC: 5-7 LPA.
+Apply by 11 September 2026.","django, docker, git, linux, postgresql, pytest, python, rest api, robotics","• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc.",5-7 LPA,2026-09-11,https://example.com/sample-jobs/helixon-robotics/junior-python-developer-022,Sample dataset (fictional),sample,sample,Software Development,True,2026-09-26T09:00:00+00:00
+6a0b27df63e5c244,Python Developer – Entry Level,Kestrel Secure,"Ahmedabad, Gujarat",Unknown,0-2 years,0.0,2.0,Full-time,"About Kestrel Secure: Kestrel Secure is a cybersecurity firm offering managed detection and response.
+Work on Django-based web applications and internal automation tools.
+
+What you will do:
+• Develop features in Django and Django REST Framework
+• Collaborate with front-end developers
+• Optimise PostgreSQL queries
+• Containerise services with Docker
+
+What we are looking for:
+• Skills: python, django, rest api, postgresql, git, docker, problem solving
+• 0-2 years of experience in Python development.
+• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc. preferred.
+
+Employment type: Full-time.
+Location: Ahmedabad, Gujarat.","cybersecurity, django, docker, git, postgresql, problem solving, python, rest api",• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc.,,,https://example.com/sample-jobs/kestrel-secure/python-developer-entry-level-023,Sample dataset (fictional),sample,sample,Software Development,True,2026-10-12T09:00:00+00:00
+85bb1e55af876879,Python Developer – Entry Level,Cedarline Technologies,"Ahmedabad, Gujarat",On-site,0-2 years,0.0,2.0,Full-time,"About Cedarline Technologies: Cedarline Technologies is an IT services firm delivering digital transformation projects.
+Work on Django-based web applications and internal automation tools.
+
+What you will do:
+• Write automated tests with pytest
+• Optimise PostgreSQL queries
+• Containerise services with Docker
+• Maintain CI pipelines
+
+What we are looking for:
+• Skills: python, django, rest api, postgresql, git, docker, problem solving
+• 0-2 years of experience in Python development.
+• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc. preferred.
+
+Employment type: Full-time.
+Location: Ahmedabad, Gujarat.
+Work mode: on-site, five days a week from our office.
+CTC: 5-7 LPA.
+Apply by 08 October 2026.","django, docker, git, postgresql, problem solving, pytest, python, rest api",• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc.,5-7 LPA,2026-10-08,https://example.com/sample-jobs/cedarline-technologies/python-developer-entry-level-024,Sample dataset (fictional),sample,sample,Software Development,True,2026-10-20T09:00:00+00:00
+62051330457a9479,Frontend Developer Intern,Willow Civic Tech,"Noida, Uttar Pradesh",On-site,No prior experience,0.0,1.0,Internship,"About Willow Civic Tech: Willow Civic Tech is a govtech company building citizen-service portals.
+Help us craft fast, accessible web interfaces.
+
+What you will do:
+• Improve accessibility and performance
+• Fix cross-browser issues
+• Translate Figma designs into responsive pages
+• Integrate REST APIs
+
+What we are looking for:
+• Skills: javascript, react, html, css, git, typescript, agile, communication
+• No prior experience required; a portfolio or GitHub profile helps.
+• Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.
+
+Employment type: Internship (6 months) with possible full-time conversion.
+Location: Noida, Uttar Pradesh.
+Work mode: on-site, five days a week from our office.
+Stipend: ₹20,000 per month.","agile, communication, css, figma, git, html, javascript, react, rest api, typescript",• Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.,"₹20,000 per month",,https://example.com/sample-jobs/willow-civic-tech/frontend-developer-intern-025,Sample dataset (fictional),sample,sample,Software Development,True,2026-10-16T09:00:00+00:00
+eb822e878d75e7ce,React Developer Intern,Vertex Cloudworks,"New Delhi, Delhi",On-site,No prior experience,0.0,1.0,Internship,"About Vertex Cloudworks: Vertex Cloudworks is a DevOps and platform-engineering consultancy.
+Help us craft fast, accessible web interfaces.
+
+What you will do:
+• Build reusable React components
+• Fix cross-browser issues
+• Improve accessibility and performance
+• Integrate REST APIs
+
+What we are looking for:
+• Skills: javascript, react, html, css, git, typescript, teamwork, problem solving
+• No prior experience required; a portfolio or GitHub profile helps.
+• Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.
+
+Employment type: Internship (6 months) with possible full-time conversion.
+Location: New Delhi, Delhi.
+Work mode: on-site, five days a week from our office.
+Stipend: ₹20,000 per month.
+Apply by 02 October 2026.","css, git, html, javascript, problem solving, react, rest api, teamwork, typescript",• Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.,"₹20,000 per month",2026-10-02,https://example.com/sample-jobs/vertex-cloudworks/react-developer-intern-026,Sample dataset (fictional),sample,sample,Software Development,True,2026-10-16T09:00:00+00:00
+00da72a3f67d4df3,React Developer Intern,Orchid Consulting Group,"Bengaluru, Karnataka",On-site,No prior experience,0.0,1.0,Internship,"About Orchid Consulting Group: Orchid Consulting Group is a management and technology consulting firm.
+Help us craft fast, accessible web interfaces.
+
+What you will do:
+• Integrate REST APIs
+• Fix cross-browser issues
+• Translate Figma designs into responsive pages
+• Write component tests
+
+What we are looking for:
+• Skills: javascript, react, html, css, git, typescript, problem solving
+• No prior experience required; a portfolio or GitHub profile helps.
+• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc. in Computer Science or a related field.
+
+Employment type: Internship (6 months) with possible full-time conversion.
+Location: Bengaluru, Karnataka.
+Work mode: on-site, five days a week from our office.
+Stipend: ₹20,000 per month.","css, figma, git, html, javascript, problem solving, react, rest api, typescript","• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc.","₹20,000 per month",,https://example.com/sample-jobs/orchid-consulting-group/react-developer-intern-027,Sample dataset (fictional),sample,sample,Software Development,True,2026-10-21T09:00:00+00:00
+a99a3d0b63e21cf1,Frontend Developer Intern,Lotus Mobility Tech,"Indore, Madhya Pradesh",Unknown,No prior experience,0.0,1.0,Internship,"About Lotus Mobility Tech: Lotus Mobility Tech is an electric-mobility company building connected-vehicle software.
+Help us craft fast, accessible web interfaces.
+
+What you will do:
+• Fix cross-browser issues
+• Translate Figma designs into responsive pages
+• Integrate REST APIs
+• Build reusable React components
+
+What we are looking for:
+• Skills: javascript, react, html, css, git, typescript, teamwork, agile
+• No prior experience required; a portfolio or GitHub profile helps.
+• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc. in Computer Science or a related field.
+
+Employment type: Internship (6 months) with possible full-time conversion.
+Location: Indore, Madhya Pradesh.
+Apply by 11 October 2026.","agile, css, figma, git, html, javascript, react, rest api, teamwork, typescript","• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc.",,2026-10-11,https://example.com/sample-jobs/lotus-mobility-tech/frontend-developer-intern-028,Sample dataset (fictional),sample,sample,Software Development,True,2026-10-18T09:00:00+00:00
+3f7d5168c5a7da36,Frontend Developer Intern,Arcadia Data Labs,"Kochi, Kerala",On-site,No prior experience,0.0,1.0,Internship,"About Arcadia Data Labs: Arcadia Data Labs is an analytics consultancy helping retailers make data-driven decisions.
+Help us craft fast, accessible web interfaces.
+
+What you will do:
+• Fix cross-browser issues
+• Build reusable React components
+• Write component tests
+• Integrate REST APIs
+
+What we are looking for:
+• Skills: javascript, react, html, css, git, typescript
+• No prior experience required; a portfolio or GitHub profile helps.
+• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering.
+
+Employment type: Internship (6 months) with possible full-time conversion.
+Location: Kochi, Kerala.
+Work mode: on-site, five days a week from our office.
+Apply by 10 October 2026.","css, git, html, javascript, react, rest api, typescript","• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering.",,2026-10-10,https://example.com/sample-jobs/arcadia-data-labs/frontend-developer-intern-029,Sample dataset (fictional),sample,sample,Software Development,True,2026-09-29T09:00:00+00:00
+2c00665d18f25804,Junior Full Stack Engineer,Lotus Mobility Tech,"Kolkata, West Bengal",On-site,0-2 years,0.0,2.0,Full-time,"About Lotus Mobility Tech: Lotus Mobility Tech is an electric-mobility company building connected-vehicle software.
+Own features end to end across our MERN-stack product.
+
+What you will do:
+• Model data in MongoDB
+• Build APIs with Node.js and Express
+• Write technical documentation
+• Create React user interfaces
+
+What we are looking for:
+• Skills: javascript, node.js, react, mongodb, rest api, git, problem solving
+• Experience: 0-2 years.
+• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc. preferred.
+
+Employment type: Full-time.
+Location: Kolkata, West Bengal.
+Work mode: on-site, five days a week from our office.
+CTC: 6-8 LPA.","git, javascript, mongodb, node.js, problem solving, react, rest api",• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc.,6-8 LPA,,https://example.com/sample-jobs/lotus-mobility-tech/junior-full-stack-engineer-030,Sample dataset (fictional),sample,sample,Software Development,True,2026-10-17T09:00:00+00:00
+2b5e88753499d137,Junior Full Stack Engineer,Saffron Agritech,"Bengaluru, Karnataka",On-site,0-2 years,0.0,2.0,Full-time,"About Saffron Agritech: Saffron Agritech is an agritech start-up using IoT and analytics for farmers.
+Own features end to end across our MERN-stack product.
+
+What you will do:
+• Build APIs with Node.js and Express
+• Monitor and debug production issues
+• Deploy to cloud environments
+• Create React user interfaces
+
+What we are looking for:
+• Skills: javascript, node.js, react, mongodb, rest api, git, problem solving
+• Experience: 0-2 years.
+• Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.
+
+Employment type: Full-time.
+Location: Bengaluru, Karnataka.
+Work mode: on-site, five days a week from our office.
+CTC: 6-8 LPA.
+Apply by 03 November 2026.","git, iot, javascript, mongodb, node.js, problem solving, react, rest api",• Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.,6-8 LPA,2026-11-03,https://example.com/sample-jobs/saffron-agritech/junior-full-stack-engineer-031,Sample dataset (fictional),sample,sample,Software Development,True,2026-10-21T09:00:00+00:00
+288bf6cfc735e17f,Full Stack Developer – Graduate,Quartz Quality Labs,Remote (India),Remote,0-2 years,0.0,2.0,Full-time,"About Quartz Quality Labs: Quartz Quality Labs is a software testing and quality-engineering services company.
+Own features end to end across our MERN-stack product.
+
+What you will do:
+• Monitor and debug production issues
+• Write technical documentation
+• Create React user interfaces
+• Deploy to cloud environments
+
+What we are looking for:
+• Skills: javascript, node.js, react, mongodb, rest api, git, teamwork
+• Experience: 0-2 years.
+• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering.
+
+Employment type: Full-time.
+Location: Remote (India).
+This is a fully remote role open to candidates across India.
+CTC: 6-8 LPA.
+Apply by 08 October 2026.","git, javascript, mongodb, node.js, react, rest api, teamwork","• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering.",6-8 LPA,2026-10-08,https://example.com/sample-jobs/quartz-quality-labs/full-stack-developer-graduate-032,Sample dataset (fictional),sample,sample,Software Development,True,2026-09-26T09:00:00+00:00
+f5fbc370667d721b,Junior Full Stack Engineer,Cedarline Technologies,"Kochi, Kerala",Unknown,0-2 years,0.0,2.0,Full-time,"About Cedarline Technologies: Cedarline Technologies is an IT services firm delivering digital transformation projects.
+Own features end to end across our MERN-stack product.
+
+What you will do:
+• Deploy to cloud environments
+• Model data in MongoDB
+• Create React user interfaces
+• Build APIs with Node.js and Express
+
+What we are looking for:
+• Skills: javascript, node.js, react, mongodb, rest api, git, teamwork, problem solving
+• Experience: 0-2 years.
+• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering.
+
+Employment type: Full-time.
+Location: Kochi, Kerala.
+Apply by 21 October 2026.","git, javascript, mongodb, node.js, problem solving, react, rest api, teamwork","• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering.",,2026-10-21,https://example.com/sample-jobs/cedarline-technologies/junior-full-stack-engineer-033,Sample dataset (fictional),sample,sample,Software Development,True,2026-10-03T09:00:00+00:00
+a3db3751f0509c5e,Full Stack Developer – Graduate,Monsoon Media Labs,"Jaipur, Rajasthan",On-site,0-2 years,0.0,2.0,Full-time,"About Monsoon Media Labs: Monsoon Media Labs is a digital media company running streaming and content platforms.
+Own features end to end across our MERN-stack product.
+
+What you will do:
+• Deploy to cloud environments
+• Monitor and debug production issues
+• Model data in MongoDB
+• Create React user interfaces
+
+What we are looking for:
+• Skills: javascript, node.js, react, mongodb, rest api, git, communication
+• Experience: 0-2 years.
+• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering.
+
+Employment type: Full-time.
+Location: Jaipur, Rajasthan.
+Work mode: on-site, five days a week from our office.
+Apply by 22 September 2026.","communication, git, javascript, mongodb, node.js, react, rest api","• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering.",,2026-09-22,https://example.com/sample-jobs/monsoon-media-labs/full-stack-developer-graduate-034,Sample dataset (fictional),sample,sample,Software Development,True,2026-10-12T09:00:00+00:00
+64d6d52b943176bd,Mobile App Developer – Fresher,Quartz Quality Labs,"Gurugram, Haryana",On-site,Fresher,0.0,1.0,Graduate Trainee,"About Quartz Quality Labs: Quartz Quality Labs is a software testing and quality-engineering services company.
+Build Android apps used daily by our customers.
+
+What you will do:
+• Integrate REST APIs and handle offline caching
+• Write UI and unit tests
+• Publish releases to the Play Store
+• Develop Android features in Kotlin
+
+What we are looking for:
+• Skills: kotlin, android, java, rest api, git
+• Freshers are welcome to apply.
+• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc. in Computer Science or a related field.
+
+Employment type: Full-time trainee.
+Location: Gurugram, Haryana.
+Work mode: on-site, five days a week from our office.
+CTC: 5 LPA.","android, git, java, kotlin, rest api","• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc.",5 LPA,,https://example.com/sample-jobs/quartz-quality-labs/mobile-app-developer-fresher-035,Sample dataset (fictional),sample,sample,Software Development,True,2026-10-03T09:00:00+00:00
+39a57f515307cce6,Mobile App Developer – Fresher,Helixon Robotics,"Pune, Maharashtra",Unknown,Fresher,0.0,1.0,Graduate Trainee,"About Helixon Robotics: Helixon Robotics is a robotics company building warehouse automation systems.
+Build Android apps used daily by our customers.
+
+What you will do:
+• Fix crashes reported in production
+• Publish releases to the Play Store
+• Integrate REST APIs and handle offline caching
+• Develop Android features in Kotlin
+
+What we are looking for:
+• Skills: kotlin, android, java, rest api, git, linux, teamwork
+• Freshers are welcome to apply.
+• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).
+
+Employment type: Full-time trainee.
+Location: Pune, Maharashtra.","android, git, java, kotlin, linux, machine learning, rest api, robotics, teamwork","• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).",,,https://example.com/sample-jobs/helixon-robotics/mobile-app-developer-fresher-036,Sample dataset (fictional),sample,sample,Software Development,True,2026-10-10T09:00:00+00:00
+e633bb35c8f28cb3,Mobile App Developer – Fresher,Deltawave Software,"Kolkata, West Bengal",Unknown,Fresher,0.0,1.0,Graduate Trainee,"About Deltawave Software: Deltawave Software is a SaaS start-up building collaboration tools for small businesses.
+Build Android apps used daily by our customers.
+
+What you will do:
+• Collaborate with designers
+• Integrate REST APIs and handle offline caching
+• Develop Android features in Kotlin
+• Publish releases to the Play Store
+
+What we are looking for:
+• Skills: kotlin, android, java, rest api, git
+• Freshers are welcome to apply.
+• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc. in Computer Science or a related field.
+
+Employment type: Full-time trainee.
+Location: Kolkata, West Bengal.
+CTC: 5 LPA.
+Apply by 04 December 2026.","android, git, java, kotlin, rest api, teamwork","• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc.",5 LPA,2026-12-04,https://example.com/sample-jobs/deltawave-software/mobile-app-developer-fresher-037,Sample dataset (fictional),sample,sample,Software Development,True,2026-10-19T09:00:00+00:00
+1fdbad96f66c67fe,Mobile App Developer – Fresher,Willow Civic Tech,Hybrid — Pune,Hybrid,Fresher,0.0,1.0,Graduate Trainee,"About Willow Civic Tech: Willow Civic Tech is a govtech company building citizen-service portals.
+Build Android apps used daily by our customers.
+
+What you will do:
+• Publish releases to the Play Store
+• Fix crashes reported in production
+• Collaborate with designers
+• Integrate REST APIs and handle offline caching
+
+What we are looking for:
+• Skills: kotlin, android, java, rest api, git, teamwork, communication
+• Freshers are welcome to apply.
+• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc. in Computer Science or a related field.
+
+Employment type: Full-time trainee.
+Location: Hybrid — Pune.
+This is a hybrid role with three days a week in the office.
+CTC: 5 LPA.
+Apply by 18 November 2026.","android, communication, git, java, kotlin, rest api, teamwork","• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc.",5 LPA,2026-11-18,https://example.com/sample-jobs/willow-civic-tech/mobile-app-developer-fresher-038,Sample dataset (fictional),sample,sample,Software Development,True,2026-10-05T09:00:00+00:00
+895f64f4fcd777f8,Software Test Engineer Trainee,Quartz Quality Labs,"Kolkata, West Bengal",On-site,0-1 years,0.0,1.0,Graduate Trainee,"About Quartz Quality Labs: Quartz Quality Labs is a software testing and quality-engineering services company.
+Ensure every release meets our quality bar.
+
+What you will do:
+• Test REST APIs with Postman
+• Participate in release sign-offs
+• Validate data with SQL
+• Log and track defects in Jira
+
+What we are looking for:
+• Skills: manual testing, automation testing, selenium, sql, api testing
+• Experience: 0-1 years.
+• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).
+
+Employment type: Full-time.
+Location: Kolkata, West Bengal.
+Work mode: on-site, five days a week from our office.","agile, api testing, automation testing, machine learning, manual testing, rest api, selenium, sql","• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).",,,https://example.com/sample-jobs/quartz-quality-labs/software-test-engineer-trainee-039,Sample dataset (fictional),sample,sample,QA & Testing,True,2026-10-16T09:00:00+00:00
+05b6c7117cee8db2,Software Test Engineer Trainee,Helixon Robotics,"Noida, Uttar Pradesh",Unknown,0-1 years,0.0,1.0,Graduate Trainee,"About Helixon Robotics: Helixon Robotics is a robotics company building warehouse automation systems.
+Ensure every release meets our quality bar.
+
+What you will do:
+• Validate data with SQL
+• Log and track defects in Jira
+• Participate in release sign-offs
+• Write and execute test cases
+
+What we are looking for:
+• Skills: manual testing, automation testing, selenium, sql, api testing, problem solving
+• Experience: 0-1 years.
+• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc. in Computer Science or a related field.
+
+Employment type: Full-time.
+Location: Noida, Uttar Pradesh.","agile, api testing, automation testing, manual testing, problem solving, robotics, selenium, sql","• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc.",,,https://example.com/sample-jobs/helixon-robotics/software-test-engineer-trainee-040,Sample dataset (fictional),sample,sample,QA & Testing,True,2026-10-02T09:00:00+00:00
+7142243f5b741fc7,QA Engineer – Fresher,Monsoon Media Labs,Remote (India),Remote,0-1 years,0.0,1.0,Full-time,"About Monsoon Media Labs: Monsoon Media Labs is a digital media company running streaming and content platforms.
+Ensure every release meets our quality bar.
+
+What you will do:
+• Log and track defects in Jira
+• Validate data with SQL
+• Automate regression suites with Selenium
+• Participate in release sign-offs
+
+What we are looking for:
+• Skills: manual testing, automation testing, selenium, sql, api testing, teamwork
+• Experience: 0-1 years.
+• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc. in Computer Science or a related field.
+
+Employment type: Full-time.
+Location: Remote (India).
+This is a fully remote role open to candidates across India.","agile, api testing, automation testing, manual testing, selenium, sql, teamwork","• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc.",,,https://example.com/sample-jobs/monsoon-media-labs/qa-engineer-fresher-041,Sample dataset (fictional),sample,sample,QA & Testing,True,2026-10-09T09:00:00+00:00
+f217fe7fd1bc10aa,Software Test Engineer Trainee,Indigo Retail Labs,"New Delhi, Delhi",On-site,0-1 years,0.0,1.0,Graduate Trainee,"About Indigo Retail Labs: Indigo Retail Labs is an e-commerce technology company serving fashion brands.
+Ensure every release meets our quality bar.
+
+What you will do:
+• Automate regression suites with Selenium
+• Validate data with SQL
+• Write and execute test cases
+• Participate in release sign-offs
+
+What we are looking for:
+• Skills: manual testing, automation testing, selenium, sql, api testing, communication, teamwork
+• Experience: 0-1 years.
+• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc. preferred.
+
+Employment type: Full-time.
+Location: New Delhi, Delhi.
+Work mode: on-site, five days a week from our office.","api testing, automation testing, communication, manual testing, problem solving, selenium, sql, teamwork",• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc.,,,https://example.com/sample-jobs/indigo-retail-labs/software-test-engineer-trainee-042,Sample dataset (fictional),sample,sample,QA & Testing,True,2026-10-24T09:00:00+00:00
+f8cc74c36de01640,QA Engineer – Fresher,Arcadia Data Labs,Hybrid — Bengaluru,Hybrid,0-1 years,0.0,1.0,Full-time,"About Arcadia Data Labs: Arcadia Data Labs is an analytics consultancy helping retailers make data-driven decisions.
+Ensure every release meets our quality bar.
+
+What you will do:
+• Test REST APIs with Postman
+• Automate regression suites with Selenium
+• Log and track defects in Jira
+• Validate data with SQL
+
+What we are looking for:
+• Skills: manual testing, automation testing, selenium, sql, api testing, teamwork
+• Experience: 0-1 years.
+• Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.
+
+Employment type: Full-time.
+Location: Hybrid — Bengaluru.
+This is a hybrid role with three days a week in the office.
+CTC: 3.5-5 LPA.
+Apply by 23 October 2026.","agile, api testing, automation testing, manual testing, rest api, selenium, sql, teamwork",• Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.,3.5-5 LPA,2026-10-23,https://example.com/sample-jobs/arcadia-data-labs/qa-engineer-fresher-043,Sample dataset (fictional),sample,sample,QA & Testing,True,2026-10-20T09:00:00+00:00
+03c159def21f4cc0,Test Automation Intern,Indigo Retail Labs,"Ahmedabad, Gujarat",Unknown,no experience,0.0,1.0,Internship,"About Indigo Retail Labs: Indigo Retail Labs is an e-commerce technology company serving fashion brands.
+Help build our next-generation browser test automation framework.
+
+What you will do:
+• Reduce flaky tests
+• Integrate tests into CI/CD pipelines
+• Write end-to-end tests with Playwright and pytest
+• Pair with developers on testability
+
+What we are looking for:
+• Skills: python, playwright, pytest, automation testing, git, ci/cd, agile
+• Open to students graduating in 2026; no experience required.
+• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).
+
+Employment type: Internship.
+Location: Ahmedabad, Gujarat.
+Stipend: ₹18,000 per month.","agile, automation testing, ci/cd, git, machine learning, playwright, pytest, python","• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).","₹18,000 per month",,https://example.com/sample-jobs/indigo-retail-labs/test-automation-intern-044,Sample dataset (fictional),sample,sample,QA & Testing,True,2026-09-28T09:00:00+00:00
+a789d9cba3bade8b,SDET Intern,Helixon Robotics,"Bengaluru, Karnataka",Unknown,no experience,0.0,1.0,Internship,"About Helixon Robotics: Helixon Robotics is a robotics company building warehouse automation systems.
+Help build our next-generation browser test automation framework.
+
+What you will do:
+• Write end-to-end tests with Playwright and pytest
+• Report test coverage
+• Integrate tests into CI/CD pipelines
+• Create test-data utilities
+
+What we are looking for:
+• Skills: python, playwright, pytest, automation testing, git, ci/cd, linux
+• Open to students graduating in 2026; no experience required.
+• Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.
+
+Employment type: Internship.
+Location: Bengaluru, Karnataka.
+Stipend: ₹18,000 per month.","automation testing, ci/cd, git, linux, playwright, pytest, python, robotics",• Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.,"₹18,000 per month",,https://example.com/sample-jobs/helixon-robotics/sdet-intern-045,Sample dataset (fictional),sample,sample,QA & Testing,True,2026-10-05T09:00:00+00:00
+112837356403d1b9,SDET Intern,Foxglove Health AI,"Gurugram, Haryana",On-site,no experience,0.0,1.0,Internship,"About Foxglove Health AI: Foxglove Health AI is a healthtech company applying AI to diagnostic imaging.
+Help build our next-generation browser test automation framework.
+
+What you will do:
+• Pair with developers on testability
+• Create test-data utilities
+• Report test coverage
+• Reduce flaky tests
+
+What we are looking for:
+• Skills: python, playwright, pytest, automation testing, git, ci/cd, agile
+• Open to students graduating in 2026; no experience required.
+• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc. in Computer Science or a related field.
+
+Employment type: Internship.
+Location: Gurugram, Haryana.
+Work mode: on-site, five days a week from our office.
+Stipend: ₹18,000 per month.","agile, automation testing, ci/cd, git, playwright, pytest, python","• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc.","₹18,000 per month",,https://example.com/sample-jobs/foxglove-health-ai/sdet-intern-046,Sample dataset (fictional),sample,sample,QA & Testing,True,2026-10-15T09:00:00+00:00
+af4177de2138e64f,SDET Intern,Vertex Cloudworks,"Chennai, Tamil Nadu",On-site,no experience,0.0,1.0,Internship,"About Vertex Cloudworks: Vertex Cloudworks is a DevOps and platform-engineering consultancy.
+Help build our next-generation browser test automation framework.
+
+What you will do:
+• Create test-data utilities
+• Reduce flaky tests
+• Write end-to-end tests with Playwright and pytest
+• Report test coverage
+
+What we are looking for:
+• Skills: python, playwright, pytest, automation testing, git, ci/cd, agile
+• Open to students graduating in 2026; no experience required.
+• Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.
+
+Employment type: Internship.
+Location: Chennai, Tamil Nadu.
+Work mode: on-site, five days a week from our office.
+Stipend: ₹18,000 per month.
+Apply by 27 September 2026.","agile, automation testing, ci/cd, git, playwright, pytest, python",• Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.,"₹18,000 per month",2026-09-27,https://example.com/sample-jobs/vertex-cloudworks/sdet-intern-047,Sample dataset (fictional),sample,sample,QA & Testing,True,2026-10-02T09:00:00+00:00
+5e99bfe3040850a7,Test Automation Intern,Novachip Design,"Chennai, Tamil Nadu",Unknown,no experience,0.0,1.0,Internship,"About Novachip Design: Novachip Design is a semiconductor design services company.
+Help build our next-generation browser test automation framework.
+
+What you will do:
+• Pair with developers on testability
+• Report test coverage
+• Reduce flaky tests
+• Create test-data utilities
+
+What we are looking for:
+• Skills: python, playwright, pytest, automation testing, git, ci/cd, communication
+• Open to students graduating in 2026; no experience required.
+• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc. preferred.
+
+Employment type: Internship.
+Location: Chennai, Tamil Nadu.
+Stipend: ₹18,000 per month.
+Apply by 18 November 2026.","automation testing, ci/cd, communication, git, playwright, problem solving, pytest, python",• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc.,"₹18,000 per month",2026-11-18,https://example.com/sample-jobs/novachip-design/test-automation-intern-048,Sample dataset (fictional),sample,sample,QA & Testing,True,2026-10-11T09:00:00+00:00
+8d85c9553550dc5d,Cloud Operations Trainee,Novachip Design,"Kochi, Kerala",On-site,0-1 years,0.0,1.0,Graduate Trainee,"About Novachip Design: Novachip Design is a semiconductor design services company.
+Learn to run reliable cloud infrastructure at scale.
+
+What you will do:
+• Manage Linux servers and containers
+• Write infrastructure scripts in Bash
+• Work with Kubernetes clusters
+• Document runbooks
+
+What we are looking for:
+• Skills: linux, aws, docker, kubernetes, ci/cd, bash, teamwork
+• Experience: 0-1 years; AWS certification is a plus.
+• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).
+
+Employment type: Full-time graduate trainee.
+Location: Kochi, Kerala.
+Work mode: on-site, five days a week from our office.
+CTC: 5-6 LPA.","aws, bash, ci/cd, docker, kubernetes, linux, machine learning, teamwork","• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).",5-6 LPA,,https://example.com/sample-jobs/novachip-design/cloud-operations-trainee-049,Sample dataset (fictional),sample,sample,"Cloud, DevOps & IT Infrastructure",True,2026-09-27T09:00:00+00:00
+32e35fd12509cb4e,DevOps Engineer Trainee,Kestrel Secure,"New Delhi, Delhi",On-site,0-1 years,0.0,1.0,Graduate Trainee,"About Kestrel Secure: Kestrel Secure is a cybersecurity firm offering managed detection and response.
+Learn to run reliable cloud infrastructure at scale.
+
+What you will do:
+• Work with Kubernetes clusters
+• Monitor services and respond to alerts
+• Automate deployments with CI/CD pipelines
+• Document runbooks
+
+What we are looking for:
+• Skills: linux, aws, docker, kubernetes, ci/cd, bash, problem solving
+• Experience: 0-1 years; AWS certification is a plus.
+• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc. in Computer Science or a related field.
+
+Employment type: Full-time graduate trainee.
+Location: New Delhi, Delhi.
+Work mode: on-site, five days a week from our office.","aws, bash, ci/cd, cybersecurity, docker, kubernetes, linux, problem solving","• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc. Employment type: Full-time graduate trainee.",,,https://example.com/sample-jobs/kestrel-secure/devops-engineer-trainee-050,Sample dataset (fictional),sample,sample,"Cloud, DevOps & IT Infrastructure",True,2026-10-18T09:00:00+00:00
+fb85c29a9fe39de7,Cloud Operations Trainee,Novachip Design,"Kolkata, West Bengal",On-site,0-1 years,0.0,1.0,Graduate Trainee,"About Novachip Design: Novachip Design is a semiconductor design services company.
+Learn to run reliable cloud infrastructure at scale.
+
+What you will do:
+• Automate deployments with CI/CD pipelines
+• Monitor services and respond to alerts
+• Manage Linux servers and containers
+• Write infrastructure scripts in Bash
+
+What we are looking for:
+• Skills: linux, aws, docker, kubernetes, ci/cd, bash
+• Experience: 0-1 years; AWS certification is a plus.
+• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc. in Computer Science or a related field.
+
+Employment type: Full-time graduate trainee.
+Location: Kolkata, West Bengal.
+Work mode: on-site, five days a week from our office.
+Apply by 13 November 2026.","aws, bash, ci/cd, docker, kubernetes, linux","• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc. Employment type: Full-time graduate trainee.",,2026-11-13,https://example.com/sample-jobs/novachip-design/cloud-operations-trainee-051,Sample dataset (fictional),sample,sample,"Cloud, DevOps & IT Infrastructure",True,2026-10-02T09:00:00+00:00
+815fdaf84109589e,Cloud Operations Trainee,Teal Logistics Digital,"New Delhi, Delhi",On-site,0-1 years,0.0,1.0,Graduate Trainee,"About Teal Logistics Digital: Teal Logistics Digital is a supply-chain analytics company.
+Learn to run reliable cloud infrastructure at scale.
+
+What you will do:
+• Write infrastructure scripts in Bash
+• Monitor services and respond to alerts
+• Work with Kubernetes clusters
+• Manage Linux servers and containers
+
+What we are looking for:
+• Skills: linux, aws, docker, kubernetes, ci/cd, bash
+• Experience: 0-1 years; AWS certification is a plus.
+• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc. in Computer Science or a related field.
+
+Employment type: Full-time graduate trainee.
+Location: New Delhi, Delhi.
+Work mode: on-site, five days a week from our office.
+Apply by 10 November 2026.","aws, bash, ci/cd, docker, kubernetes, linux","• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc. Employment type: Full-time graduate trainee.",,2026-11-10,https://example.com/sample-jobs/teal-logistics-digital/cloud-operations-trainee-052,Sample dataset (fictional),sample,sample,"Cloud, DevOps & IT Infrastructure",True,2026-10-07T09:00:00+00:00
+595acffd90f7f497,Cloud Operations Trainee,Granite Infra Solutions,"Chennai, Tamil Nadu",Unknown,0-1 years,0.0,1.0,Graduate Trainee,"About Granite Infra Solutions: Granite Infra Solutions is a cloud infrastructure and managed-services provider.
+Learn to run reliable cloud infrastructure at scale.
+
+What you will do:
+• Document runbooks
+• Write infrastructure scripts in Bash
+• Monitor services and respond to alerts
+• Work with Kubernetes clusters
+
+What we are looking for:
+• Skills: linux, aws, docker, kubernetes, ci/cd, bash
+• Experience: 0-1 years; AWS certification is a plus.
+• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc. preferred.
+
+Employment type: Full-time graduate trainee.
+Location: Chennai, Tamil Nadu.
+CTC: 5-6 LPA.
+Apply by 04 October 2026.","aws, bash, ci/cd, docker, kubernetes, linux, problem solving",• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc.,5-6 LPA,2026-10-04,https://example.com/sample-jobs/granite-infra-solutions/cloud-operations-trainee-053,Sample dataset (fictional),sample,sample,"Cloud, DevOps & IT Infrastructure",True,2026-10-01T09:00:00+00:00
+82090cf9927e4bdf,Cloud Support Associate,Deltawave Software,"Jaipur, Rajasthan",Unknown,0 to 2 years,0.0,2.0,Full-time,"About Deltawave Software: Deltawave Software is a SaaS start-up building collaboration tools for small businesses.
+Help customers solve cloud infrastructure issues.
+
+What you will do:
+• Work in rotational shifts
+• Monitor service health
+• Explain technical concepts clearly
+• Contribute to the knowledge base
+
+What we are looking for:
+• Skills: aws, azure, linux, networking, communication
+• 0 to 2 years of experience.
+• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).
+
+Employment type: Full-time.
+Location: Jaipur, Rajasthan.
+CTC: 4.5 LPA.","aws, azure, communication, linux, machine learning, networking, teamwork","• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).",4.5 LPA,,https://example.com/sample-jobs/deltawave-software/cloud-support-associate-054,Sample dataset (fictional),sample,sample,"Cloud, DevOps & IT Infrastructure",True,2026-10-17T09:00:00+00:00
+03acb868a9b3cad2,Associate Cloud Engineer,Saffron Agritech,"Noida, Uttar Pradesh",On-site,0 to 2 years,0.0,2.0,Full-time,"About Saffron Agritech: Saffron Agritech is an agritech start-up using IoT and analytics for farmers.
+Help customers solve cloud infrastructure issues.
+
+What you will do:
+• Monitor service health
+• Escalate complex problems
+• Contribute to the knowledge base
+• Explain technical concepts clearly
+
+What we are looking for:
+• Skills: aws, azure, linux, networking, communication
+• 0 to 2 years of experience.
+• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering.
+
+Employment type: Full-time.
+Location: Noida, Uttar Pradesh.
+Work mode: on-site, five days a week from our office.
+Apply by 15 November 2026.","aws, azure, communication, iot, linux, networking","• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering.",,2026-11-15,https://example.com/sample-jobs/saffron-agritech/associate-cloud-engineer-055,Sample dataset (fictional),sample,sample,"Cloud, DevOps & IT Infrastructure",True,2026-10-04T09:00:00+00:00
+a88e4d7508730fe9,Associate Cloud Engineer,Bluefin Systems,"New Delhi, Delhi",Unknown,0 to 2 years,0.0,2.0,Full-time,"About Bluefin Systems: Bluefin Systems is a product company building cloud-native logistics software.
+Help customers solve cloud infrastructure issues.
+
+What you will do:
+• Monitor service health
+• Troubleshoot customer issues on AWS and Azure
+• Explain technical concepts clearly
+• Work in rotational shifts
+
+What we are looking for:
+• Skills: aws, azure, linux, networking, communication
+• 0 to 2 years of experience.
+• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc. preferred.
+
+Employment type: Full-time.
+Location: New Delhi, Delhi.
+CTC: 4.5 LPA.
+Apply by 21 November 2026.","aws, azure, communication, linux, networking, problem solving",• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc.,4.5 LPA,2026-11-21,https://example.com/sample-jobs/bluefin-systems/associate-cloud-engineer-056,Sample dataset (fictional),sample,sample,"Cloud, DevOps & IT Infrastructure",True,2026-10-21T09:00:00+00:00
+b0a85c6211078eb5,Cloud Support Associate,Cedarline Technologies,"Chennai, Tamil Nadu",Unknown,0 to 2 years,0.0,2.0,Full-time,"About Cedarline Technologies: Cedarline Technologies is an IT services firm delivering digital transformation projects.
+Help customers solve cloud infrastructure issues.
+
+What you will do:
+• Escalate complex problems
+• Monitor service health
+• Contribute to the knowledge base
+• Explain technical concepts clearly
+
+What we are looking for:
+• Skills: aws, azure, linux, networking, communication, teamwork
+• 0 to 2 years of experience.
+• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc. preferred.
+
+Employment type: Full-time.
+Location: Chennai, Tamil Nadu.
+CTC: 4.5 LPA.
+Apply by 15 October 2026.","aws, azure, communication, linux, networking, problem solving, teamwork",• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc.,4.5 LPA,2026-10-15,https://example.com/sample-jobs/cedarline-technologies/cloud-support-associate-057,Sample dataset (fictional),sample,sample,"Cloud, DevOps & IT Infrastructure",True,2026-10-07T09:00:00+00:00
+c5c4c8cc013111a1,Cloud Support Associate,Umbra Insurance Digital,"Mumbai, Maharashtra",On-site,0 to 2 years,0.0,2.0,Full-time,"About Umbra Insurance Digital: Umbra Insurance Digital is the digital arm of an insurance group.
+Help customers solve cloud infrastructure issues.
+
+What you will do:
+• Explain technical concepts clearly
+• Work in rotational shifts
+• Troubleshoot customer issues on AWS and Azure
+• Contribute to the knowledge base
+
+What we are looking for:
+• Skills: aws, azure, linux, networking, communication
+• 0 to 2 years of experience.
+• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).
+
+Employment type: Full-time.
+Location: Mumbai, Maharashtra.
+Work mode: on-site, five days a week from our office.","aws, azure, communication, linux, machine learning, networking","• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).",,,https://example.com/sample-jobs/umbra-insurance-digital/cloud-support-associate-058,Sample dataset (fictional),sample,sample,"Cloud, DevOps & IT Infrastructure",True,2026-10-04T09:00:00+00:00
+da77da837ec80250,Cybersecurity Analyst – Graduate,Juniper Learning Tech,"Kolkata, West Bengal",On-site,Freshers,0.0,1.0,Full-time,"About Juniper Learning Tech: Juniper Learning Tech is an edtech platform for school and college learners.
+Protect our clients by monitoring and responding to security events.
+
+What you will do:
+• Support compliance audits
+• Keep up with threat intelligence
+• Investigate suspicious activity
+• Assist with vulnerability assessments
+
+What we are looking for:
+• Skills: cybersecurity, network security, siem, linux, networking, communication, problem solving
+• Freshers with security certifications are encouraged to apply.
+• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).
+
+Employment type: Full-time.
+Location: Kolkata, West Bengal.
+Work mode: on-site, five days a week from our office.
+CTC: 4-6 LPA.
+Apply by 22 November 2026.","communication, cybersecurity, linux, machine learning, network security, networking, problem solving, siem","• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).",4-6 LPA,2026-11-22,https://example.com/sample-jobs/juniper-learning-tech/cybersecurity-analyst-graduate-059,Sample dataset (fictional),sample,sample,Cybersecurity,True,2026-10-15T09:00:00+00:00
+a7a775fac8b25ee3,Cybersecurity Analyst – Graduate,Vertex Cloudworks,"Ahmedabad, Gujarat",On-site,Freshers,0.0,1.0,Full-time,"About Vertex Cloudworks: Vertex Cloudworks is a DevOps and platform-engineering consultancy.
+Protect our clients by monitoring and responding to security events.
+
+What you will do:
+• Document incidents
+• Keep up with threat intelligence
+• Support compliance audits
+• Investigate suspicious activity
+
+What we are looking for:
+• Skills: cybersecurity, network security, siem, linux, networking
+• Freshers with security certifications are encouraged to apply.
+• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).
+
+Employment type: Full-time.
+Location: Ahmedabad, Gujarat.
+Work mode: on-site, five days a week from our office.
+CTC: 4-6 LPA.","cybersecurity, linux, machine learning, network security, networking, siem","• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).",4-6 LPA,,https://example.com/sample-jobs/vertex-cloudworks/cybersecurity-analyst-graduate-060,Sample dataset (fictional),sample,sample,Cybersecurity,True,2026-09-28T09:00:00+00:00
+22412ac45fbd5e3b,SOC Analyst Trainee,Juniper Learning Tech,"Ahmedabad, Gujarat",On-site,Freshers,0.0,1.0,Graduate Trainee,"About Juniper Learning Tech: Juniper Learning Tech is an edtech platform for school and college learners.
+Protect our clients by monitoring and responding to security events.
+
+What you will do:
+• Support compliance audits
+• Document incidents
+• Keep up with threat intelligence
+• Monitor alerts in the SIEM
+
+What we are looking for:
+• Skills: cybersecurity, network security, siem, linux, networking, git, teamwork
+• Freshers with security certifications are encouraged to apply.
+• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).
+
+Employment type: Full-time.
+Location: Ahmedabad, Gujarat.
+Work mode: on-site, five days a week from our office.
+CTC: 4-6 LPA.
+Apply by 13 November 2026.","cybersecurity, git, linux, machine learning, network security, networking, siem, teamwork","• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).",4-6 LPA,2026-11-13,https://example.com/sample-jobs/juniper-learning-tech/soc-analyst-trainee-061,Sample dataset (fictional),sample,sample,Cybersecurity,True,2026-10-08T09:00:00+00:00
+e29540181fbb51b7,Cybersecurity Analyst – Graduate,Willow Civic Tech,"Ahmedabad, Gujarat",On-site,Freshers,0.0,1.0,Full-time,"About Willow Civic Tech: Willow Civic Tech is a govtech company building citizen-service portals.
+Protect our clients by monitoring and responding to security events.
+
+What you will do:
+• Support compliance audits
+• Assist with vulnerability assessments
+• Document incidents
+• Monitor alerts in the SIEM
+
+What we are looking for:
+• Skills: cybersecurity, network security, siem, linux, networking, agile
+• Freshers with security certifications are encouraged to apply.
+• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc. preferred.
+
+Employment type: Full-time.
+Location: Ahmedabad, Gujarat.
+Work mode: on-site, five days a week from our office.
+CTC: 4-6 LPA.","agile, cybersecurity, linux, network security, networking, problem solving, siem",• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc.,4-6 LPA,,https://example.com/sample-jobs/willow-civic-tech/cybersecurity-analyst-graduate-062,Sample dataset (fictional),sample,sample,Cybersecurity,True,2026-10-06T09:00:00+00:00
+8dbd7d9d459b477f,Cybersecurity Analyst – Graduate,Peacock Payments,"New Delhi, Delhi",Unknown,Freshers,0.0,1.0,Full-time,"About Peacock Payments: Peacock Payments is a payments gateway for online merchants.
+Protect our clients by monitoring and responding to security events.
+
+What you will do:
+• Document incidents
+• Assist with vulnerability assessments
+• Keep up with threat intelligence
+• Investigate suspicious activity
+
+What we are looking for:
+• Skills: cybersecurity, network security, siem, linux, networking, git, communication
+• Freshers with security certifications are encouraged to apply.
+• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering.
+
+Employment type: Full-time.
+Location: New Delhi, Delhi.","communication, cybersecurity, git, linux, network security, networking, siem","• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering.",,,https://example.com/sample-jobs/peacock-payments/cybersecurity-analyst-graduate-063,Sample dataset (fictional),sample,sample,Cybersecurity,True,2026-10-13T09:00:00+00:00
+8300b41e85e9ef43,Security Engineering Intern,Orchid Consulting Group,"Kochi, Kerala",On-site,Internship (no experience required),0.0,0.0,Internship,"About Orchid Consulting Group: Orchid Consulting Group is a management and technology consulting firm.
+Work with our red team on application-security assessments.
+
+What you will do:
+• Research new attack techniques
+• Harden Linux servers
+• Assist with penetration tests
+• Prepare assessment reports
+
+What we are looking for:
+• Skills: python, penetration testing, cybersecurity, linux, cryptography, git, agile
+• Final-year students only.
+• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc. preferred.
+
+Employment type: Internship.
+Location: Kochi, Kerala.
+Work mode: on-site, five days a week from our office.
+Stipend: ₹20,000 per month.","agile, cryptography, cybersecurity, git, linux, penetration testing, problem solving, python",• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc.,"₹20,000 per month",,https://example.com/sample-jobs/orchid-consulting-group/security-engineering-intern-064,Sample dataset (fictional),sample,sample,Cybersecurity,True,2026-10-16T09:00:00+00:00
+56304252fbf46544,Security Engineering Intern,Peacock Payments,"Hyderabad, Telangana",Unknown,Internship (no experience required),0.0,0.0,Internship,"About Peacock Payments: Peacock Payments is a payments gateway for online merchants.
+Work with our red team on application-security assessments.
+
+What you will do:
+• Harden Linux servers
+• Research new attack techniques
+• Assist with penetration tests
+• Prepare assessment reports
+
+What we are looking for:
+• Skills: python, penetration testing, cybersecurity, linux, cryptography, teamwork
+• Final-year students only.
+• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc. preferred.
+
+Employment type: Internship.
+Location: Hyderabad, Telangana.
+Stipend: ₹20,000 per month.","cryptography, cybersecurity, linux, penetration testing, problem solving, python, teamwork",• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc.,"₹20,000 per month",,https://example.com/sample-jobs/peacock-payments/security-engineering-intern-065,Sample dataset (fictional),sample,sample,Cybersecurity,True,2026-10-18T09:00:00+00:00
+bd20f310c112d151,Security Engineering Intern,Foxglove Health AI,"Bengaluru, Karnataka",On-site,Internship (no experience required),0.0,0.0,Internship,"About Foxglove Health AI: Foxglove Health AI is a healthtech company applying AI to diagnostic imaging.
+Work with our red team on application-security assessments.
+
+What you will do:
+• Research new attack techniques
+• Assist with penetration tests
+• Write Python scripts for security automation
+• Harden Linux servers
+
+What we are looking for:
+• Skills: python, penetration testing, cybersecurity, linux, cryptography
+• Final-year students only.
+• Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.
+
+Employment type: Internship.
+Location: Bengaluru, Karnataka.
+Work mode: on-site, five days a week from our office.
+Stipend: ₹20,000 per month.","cryptography, cybersecurity, linux, penetration testing, python",• Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.,"₹20,000 per month",,https://example.com/sample-jobs/foxglove-health-ai/security-engineering-intern-066,Sample dataset (fictional),sample,sample,Cybersecurity,True,2026-10-07T09:00:00+00:00
+887b7cdfabe135f3,Security Engineering Intern,Indigo Retail Labs,"New Delhi, Delhi",Unknown,Internship (no experience required),0.0,0.0,Internship,"About Indigo Retail Labs: Indigo Retail Labs is an e-commerce technology company serving fashion brands.
+Work with our red team on application-security assessments.
+
+What you will do:
+• Prepare assessment reports
+• Harden Linux servers
+• Write Python scripts for security automation
+• Assist with penetration tests
+
+What we are looking for:
+• Skills: python, penetration testing, cybersecurity, linux, cryptography, communication
+• Final-year students only.
+• Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.
+
+Employment type: Internship.
+Location: New Delhi, Delhi.
+Stipend: ₹20,000 per month.","communication, cryptography, cybersecurity, linux, penetration testing, python",• Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.,"₹20,000 per month",,https://example.com/sample-jobs/indigo-retail-labs/security-engineering-intern-067,Sample dataset (fictional),sample,sample,Cybersecurity,True,2026-10-09T09:00:00+00:00
+8a1533a79ea2d66f,Generative AI Intern,Kestrel Secure,"Bengaluru, Karnataka",On-site,Internship (no experience required),0.0,0.0,Internship,"About Kestrel Secure: Kestrel Secure is a cybersecurity firm offering managed detection and response.
+Build language features such as search, summarisation and chat assistants.
+
+What you will do:
+• Prototype LLM-powered features
+• Evaluate model outputs for quality and bias
+• Clean and label text data
+• Write evaluation reports
+
+What we are looking for:
+• Skills: python, natural language processing, pytorch, hugging face, large language models, agile
+• No prior industry experience required.
+• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc. preferred.
+
+Employment type: Internship (6 months).
+Location: Bengaluru, Karnataka.
+Work mode: on-site, five days a week from our office.
+Stipend: ₹35,000 per month.
+Apply by 26 November 2026.","agile, cybersecurity, generative ai, hugging face, large language models, natural language processing, problem solving, python, pytorch",• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc.,"₹35,000 per month",2026-11-26,https://example.com/sample-jobs/kestrel-secure/generative-ai-intern-068,Sample dataset (fictional),sample,sample,Data Science & AI,True,2026-10-15T09:00:00+00:00
+788596e34db405e6,NLP Engineer Intern,Kestrel Secure,"Kolkata, West Bengal",On-site,Internship (no experience required),0.0,0.0,Internship,"About Kestrel Secure: Kestrel Secure is a cybersecurity firm offering managed detection and response.
+Build language features such as search, summarisation and chat assistants.
+
+What you will do:
+• Evaluate model outputs for quality and bias
+• Prototype LLM-powered features
+• Clean and label text data
+• Build retrieval pipelines over documents
+
+What we are looking for:
+• Skills: python, natural language processing, pytorch, hugging face, large language models
+• No prior industry experience required.
+• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc. in Computer Science or a related field.
+
+Employment type: Internship (6 months).
+Location: Kolkata, West Bengal.
+Work mode: on-site, five days a week from our office.","cybersecurity, hugging face, large language models, natural language processing, python, pytorch","• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc.",,,https://example.com/sample-jobs/kestrel-secure/nlp-engineer-intern-069,Sample dataset (fictional),sample,sample,Data Science & AI,True,2026-10-06T09:00:00+00:00
+dc0affff23eac581,NLP Engineer Intern,Bluefin Systems,"Kochi, Kerala",On-site,Internship (no experience required),0.0,0.0,Internship,"About Bluefin Systems: Bluefin Systems is a product company building cloud-native logistics software.
+Build language features such as search, summarisation and chat assistants.
+
+What you will do:
+• Clean and label text data
+• Prototype LLM-powered features
+• Fine-tune transformer models
+• Evaluate model outputs for quality and bias
+
+What we are looking for:
+• Skills: python, natural language processing, pytorch, hugging face, large language models
+• No prior industry experience required.
+• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc. in Computer Science or a related field.
+
+Employment type: Internship (6 months).
+Location: Kochi, Kerala.
+Work mode: on-site, five days a week from our office.","hugging face, large language models, natural language processing, python, pytorch","• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc.",,,https://example.com/sample-jobs/bluefin-systems/nlp-engineer-intern-070,Sample dataset (fictional),sample,sample,Data Science & AI,True,2026-09-27T09:00:00+00:00
+e39ad826229efecc,NLP Engineer Intern,Vertex Cloudworks,"Pune, Maharashtra",On-site,Internship (no experience required),0.0,0.0,Internship,"About Vertex Cloudworks: Vertex Cloudworks is a DevOps and platform-engineering consultancy.
+Build language features such as search, summarisation and chat assistants.
+
+What you will do:
+• Write evaluation reports
+• Fine-tune transformer models
+• Evaluate model outputs for quality and bias
+• Prototype LLM-powered features
+
+What we are looking for:
+• Skills: python, natural language processing, pytorch, hugging face, large language models, linux, teamwork
+• No prior industry experience required.
+• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc. preferred.
+
+Employment type: Internship (6 months).
+Location: Pune, Maharashtra.
+Work mode: on-site, five days a week from our office.
+Apply by 22 October 2026.","hugging face, large language models, linux, natural language processing, problem solving, python, pytorch, teamwork",• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc.,,2026-10-22,https://example.com/sample-jobs/vertex-cloudworks/nlp-engineer-intern-071,Sample dataset (fictional),sample,sample,Data Science & AI,True,2026-10-09T09:00:00+00:00
+0391d5d5ff6a5f50,Generative AI Intern,Kestrel Secure,"Hyderabad, Telangana",On-site,Internship (no experience required),0.0,0.0,Internship,"About Kestrel Secure: Kestrel Secure is a cybersecurity firm offering managed detection and response.
+Build language features such as search, summarisation and chat assistants.
+
+What you will do:
+• Write evaluation reports
+• Fine-tune transformer models
+• Prototype LLM-powered features
+• Clean and label text data
+
+What we are looking for:
+• Skills: python, natural language processing, pytorch, hugging face, large language models
+• No prior industry experience required.
+• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).
+
+Employment type: Internship (6 months).
+Location: Hyderabad, Telangana.
+Work mode: on-site, five days a week from our office.","cybersecurity, generative ai, hugging face, large language models, machine learning, natural language processing, python, pytorch","• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).",,,https://example.com/sample-jobs/kestrel-secure/generative-ai-intern-072,Sample dataset (fictional),sample,sample,Data Science & AI,True,2026-10-05T09:00:00+00:00
+d3e562417f8edf2a,Computer Vision Engineer – Fresher,Arcadia Data Labs,"Kochi, Kerala",On-site,0-1 years,0.0,1.0,Full-time,"About Arcadia Data Labs: Arcadia Data Labs is an analytics consultancy helping retailers make data-driven decisions.
+Develop vision models for medical-image analysis.
+
+What you will do:
+• Prepare and augment image datasets
+• Write technical reports
+• Collaborate with domain experts
+• Optimise inference speed
+
+What we are looking for:
+• Skills: python, computer vision, deep learning, pytorch, numpy, teamwork
+• Experience: 0-1 years.
+• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc. in Computer Science or a related field.
+
+Employment type: Full-time.
+Location: Kochi, Kerala.
+Work mode: on-site, five days a week from our office.","computer vision, deep learning, numpy, python, pytorch, teamwork","• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc.",,,https://example.com/sample-jobs/arcadia-data-labs/computer-vision-engineer-fresher-073,Sample dataset (fictional),sample,sample,Data Science & AI,True,2026-09-29T09:00:00+00:00
+f41fb1d2fa2ebcef,Computer Vision Engineer – Fresher,Cedarline Technologies,"Kolkata, West Bengal",Unknown,0-1 years,0.0,1.0,Full-time,"About Cedarline Technologies: Cedarline Technologies is an IT services firm delivering digital transformation projects.
+Develop vision models for medical-image analysis.
+
+What you will do:
+• Optimise inference speed
+• Collaborate with domain experts
+• Write technical reports
+• Track experiments
+
+What we are looking for:
+• Skills: python, computer vision, deep learning, pytorch, numpy, linux
+• Experience: 0-1 years.
+• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).
+
+Employment type: Full-time.
+Location: Kolkata, West Bengal.
+CTC: 8-10 LPA.
+Apply by 07 October 2026.","computer vision, deep learning, linux, machine learning, numpy, python, pytorch","• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).",8-10 LPA,2026-10-07,https://example.com/sample-jobs/cedarline-technologies/computer-vision-engineer-fresher-074,Sample dataset (fictional),sample,sample,Data Science & AI,True,2026-10-09T09:00:00+00:00
+17b47c91e556dcac,Computer Vision Engineer – Fresher,Orchid Consulting Group,"Gurugram, Haryana",Unknown,0-1 years,0.0,1.0,Full-time,"About Orchid Consulting Group: Orchid Consulting Group is a management and technology consulting firm.
+Develop vision models for medical-image analysis.
+
+What you will do:
+• Write technical reports
+• Optimise inference speed
+• Collaborate with domain experts
+• Prepare and augment image datasets
+
+What we are looking for:
+• Skills: python, computer vision, deep learning, pytorch, numpy, problem solving, teamwork
+• Experience: 0-1 years.
+• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc. in Computer Science or a related field.
+
+Employment type: Full-time.
+Location: Gurugram, Haryana.","computer vision, deep learning, numpy, problem solving, python, pytorch, teamwork","• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc.",,,https://example.com/sample-jobs/orchid-consulting-group/computer-vision-engineer-fresher-075,Sample dataset (fictional),sample,sample,Data Science & AI,True,2026-10-22T09:00:00+00:00
+d5b48c5a01f0d990,Computer Vision Engineer – Fresher,Peacock Payments,"Kolkata, West Bengal",Unknown,0-1 years,0.0,1.0,Full-time,"About Peacock Payments: Peacock Payments is a payments gateway for online merchants.
+Develop vision models for medical-image analysis.
+
+What you will do:
+• Write technical reports
+• Collaborate with domain experts
+• Optimise inference speed
+• Train image-classification and segmentation models
+
+What we are looking for:
+• Skills: python, computer vision, deep learning, pytorch, numpy
+• Experience: 0-1 years.
+• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc. preferred.
+
+Employment type: Full-time.
+Location: Kolkata, West Bengal.
+Apply by 29 October 2026.","computer vision, deep learning, numpy, problem solving, python, pytorch",• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc.,,2026-10-29,https://example.com/sample-jobs/peacock-payments/computer-vision-engineer-fresher-076,Sample dataset (fictional),sample,sample,Data Science & AI,True,2026-10-12T09:00:00+00:00
+9e9cb0bd7861071e,Computer Vision Engineer – Fresher,Bluefin Systems,"Jaipur, Rajasthan",On-site,0-1 years,0.0,1.0,Full-time,"About Bluefin Systems: Bluefin Systems is a product company building cloud-native logistics software.
+Develop vision models for medical-image analysis.
+
+What you will do:
+• Optimise inference speed
+• Prepare and augment image datasets
+• Train image-classification and segmentation models
+• Write technical reports
+
+What we are looking for:
+• Skills: python, computer vision, deep learning, pytorch, numpy, communication, agile
+• Experience: 0-1 years.
+• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).
+
+Employment type: Full-time.
+Location: Jaipur, Rajasthan.
+Work mode: on-site, five days a week from our office.
+CTC: 8-10 LPA.
+Apply by 25 October 2026.","agile, communication, computer vision, deep learning, machine learning, numpy, python, pytorch","• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).",8-10 LPA,2026-10-25,https://example.com/sample-jobs/bluefin-systems/computer-vision-engineer-fresher-077,Sample dataset (fictional),sample,sample,Data Science & AI,True,2026-09-30T09:00:00+00:00
+7a15083fb582c6ce,Junior Data Engineer,Bluefin Systems,"Noida, Uttar Pradesh",Unknown,0-1 years,0.0,1.0,Graduate Trainee,"About Bluefin Systems: Bluefin Systems is a product company building cloud-native logistics software.
+Build pipelines that move and transform data reliably.
+
+What you will do:
+• Model data in the warehouse
+• Document data lineage
+• Write data-quality checks
+• Schedule workflows
+
+What we are looking for:
+• Skills: python, sql, spark, etl, aws, data engineering
+• 0-1 years of experience.
+• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc. preferred.
+
+Employment type: Full-time graduate trainee.
+Location: Noida, Uttar Pradesh.
+Apply by 12 November 2026.","aws, data engineering, etl, problem solving, python, spark, sql",• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc.,,2026-11-12,https://example.com/sample-jobs/bluefin-systems/junior-data-engineer-078,Sample dataset (fictional),sample,sample,Data Engineering,True,2026-10-22T09:00:00+00:00
+b665214a00fa1c27,Junior Data Engineer,Foxglove Health AI,"New Delhi, Delhi",Unknown,0-1 years,0.0,1.0,Graduate Trainee,"About Foxglove Health AI: Foxglove Health AI is a healthtech company applying AI to diagnostic imaging.
+Build pipelines that move and transform data reliably.
+
+What you will do:
+• Schedule workflows
+• Develop ETL jobs with Spark and Python
+• Model data in the warehouse
+• Optimise query performance
+
+What we are looking for:
+• Skills: python, sql, spark, etl, aws, data engineering
+• 0-1 years of experience.
+• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering.
+
+Employment type: Full-time graduate trainee.
+Location: New Delhi, Delhi.","aws, data engineering, etl, python, spark, sql","• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering. Employment type: Full-time graduate trainee.",,,https://example.com/sample-jobs/foxglove-health-ai/junior-data-engineer-079,Sample dataset (fictional),sample,sample,Data Engineering,True,2026-09-29T09:00:00+00:00
+effc125fc4ed971c,Junior Data Engineer,Saffron Agritech,"Pune, Maharashtra",On-site,0-1 years,0.0,1.0,Graduate Trainee,"About Saffron Agritech: Saffron Agritech is an agritech start-up using IoT and analytics for farmers.
+Build pipelines that move and transform data reliably.
+
+What you will do:
+• Write data-quality checks
+• Document data lineage
+• Schedule workflows
+• Optimise query performance
+
+What we are looking for:
+• Skills: python, sql, spark, etl, aws, data engineering, git, teamwork
+• 0-1 years of experience.
+• Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.
+
+Employment type: Full-time graduate trainee.
+Location: Pune, Maharashtra.
+Work mode: on-site, five days a week from our office.","aws, data engineering, etl, git, iot, python, spark, sql, teamwork",• Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5. Employment type: Full-time graduate trainee.,,,https://example.com/sample-jobs/saffron-agritech/junior-data-engineer-080,Sample dataset (fictional),sample,sample,Data Engineering,True,2026-09-29T09:00:00+00:00
+12c90c928b20a3da,Junior Data Engineer,Helixon Robotics,"Bengaluru, Karnataka",On-site,0-1 years,0.0,1.0,Graduate Trainee,"About Helixon Robotics: Helixon Robotics is a robotics company building warehouse automation systems.
+Build pipelines that move and transform data reliably.
+
+What you will do:
+• Document data lineage
+• Write data-quality checks
+• Schedule workflows
+• Develop ETL jobs with Spark and Python
+
+What we are looking for:
+• Skills: python, sql, spark, etl, aws, data engineering, git, teamwork
+• 0-1 years of experience.
+• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc. in Computer Science or a related field.
+
+Employment type: Full-time graduate trainee.
+Location: Bengaluru, Karnataka.
+Work mode: on-site, five days a week from our office.
+CTC: 7 LPA.
+Apply by 26 October 2026.","aws, data engineering, etl, git, python, robotics, spark, sql, teamwork","• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc. Employment type: Full-time graduate trainee.",7 LPA,2026-10-26,https://example.com/sample-jobs/helixon-robotics/junior-data-engineer-081,Sample dataset (fictional),sample,sample,Data Engineering,True,2026-10-05T09:00:00+00:00
+df6d044f1f743eaf,Junior Data Engineer,Bluefin Systems,"New Delhi, Delhi",Unknown,0-1 years,0.0,1.0,Graduate Trainee,"About Bluefin Systems: Bluefin Systems is a product company building cloud-native logistics software.
+Build pipelines that move and transform data reliably.
+
+What you will do:
+• Write data-quality checks
+• Optimise query performance
+• Schedule workflows
+• Document data lineage
+
+What we are looking for:
+• Skills: python, sql, spark, etl, aws, data engineering, teamwork
+• 0-1 years of experience.
+• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc. in Computer Science or a related field.
+
+Employment type: Full-time graduate trainee.
+Location: New Delhi, Delhi.
+CTC: 7 LPA.","aws, data engineering, etl, python, spark, sql, teamwork","• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc. Employment type: Full-time graduate trainee.",7 LPA,,https://example.com/sample-jobs/bluefin-systems/junior-data-engineer-082,Sample dataset (fictional),sample,sample,Data Engineering,True,2026-10-21T09:00:00+00:00
+eed866eb344d6b37,Firmware Engineer – Fresher,Peacock Payments,"Ahmedabad, Gujarat",On-site,Fresher,0.0,1.0,Full-time,"About Peacock Payments: Peacock Payments is a payments gateway for online merchants.
+Develop firmware for connected devices.
+
+What you will do:
+• Develop IoT communication modules
+• Write embedded C code for microcontrollers
+• Work with hardware engineers
+• Test firmware on real devices
+
+What we are looking for:
+• Skills: embedded c, embedded systems, c++, iot, linux, communication
+• Freshers from ECE/EEE backgrounds are welcome.
+• Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.
+
+Employment type: Full-time.
+Location: Ahmedabad, Gujarat.
+Work mode: on-site, five days a week from our office.
+Apply by 30 October 2026.","c, c++, communication, embedded systems, iot, linux",• Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.,,2026-10-30,https://example.com/sample-jobs/peacock-payments/firmware-engineer-fresher-083,Sample dataset (fictional),sample,sample,"Embedded, Robotics & Hardware",True,2026-10-23T09:00:00+00:00
+da89d907f79c6253,Embedded Software Engineer Trainee,Indigo Retail Labs,"Chennai, Tamil Nadu",Unknown,Freshers,0.0,1.0,Graduate Trainee,"About Indigo Retail Labs: Indigo Retail Labs is an e-commerce technology company serving fashion brands.
+Develop firmware for connected devices.
+
+What you will do:
+• Write embedded C code for microcontrollers
+• Work with hardware engineers
+• Develop IoT communication modules
+• Write technical documentation
+
+What we are looking for:
+• Skills: embedded c, embedded systems, c++, iot, linux, agile
+• Freshers from ECE/EEE backgrounds are welcome.
+• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc. in Computer Science or a related field.
+
+Employment type: Full-time.
+Location: Chennai, Tamil Nadu.
+CTC: 4.5-6 LPA.
+Apply by 18 September 2026.","agile, c, c++, communication, embedded systems, iot, linux","• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc.",4.5-6 LPA,2026-09-18,https://example.com/sample-jobs/indigo-retail-labs/embedded-software-engineer-trainee-084,Sample dataset (fictional),sample,sample,"Embedded, Robotics & Hardware",True,2026-09-27T09:00:00+00:00
+b7a252b9d2363f39,Embedded Software Engineer Trainee,Granite Infra Solutions,"Mumbai, Maharashtra",On-site,Freshers,0.0,1.0,Graduate Trainee,"About Granite Infra Solutions: Granite Infra Solutions is a cloud infrastructure and managed-services provider.
+Develop firmware for connected devices.
+
+What you will do:
+• Write technical documentation
+• Write embedded C code for microcontrollers
+• Develop IoT communication modules
+• Work with hardware engineers
+
+What we are looking for:
+• Skills: embedded c, embedded systems, c++, iot, linux, communication
+• Freshers from ECE/EEE backgrounds are welcome.
+• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc. in Computer Science or a related field.
+
+Employment type: Full-time.
+Location: Mumbai, Maharashtra.
+Work mode: on-site, five days a week from our office.
+CTC: 4.5-6 LPA.","c, c++, communication, embedded systems, iot, linux","• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc.",4.5-6 LPA,,https://example.com/sample-jobs/granite-infra-solutions/embedded-software-engineer-trainee-085,Sample dataset (fictional),sample,sample,"Embedded, Robotics & Hardware",True,2026-10-06T09:00:00+00:00
+afccebb9b7c31442,Embedded Software Engineer Trainee,Foxglove Health AI,"Bengaluru, Karnataka",On-site,Freshers,0.0,1.0,Graduate Trainee,"About Foxglove Health AI: Foxglove Health AI is a healthtech company applying AI to diagnostic imaging.
+Develop firmware for connected devices.
+
+What you will do:
+• Debug hardware-software integration issues
+• Develop IoT communication modules
+• Write embedded C code for microcontrollers
+• Test firmware on real devices
+
+What we are looking for:
+• Skills: embedded c, embedded systems, c++, iot, linux, problem solving, git
+• Freshers from ECE/EEE backgrounds are welcome.
+• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering.
+
+Employment type: Full-time.
+Location: Bengaluru, Karnataka.
+Work mode: on-site, five days a week from our office.
+CTC: 4.5-6 LPA.","c, c++, communication, embedded systems, git, iot, linux, problem solving","• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering.",4.5-6 LPA,,https://example.com/sample-jobs/foxglove-health-ai/embedded-software-engineer-trainee-086,Sample dataset (fictional),sample,sample,"Embedded, Robotics & Hardware",True,2026-10-20T09:00:00+00:00
+24968d151b31f977,RTL Design Trainee,Peacock Payments,"Indore, Madhya Pradesh",Unknown,0-1 years,0.0,1.0,Graduate Trainee,"About Peacock Payments: Peacock Payments is a payments gateway for online merchants.
+Join our silicon team working on SoC design and verification.
+
+What you will do:
+• Build verification test benches
+• Automate flows with scripts
+• Write RTL in Verilog/SystemVerilog
+• Participate in design reviews
+
+What we are looking for:
+• Skills: verilog, vlsi, c programming, linux, shell scripting, git, agile
+• Experience: 0-1 years.
+• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering.
+
+Employment type: Full-time graduate trainee.
+Location: Indore, Madhya Pradesh.
+Apply by 14 November 2026.","agile, bash, c, git, linux, verilog, vlsi","• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering. Employment type: Full-time graduate trainee.",,2026-11-14,https://example.com/sample-jobs/peacock-payments/rtl-design-trainee-087,Sample dataset (fictional),sample,sample,"Embedded, Robotics & Hardware",True,2026-10-08T09:00:00+00:00
+bb55346f14834896,VLSI Design Engineer – Graduate,Novachip Design,"New Delhi, Delhi",Unknown,0-1 years,0.0,1.0,Graduate Trainee,"About Novachip Design: Novachip Design is a semiconductor design services company.
+Join our silicon team working on SoC design and verification.
+
+What you will do:
+• Run simulations and analyse waveforms
+• Write RTL in Verilog/SystemVerilog
+• Learn physical-design basics
+• Automate flows with scripts
+
+What we are looking for:
+• Skills: verilog, vlsi, c programming, linux, shell scripting, agile
+• Experience: 0-1 years.
+• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc. preferred.
+
+Employment type: Full-time graduate trainee.
+Location: New Delhi, Delhi.
+Apply by 21 September 2026.","agile, bash, c, linux, problem solving, verilog, vlsi",• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc.,,2026-09-21,https://example.com/sample-jobs/novachip-design/vlsi-design-engineer-graduate-088,Sample dataset (fictional),sample,sample,"Embedded, Robotics & Hardware",True,2026-10-02T09:00:00+00:00
+be65736090222be1,RTL Design Trainee,Saffron Agritech,Remote (India),Remote,0-1 years,0.0,1.0,Graduate Trainee,"About Saffron Agritech: Saffron Agritech is an agritech start-up using IoT and analytics for farmers.
+Join our silicon team working on SoC design and verification.
+
+What you will do:
+• Learn physical-design basics
+• Write RTL in Verilog/SystemVerilog
+• Run simulations and analyse waveforms
+• Automate flows with scripts
+
+What we are looking for:
+• Skills: verilog, vlsi, c programming, linux, shell scripting
+• Experience: 0-1 years.
+• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering.
+
+Employment type: Full-time graduate trainee.
+Location: Remote (India).
+This is a fully remote role open to candidates across India.
+CTC: 9 LPA.
+Apply by 12 November 2026.","bash, c, iot, linux, verilog, vlsi","• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering. Employment type: Full-time graduate trainee.",9 LPA,2026-11-12,https://example.com/sample-jobs/saffron-agritech/rtl-design-trainee-089,Sample dataset (fictional),sample,sample,"Embedded, Robotics & Hardware",True,2026-10-05T09:00:00+00:00
+1e6445ccac86567c,RTL Design Trainee,Helixon Robotics,"Kochi, Kerala",On-site,0-1 years,0.0,1.0,Graduate Trainee,"About Helixon Robotics: Helixon Robotics is a robotics company building warehouse automation systems.
+Join our silicon team working on SoC design and verification.
+
+What you will do:
+• Build verification test benches
+• Learn physical-design basics
+• Participate in design reviews
+• Write RTL in Verilog/SystemVerilog
+
+What we are looking for:
+• Skills: verilog, vlsi, c programming, linux, shell scripting, teamwork
+• Experience: 0-1 years.
+• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering.
+
+Employment type: Full-time graduate trainee.
+Location: Kochi, Kerala.
+Work mode: on-site, five days a week from our office.
+Apply by 31 October 2026.","bash, c, linux, robotics, teamwork, verilog, vlsi","• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering. Employment type: Full-time graduate trainee.",,2026-10-31,https://example.com/sample-jobs/helixon-robotics/rtl-design-trainee-090,Sample dataset (fictional),sample,sample,"Embedded, Robotics & Hardware",True,2026-09-28T09:00:00+00:00
+551873d5e184920f,Robotics Software Intern,Cedarline Technologies,"Chennai, Tamil Nadu",Unknown,Internship (no experience required),0.0,0.0,Internship,"About Cedarline Technologies: Cedarline Technologies is an IT services firm delivering digital transformation projects.
+Program robots that automate warehouse operations.
+
+What you will do:
+• Test algorithms in simulation
+• Develop ROS nodes in C++ and Python
+• Tune motion-planning parameters
+• Integrate sensors and cameras
+
+What we are looking for:
+• Skills: python, c++, robotics, computer vision, linux, agile
+• Open to final-year students.
+• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering.
+
+Employment type: Internship.
+Location: Chennai, Tamil Nadu.
+Stipend: ₹22,000 per month.
+Apply by 27 September 2026.","agile, algorithms, c++, computer vision, linux, python, robotics","• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering.","₹22,000 per month",2026-09-27,https://example.com/sample-jobs/cedarline-technologies/robotics-software-intern-091,Sample dataset (fictional),sample,sample,"Embedded, Robotics & Hardware",True,2026-10-01T09:00:00+00:00
+fa3fb927e8176082,Robotics Software Intern,Bluefin Systems,"Jaipur, Rajasthan",Unknown,Internship (no experience required),0.0,0.0,Internship,"About Bluefin Systems: Bluefin Systems is a product company building cloud-native logistics software.
+Program robots that automate warehouse operations.
+
+What you will do:
+• Document experiments
+• Tune motion-planning parameters
+• Integrate sensors and cameras
+• Develop ROS nodes in C++ and Python
+
+What we are looking for:
+• Skills: python, c++, robotics, computer vision, linux
+• Open to final-year students.
+• Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.
+
+Employment type: Internship.
+Location: Jaipur, Rajasthan.
+Stipend: ₹22,000 per month.","c++, computer vision, linux, python, robotics",• Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.,"₹22,000 per month",,https://example.com/sample-jobs/bluefin-systems/robotics-software-intern-092,Sample dataset (fictional),sample,sample,"Embedded, Robotics & Hardware",True,2026-10-13T09:00:00+00:00
+2443ac13bacfbb80,Robotics Software Intern,Lotus Mobility Tech,"Ahmedabad, Gujarat",On-site,Internship (no experience required),0.0,0.0,Internship,"About Lotus Mobility Tech: Lotus Mobility Tech is an electric-mobility company building connected-vehicle software.
+Program robots that automate warehouse operations.
+
+What you will do:
+• Document experiments
+• Analyse robot logs
+• Develop ROS nodes in C++ and Python
+• Test algorithms in simulation
+
+What we are looking for:
+• Skills: python, c++, robotics, computer vision, linux, agile
+• Open to final-year students.
+• Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.
+
+Employment type: Internship.
+Location: Ahmedabad, Gujarat.
+Work mode: on-site, five days a week from our office.","agile, algorithms, c++, computer vision, linux, python, robotics",• Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.,,,https://example.com/sample-jobs/lotus-mobility-tech/robotics-software-intern-093,Sample dataset (fictional),sample,sample,"Embedded, Robotics & Hardware",True,2026-10-06T09:00:00+00:00
+05c6dec1124b661d,Robotics Software Intern,Indigo Retail Labs,"Kochi, Kerala",On-site,Internship (no experience required),0.0,0.0,Internship,"About Indigo Retail Labs: Indigo Retail Labs is an e-commerce technology company serving fashion brands.
+Program robots that automate warehouse operations.
+
+What you will do:
+• Develop ROS nodes in C++ and Python
+• Integrate sensors and cameras
+• Document experiments
+• Tune motion-planning parameters
+
+What we are looking for:
+• Skills: python, c++, robotics, computer vision, linux, teamwork
+• Open to final-year students.
+• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc. preferred.
+
+Employment type: Internship.
+Location: Kochi, Kerala.
+Work mode: on-site, five days a week from our office.
+Stipend: ₹22,000 per month.","c++, computer vision, linux, problem solving, python, robotics, teamwork",• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc.,"₹22,000 per month",,https://example.com/sample-jobs/indigo-retail-labs/robotics-software-intern-094,Sample dataset (fictional),sample,sample,"Embedded, Robotics & Hardware",True,2026-10-13T09:00:00+00:00
+b351e95602b9a27f,Product Design Intern,Orchid Consulting Group,"Gurugram, Haryana",Unknown,No experience,0.0,1.0,Internship,"About Orchid Consulting Group: Orchid Consulting Group is a management and technology consulting firm.
+Design intuitive experiences for our web and mobile products.
+
+What you will do:
+• Create wireframes and prototypes in Figma
+• Conduct usability tests
+• Present design rationale
+• Maintain the design system
+
+What we are looking for:
+• Skills: figma, ui/ux design, communication, html, css, agile, git
+• No experience required; portfolio mandatory.
+• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).
+
+Employment type: Internship (3 months).
+Location: Gurugram, Haryana.","agile, communication, css, figma, git, html, machine learning, ui/ux design","• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).",,,https://example.com/sample-jobs/orchid-consulting-group/product-design-intern-095,Sample dataset (fictional),sample,sample,UI/UX & Design,True,2026-10-13T09:00:00+00:00
+bbb9fdb9a277d90d,Product Design Intern,Indigo Retail Labs,Hybrid — Bengaluru,Hybrid,No experience,0.0,1.0,Internship,"About Indigo Retail Labs: Indigo Retail Labs is an e-commerce technology company serving fashion brands.
+Design intuitive experiences for our web and mobile products.
+
+What you will do:
+• Present design rationale
+• Create wireframes and prototypes in Figma
+• Maintain the design system
+• Conduct usability tests
+
+What we are looking for:
+• Skills: figma, ui/ux design, communication, html, css
+• No experience required; portfolio mandatory.
+• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).
+
+Employment type: Internship (3 months).
+Location: Hybrid — Bengaluru.
+This is a hybrid role with three days a week in the office.
+Apply by 11 November 2026.","communication, css, figma, html, machine learning, ui/ux design","• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).",,2026-11-11,https://example.com/sample-jobs/indigo-retail-labs/product-design-intern-096,Sample dataset (fictional),sample,sample,UI/UX & Design,True,2026-10-09T09:00:00+00:00
+9c1fe8184561cc35,Product Design Intern,Juniper Learning Tech,"Jaipur, Rajasthan",On-site,No experience,0.0,1.0,Internship,"About Juniper Learning Tech: Juniper Learning Tech is an edtech platform for school and college learners.
+Design intuitive experiences for our web and mobile products.
+
+What you will do:
+• Conduct usability tests
+• Maintain the design system
+• Analyse user feedback
+• Create wireframes and prototypes in Figma
+
+What we are looking for:
+• Skills: figma, ui/ux design, communication, html, css
+• No experience required; portfolio mandatory.
+• Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.
+
+Employment type: Internship (3 months).
+Location: Jaipur, Rajasthan.
+Work mode: on-site, five days a week from our office.
+Stipend: ₹12,000 per month.","communication, css, figma, html, ui/ux design",• Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.,"₹12,000 per month",,https://example.com/sample-jobs/juniper-learning-tech/product-design-intern-097,Sample dataset (fictional),sample,sample,UI/UX & Design,True,2026-10-23T09:00:00+00:00
+9b36c4c4f161786e,UI/UX Design Intern,Deltawave Software,"New Delhi, Delhi",Unknown,No experience,0.0,1.0,Internship,"About Deltawave Software: Deltawave Software is a SaaS start-up building collaboration tools for small businesses.
+Design intuitive experiences for our web and mobile products.
+
+What you will do:
+• Analyse user feedback
+• Conduct usability tests
+• Maintain the design system
+• Create wireframes and prototypes in Figma
+
+What we are looking for:
+• Skills: figma, ui/ux design, communication, html, css, agile
+• No experience required; portfolio mandatory.
+• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering.
+
+Employment type: Internship (3 months).
+Location: New Delhi, Delhi.
+Stipend: ₹12,000 per month.","agile, communication, css, figma, html, teamwork, ui/ux design","• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering.","₹12,000 per month",,https://example.com/sample-jobs/deltawave-software/ui-ux-design-intern-098,Sample dataset (fictional),sample,sample,UI/UX & Design,True,2026-10-01T09:00:00+00:00
+e2c7de546f42640c,Product Design Intern,Bluefin Systems,"Bengaluru, Karnataka",On-site,No experience,0.0,1.0,Internship,"About Bluefin Systems: Bluefin Systems is a product company building cloud-native logistics software.
+Design intuitive experiences for our web and mobile products.
+
+What you will do:
+• Maintain the design system
+• Create wireframes and prototypes in Figma
+• Collaborate with developers
+• Present design rationale
+
+What we are looking for:
+• Skills: figma, ui/ux design, communication, html, css, teamwork, linux
+• No experience required; portfolio mandatory.
+• Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.
+
+Employment type: Internship (3 months).
+Location: Bengaluru, Karnataka.
+Work mode: on-site, five days a week from our office.
+Apply by 30 October 2026.","communication, css, figma, html, linux, teamwork, ui/ux design",• Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.,,2026-10-30,https://example.com/sample-jobs/bluefin-systems/product-design-intern-099,Sample dataset (fictional),sample,sample,UI/UX & Design,True,2026-10-10T09:00:00+00:00
+d39f9cdf4ba57dc8,Business Analyst – Fresher,Lotus Mobility Tech,Hybrid — Bengaluru,Hybrid,0-2 years,0.0,2.0,Full-time,"About Lotus Mobility Tech: Lotus Mobility Tech is an electric-mobility company building connected-vehicle software.
+Bridge business needs and technology solutions.
+
+What you will do:
+• Gather and document requirements
+• Support user-acceptance testing
+• Analyse data with SQL and Excel
+• Prepare process flow diagrams
+
+What we are looking for:
+• Skills: business analysis, sql, excel, communication, agile, teamwork
+• Experience: 0-2 years.
+• Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.
+
+Employment type: Full-time.
+Location: Hybrid — Bengaluru.
+This is a hybrid role with three days a week in the office.","agile, business analysis, communication, excel, sql, teamwork",• Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.,,,https://example.com/sample-jobs/lotus-mobility-tech/business-analyst-fresher-100,Sample dataset (fictional),sample,sample,"Business, Product & Operations",True,2026-09-27T09:00:00+00:00
+145e6d234acb9f2b,Associate Business Analyst,Helixon Robotics,"Gurugram, Haryana",On-site,0-2 years,0.0,2.0,Full-time,"About Helixon Robotics: Helixon Robotics is a robotics company building warehouse automation systems.
+Bridge business needs and technology solutions.
+
+What you will do:
+• Coordinate with stakeholders
+• Write user stories
+• Prepare process flow diagrams
+• Gather and document requirements
+
+What we are looking for:
+• Skills: business analysis, sql, excel, communication, agile, problem solving
+• Experience: 0-2 years.
+• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc. in Computer Science or a related field.
+
+Employment type: Full-time.
+Location: Gurugram, Haryana.
+Work mode: on-site, five days a week from our office.
+CTC: 5-7 LPA.
+Apply by 16 October 2026.","agile, business analysis, communication, excel, problem solving, robotics, sql","• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc.",5-7 LPA,2026-10-16,https://example.com/sample-jobs/helixon-robotics/associate-business-analyst-101,Sample dataset (fictional),sample,sample,"Business, Product & Operations",True,2026-10-22T09:00:00+00:00
+1ffbf39b2efb584e,Business Analyst – Fresher,Foxglove Health AI,"Pune, Maharashtra",On-site,0-2 years,0.0,2.0,Full-time,"About Foxglove Health AI: Foxglove Health AI is a healthtech company applying AI to diagnostic imaging.
+Bridge business needs and technology solutions.
+
+What you will do:
+• Coordinate with stakeholders
+• Prepare process flow diagrams
+• Analyse data with SQL and Excel
+• Support user-acceptance testing
+
+What we are looking for:
+• Skills: business analysis, sql, excel, communication, agile, teamwork
+• Experience: 0-2 years.
+• Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.
+
+Employment type: Full-time.
+Location: Pune, Maharashtra.
+Work mode: on-site, five days a week from our office.
+Apply by 01 December 2026.","agile, business analysis, communication, excel, sql, teamwork",• Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.,,2026-12-01,https://example.com/sample-jobs/foxglove-health-ai/business-analyst-fresher-102,Sample dataset (fictional),sample,sample,"Business, Product & Operations",True,2026-10-19T09:00:00+00:00
+84e93ef4e6b7ad3b,Associate Business Analyst,Cedarline Technologies,Hybrid — Pune,Hybrid,0-2 years,0.0,2.0,Full-time,"About Cedarline Technologies: Cedarline Technologies is an IT services firm delivering digital transformation projects.
+Bridge business needs and technology solutions.
+
+What you will do:
+• Prepare process flow diagrams
+• Gather and document requirements
+• Analyse data with SQL and Excel
+• Write user stories
+
+What we are looking for:
+• Skills: business analysis, sql, excel, communication, agile, git, problem solving
+• Experience: 0-2 years.
+• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering.
+
+Employment type: Full-time.
+Location: Hybrid — Pune.
+This is a hybrid role with three days a week in the office.","agile, business analysis, communication, excel, git, problem solving, sql","• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering.",,,https://example.com/sample-jobs/cedarline-technologies/associate-business-analyst-103,Sample dataset (fictional),sample,sample,"Business, Product & Operations",True,2026-10-04T09:00:00+00:00
+6e3234f125d5675c,Business Analyst – Fresher,Bluefin Systems,"Indore, Madhya Pradesh",Unknown,0-2 years,0.0,2.0,Full-time,"About Bluefin Systems: Bluefin Systems is a product company building cloud-native logistics software.
+Bridge business needs and technology solutions.
+
+What you will do:
+• Support user-acceptance testing
+• Coordinate with stakeholders
+• Gather and document requirements
+• Write user stories
+
+What we are looking for:
+• Skills: business analysis, sql, excel, communication, agile, linux
+• Experience: 0-2 years.
+• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc. preferred.
+
+Employment type: Full-time.
+Location: Indore, Madhya Pradesh.
+CTC: 5-7 LPA.","agile, business analysis, communication, excel, linux, problem solving, sql",• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc.,5-7 LPA,,https://example.com/sample-jobs/bluefin-systems/business-analyst-fresher-104,Sample dataset (fictional),sample,sample,"Business, Product & Operations",True,2026-09-28T09:00:00+00:00
+40656192dedb5e98,Analyst – Technology Consulting,Umbra Insurance Digital,"Noida, Uttar Pradesh",On-site,Freshers,0.0,1.0,Graduate Trainee,"About Umbra Insurance Digital: Umbra Insurance Digital is the digital arm of an insurance group.
+Start your consulting career on digital-transformation projects.
+
+What you will do:
+• Analyse client processes
+• Support solution design
+• Test and validate solutions
+• Research industry trends
+
+What we are looking for:
+• Skills: communication, problem solving, sql, excel, agile, linux
+• Freshers from the 2026 batch are eligible.
+• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc. preferred.
+
+Employment type: Full-time graduate program.
+Location: Noida, Uttar Pradesh.
+Work mode: on-site, five days a week from our office.
+CTC: 8 LPA.
+Apply by 15 November 2026.","agile, communication, excel, linux, problem solving, sql",• Freshers from the 2026 batch are eligible. • Eligibility: Any graduate with strong analytical skills;,8 LPA,2026-11-15,https://example.com/sample-jobs/umbra-insurance-digital/analyst-technology-consulting-105,Sample dataset (fictional),sample,sample,"Business, Product & Operations",True,2026-10-23T09:00:00+00:00
+12e058819df5e225,Analyst – Technology Consulting,Foxglove Health AI,"Indore, Madhya Pradesh",On-site,Freshers,0.0,1.0,Graduate Trainee,"About Foxglove Health AI: Foxglove Health AI is a healthtech company applying AI to diagnostic imaging.
+Start your consulting career on digital-transformation projects.
+
+What you will do:
+• Research industry trends
+• Analyse client processes
+• Prepare client presentations
+• Work in cross-functional teams
+
+What we are looking for:
+• Skills: communication, problem solving, sql, excel, agile, linux
+• Freshers from the 2026 batch are eligible.
+• Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.
+
+Employment type: Full-time graduate program.
+Location: Indore, Madhya Pradesh.
+Work mode: on-site, five days a week from our office.","agile, communication, excel, linux, problem solving, sql",• Freshers from the 2026 batch are eligible. • Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.,,,https://example.com/sample-jobs/foxglove-health-ai/analyst-technology-consulting-106,Sample dataset (fictional),sample,sample,"Business, Product & Operations",True,2026-09-25T09:00:00+00:00
+3ed6fa810843c10f,Analyst – Technology Consulting,Willow Civic Tech,"Jaipur, Rajasthan",On-site,Freshers,0.0,1.0,Graduate Trainee,"About Willow Civic Tech: Willow Civic Tech is a govtech company building citizen-service portals.
+Start your consulting career on digital-transformation projects.
+
+What you will do:
+• Research industry trends
+• Support solution design
+• Prepare client presentations
+• Work in cross-functional teams
+
+What we are looking for:
+• Skills: communication, problem solving, sql, excel, agile
+• Freshers from the 2026 batch are eligible.
+• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering.
+
+Employment type: Full-time graduate program.
+Location: Jaipur, Rajasthan.
+Work mode: on-site, five days a week from our office.
+Apply by 15 October 2026.","agile, communication, excel, problem solving, sql","• Freshers from the 2026 batch are eligible. • Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering.",,2026-10-15,https://example.com/sample-jobs/willow-civic-tech/analyst-technology-consulting-107,Sample dataset (fictional),sample,sample,"Business, Product & Operations",True,2026-10-16T09:00:00+00:00
+e63870e7a7a0ee94,Analyst – Technology Consulting,Cedarline Technologies,Remote (India),Remote,Freshers,0.0,1.0,Graduate Trainee,"About Cedarline Technologies: Cedarline Technologies is an IT services firm delivering digital transformation projects.
+Start your consulting career on digital-transformation projects.
+
+What you will do:
+• Research industry trends
+• Prepare client presentations
+• Analyse client processes
+• Support solution design
+
+What we are looking for:
+• Skills: communication, problem solving, sql, excel, agile, linux, teamwork
+• Freshers from the 2026 batch are eligible.
+• Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.
+
+Employment type: Full-time graduate program.
+Location: Remote (India).
+This is a fully remote role open to candidates across India.
+CTC: 8 LPA.
+Apply by 30 September 2026.","agile, communication, excel, linux, problem solving, sql, teamwork",• Freshers from the 2026 batch are eligible. • Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.,8 LPA,2026-09-30,https://example.com/sample-jobs/cedarline-technologies/analyst-technology-consulting-108,Sample dataset (fictional),sample,sample,"Business, Product & Operations",True,2026-10-04T09:00:00+00:00
+02af8ed3aeb64ad2,Technology Consultant – Graduate Program,Foxglove Health AI,"Kochi, Kerala",Unknown,Freshers,0.0,1.0,Graduate Trainee,"About Foxglove Health AI: Foxglove Health AI is a healthtech company applying AI to diagnostic imaging.
+Start your consulting career on digital-transformation projects.
+
+What you will do:
+• Analyse client processes
+• Prepare client presentations
+• Work in cross-functional teams
+• Research industry trends
+
+What we are looking for:
+• Skills: communication, problem solving, sql, excel, agile
+• Freshers from the 2026 batch are eligible.
+• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc. preferred.
+
+Employment type: Full-time graduate program.
+Location: Kochi, Kerala.
+CTC: 8 LPA.
+Apply by 08 October 2026.","agile, communication, excel, problem solving, sql",• Freshers from the 2026 batch are eligible. • Eligibility: Any graduate with strong analytical skills;,8 LPA,2026-10-08,https://example.com/sample-jobs/foxglove-health-ai/technology-consultant-graduate-program-109,Sample dataset (fictional),sample,sample,"Business, Product & Operations",True,2026-09-30T09:00:00+00:00
+778abad6ca541ca6,Associate Product Manager – Fresher,Willow Civic Tech,"Noida, Uttar Pradesh",On-site,Fresher,0.0,1.0,Internship,"About Willow Civic Tech: Willow Civic Tech is a govtech company building citizen-service portals.
+Help define and ship features that customers love.
+
+What you will do:
+• Track competitor products
+• Coordinate launches
+• Analyse product metrics
+• Run user interviews
+
+What we are looking for:
+• Skills: product management, sql, communication, data analysis, agile
+• No prior experience required.
+• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering.
+
+Employment type: Internship.
+Location: Noida, Uttar Pradesh.
+Work mode: on-site, five days a week from our office.
+Stipend: ₹25,000 per month.","agile, communication, data analysis, product management, sql","• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering.","₹25,000 per month",,https://example.com/sample-jobs/willow-civic-tech/associate-product-manager-fresher-110,Sample dataset (fictional),sample,sample,"Business, Product & Operations",True,2026-10-05T09:00:00+00:00
+4aec4c9f10ed835e,Product Management Intern,Lotus Mobility Tech,Hybrid — Pune,Hybrid,No prior experience,0.0,1.0,Internship,"About Lotus Mobility Tech: Lotus Mobility Tech is an electric-mobility company building connected-vehicle software.
+Help define and ship features that customers love.
+
+What you will do:
+• Coordinate launches
+• Analyse product metrics
+• Run user interviews
+• Track competitor products
+
+What we are looking for:
+• Skills: product management, sql, communication, data analysis, agile
+• No prior experience required.
+• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc. in Computer Science or a related field.
+
+Employment type: Internship.
+Location: Hybrid — Pune.
+This is a hybrid role with three days a week in the office.","agile, communication, data analysis, product management, sql","• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc.",,,https://example.com/sample-jobs/lotus-mobility-tech/product-management-intern-111,Sample dataset (fictional),sample,sample,"Business, Product & Operations",True,2026-10-05T09:00:00+00:00
+b04a905f2962cbdf,Associate Product Manager – Fresher,Lotus Mobility Tech,Hybrid — Pune,Hybrid,Fresher,0.0,1.0,Internship,"About Lotus Mobility Tech: Lotus Mobility Tech is an electric-mobility company building connected-vehicle software.
+Help define and ship features that customers love.
+
+What you will do:
+• Analyse product metrics
+• Track competitor products
+• Coordinate launches
+• Prioritise the backlog
+
+What we are looking for:
+• Skills: product management, sql, communication, data analysis, agile, teamwork
+• No prior experience required.
+• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).
+
+Employment type: Internship.
+Location: Hybrid — Pune.
+This is a hybrid role with three days a week in the office.","agile, communication, data analysis, machine learning, product management, sql, teamwork","• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).",,,https://example.com/sample-jobs/lotus-mobility-tech/associate-product-manager-fresher-112,Sample dataset (fictional),sample,sample,"Business, Product & Operations",True,2026-09-30T09:00:00+00:00
+223a891d3eeab1c6,Associate Product Manager – Fresher,Vertex Cloudworks,"Indore, Madhya Pradesh",Unknown,Fresher,0.0,1.0,Internship,"About Vertex Cloudworks: Vertex Cloudworks is a DevOps and platform-engineering consultancy.
+Help define and ship features that customers love.
+
+What you will do:
+• Analyse product metrics
+• Run user interviews
+• Prioritise the backlog
+• Coordinate launches
+
+What we are looking for:
+• Skills: product management, sql, communication, data analysis, agile, git
+• No prior experience required.
+• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc. in Computer Science or a related field.
+
+Employment type: Internship.
+Location: Indore, Madhya Pradesh.
+Stipend: ₹25,000 per month.
+Apply by 22 November 2026.","agile, communication, data analysis, git, product management, sql","• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc.","₹25,000 per month",2026-11-22,https://example.com/sample-jobs/vertex-cloudworks/associate-product-manager-fresher-113,Sample dataset (fictional),sample,sample,"Business, Product & Operations",True,2026-10-07T09:00:00+00:00
+c3b27ac4cdc82670,Technical Support Associate,Helixon Robotics,"Indore, Madhya Pradesh",On-site,0-1 years,0.0,1.0,Full-time,"About Helixon Robotics: Helixon Robotics is a robotics company building warehouse automation systems.
+Keep our employees productive with fast, friendly IT support.
+
+What you will do:
+• Maintain the asset inventory
+• Manage user accounts
+• Configure network devices
+• Resolve hardware and software issues
+
+What we are looking for:
+• Skills: linux, networking, communication, windows, problem solving, agile
+• 0-1 years of experience.
+• Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.
+
+Employment type: Full-time.
+Location: Indore, Madhya Pradesh.
+Work mode: on-site, five days a week from our office.
+CTC: 3-4 LPA.","agile, communication, linux, networking, problem solving, robotics",• Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.,3-4 LPA,,https://example.com/sample-jobs/helixon-robotics/technical-support-associate-114,Sample dataset (fictional),sample,sample,"Cloud, DevOps & IT Infrastructure",True,2026-09-25T09:00:00+00:00
+5e5911a6ef966210,IT Support Engineer – Fresher,Kestrel Secure,"Kochi, Kerala",On-site,0-1 years,0.0,1.0,Full-time,"About Kestrel Secure: Kestrel Secure is a cybersecurity firm offering managed detection and response.
+Keep our employees productive with fast, friendly IT support.
+
+What you will do:
+• Support new-joiner onboarding
+• Manage user accounts
+• Configure network devices
+• Document solutions
+
+What we are looking for:
+• Skills: linux, networking, communication, windows, problem solving, teamwork
+• 0-1 years of experience.
+• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc. preferred.
+
+Employment type: Full-time.
+Location: Kochi, Kerala.
+Work mode: on-site, five days a week from our office.
+CTC: 3-4 LPA.","communication, cybersecurity, linux, networking, problem solving, teamwork",• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc.,3-4 LPA,,https://example.com/sample-jobs/kestrel-secure/it-support-engineer-fresher-115,Sample dataset (fictional),sample,sample,"Cloud, DevOps & IT Infrastructure",True,2026-09-29T09:00:00+00:00
+8ce72a487d6af000,IT Support Engineer – Fresher,Cedarline Technologies,"Ahmedabad, Gujarat",On-site,0-1 years,0.0,1.0,Full-time,"About Cedarline Technologies: Cedarline Technologies is an IT services firm delivering digital transformation projects.
+Keep our employees productive with fast, friendly IT support.
+
+What you will do:
+• Maintain the asset inventory
+• Manage user accounts
+• Support new-joiner onboarding
+• Resolve hardware and software issues
+
+What we are looking for:
+• Skills: linux, networking, communication, windows, problem solving
+• 0-1 years of experience.
+• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).
+
+Employment type: Full-time.
+Location: Ahmedabad, Gujarat.
+Work mode: on-site, five days a week from our office.
+Apply by 07 December 2026.","communication, linux, machine learning, networking, problem solving","• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).",,2026-12-07,https://example.com/sample-jobs/cedarline-technologies/it-support-engineer-fresher-116,Sample dataset (fictional),sample,sample,"Cloud, DevOps & IT Infrastructure",True,2026-10-18T09:00:00+00:00
+8b6004abfed06649,Technical Support Associate,Vertex Cloudworks,"Pune, Maharashtra",Unknown,0-1 years,0.0,1.0,Full-time,"About Vertex Cloudworks: Vertex Cloudworks is a DevOps and platform-engineering consultancy.
+Keep our employees productive with fast, friendly IT support.
+
+What you will do:
+• Manage user accounts
+• Support new-joiner onboarding
+• Maintain the asset inventory
+• Document solutions
+
+What we are looking for:
+• Skills: linux, networking, communication, windows, problem solving, agile
+• 0-1 years of experience.
+• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).
+
+Employment type: Full-time.
+Location: Pune, Maharashtra.
+CTC: 3-4 LPA.
+Apply by 03 December 2026.","agile, communication, linux, machine learning, networking, problem solving","• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).",3-4 LPA,2026-12-03,https://example.com/sample-jobs/vertex-cloudworks/technical-support-associate-117,Sample dataset (fictional),sample,sample,"Cloud, DevOps & IT Infrastructure",True,2026-10-21T09:00:00+00:00
+a61d01f5f954aeb9,Digital Marketing Analyst – Fresher,Teal Logistics Digital,"Gurugram, Haryana",On-site,Fresher,0.0,1.0,Full-time,"About Teal Logistics Digital: Teal Logistics Digital is a supply-chain analytics company.
+Measure and improve our online marketing campaigns.
+
+What you will do:
+• Manage social-media calendars
+• Analyse customer funnels
+• Track campaign performance
+• Run A/B experiments on landing pages
+
+What we are looking for:
+• Skills: digital marketing, excel, data analysis, communication
+• Freshers can apply.
+• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering.
+
+Employment type: Full-time.
+Location: Gurugram, Haryana.
+Work mode: on-site, five days a week from our office.
+CTC: 3.6 LPA.
+Apply by 19 November 2026.","communication, data analysis, digital marketing, excel","• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering.",3.6 LPA,2026-11-19,https://example.com/sample-jobs/teal-logistics-digital/digital-marketing-analyst-fresher-118,Sample dataset (fictional),sample,sample,"Business, Product & Operations",True,2026-10-03T09:00:00+00:00
+e6c51877c789724c,Digital Marketing Analyst – Fresher,Monsoon Media Labs,"Ahmedabad, Gujarat",On-site,Fresher,0.0,1.0,Full-time,"About Monsoon Media Labs: Monsoon Media Labs is a digital media company running streaming and content platforms.
+Measure and improve our online marketing campaigns.
+
+What you will do:
+• Analyse customer funnels
+• Track campaign performance
+• Prepare weekly reports
+• Manage social-media calendars
+
+What we are looking for:
+• Skills: digital marketing, excel, data analysis, communication
+• Freshers can apply.
+• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).
+
+Employment type: Full-time.
+Location: Ahmedabad, Gujarat.
+Work mode: on-site, five days a week from our office.","communication, data analysis, digital marketing, excel, machine learning","• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).",,,https://example.com/sample-jobs/monsoon-media-labs/digital-marketing-analyst-fresher-119,Sample dataset (fictional),sample,sample,"Business, Product & Operations",True,2026-10-01T09:00:00+00:00
+712f5c47f601396d,Digital Marketing Analyst – Fresher,Kestrel Secure,Hybrid — Pune,Hybrid,Fresher,0.0,1.0,Full-time,"About Kestrel Secure: Kestrel Secure is a cybersecurity firm offering managed detection and response.
+Measure and improve our online marketing campaigns.
+
+What you will do:
+• Analyse customer funnels
+• Optimise SEO content
+• Track campaign performance
+• Run A/B experiments on landing pages
+
+What we are looking for:
+• Skills: digital marketing, excel, data analysis, communication
+• Freshers can apply.
+• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc. in Computer Science or a related field.
+
+Employment type: Full-time.
+Location: Hybrid — Pune.
+This is a hybrid role with three days a week in the office.
+Apply by 05 October 2026.","communication, cybersecurity, data analysis, digital marketing, excel","• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc.",,2026-10-05,https://example.com/sample-jobs/kestrel-secure/digital-marketing-analyst-fresher-120,Sample dataset (fictional),sample,sample,"Business, Product & Operations",True,2026-10-02T09:00:00+00:00
+de9c59cc125fbcb2,Digital Marketing Analyst – Fresher,Bluefin Systems,"Hyderabad, Telangana",Unknown,Fresher,0.0,1.0,Full-time,"About Bluefin Systems: Bluefin Systems is a product company building cloud-native logistics software.
+Measure and improve our online marketing campaigns.
+
+What you will do:
+• Track campaign performance
+• Run A/B experiments on landing pages
+• Prepare weekly reports
+• Manage social-media calendars
+
+What we are looking for:
+• Skills: digital marketing, excel, data analysis, communication, teamwork, problem solving
+• Freshers can apply.
+• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).
+
+Employment type: Full-time.
+Location: Hyderabad, Telangana.
+CTC: 3.6 LPA.
+Apply by 28 November 2026.","communication, data analysis, digital marketing, excel, machine learning, problem solving, teamwork","• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).",3.6 LPA,2026-11-28,https://example.com/sample-jobs/bluefin-systems/digital-marketing-analyst-fresher-121,Sample dataset (fictional),sample,sample,"Business, Product & Operations",True,2026-10-14T09:00:00+00:00
+48603c7885d50f63,Financial Analyst – Graduate Trainee,Indigo Retail Labs,"Indore, Madhya Pradesh",Unknown,0-1 years,0.0,1.0,Graduate Trainee,"About Indigo Retail Labs: Indigo Retail Labs is an e-commerce technology company serving fashion brands.
+Support budgeting, forecasting and reporting for our lending business.
+
+What you will do:
+• Automate dashboards in Power BI
+• Track monthly variances
+• Analyse loan-portfolio performance
+• Support audits
+
+What we are looking for:
+• Skills: financial analysis, excel, sql, power bi, communication
+• Experience: 0-1 years.
+• Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.
+
+Employment type: Full-time graduate trainee.
+Location: Indore, Madhya Pradesh.
+Apply by 16 November 2026.","communication, data visualization, excel, financial analysis, power bi, sql",• Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5. Employment type: Full-time graduate trainee.,,2026-11-16,https://example.com/sample-jobs/indigo-retail-labs/financial-analyst-graduate-trainee-122,Sample dataset (fictional),sample,sample,"Business, Product & Operations",True,2026-10-11T09:00:00+00:00
+5567805f3512e71a,Financial Analyst – Graduate Trainee,Novachip Design,Hybrid — Bengaluru,Hybrid,0-1 years,0.0,1.0,Graduate Trainee,"About Novachip Design: Novachip Design is a semiconductor design services company.
+Support budgeting, forecasting and reporting for our lending business.
+
+What you will do:
+• Build financial models in Excel
+• Analyse loan-portfolio performance
+• Support audits
+• Prepare MIS reports
+
+What we are looking for:
+• Skills: financial analysis, excel, sql, power bi, communication, git
+• Experience: 0-1 years.
+• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering.
+
+Employment type: Full-time graduate trainee.
+Location: Hybrid — Bengaluru.
+This is a hybrid role with three days a week in the office.
+Apply by 08 October 2026.","communication, excel, financial analysis, git, power bi, sql","• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering. Employment type: Full-time graduate trainee.",,2026-10-08,https://example.com/sample-jobs/novachip-design/financial-analyst-graduate-trainee-123,Sample dataset (fictional),sample,sample,"Business, Product & Operations",True,2026-10-05T09:00:00+00:00
+6469f725239e0ade,Financial Analyst – Graduate Trainee,Umbra Insurance Digital,"Gurugram, Haryana",On-site,0-1 years,0.0,1.0,Graduate Trainee,"About Umbra Insurance Digital: Umbra Insurance Digital is the digital arm of an insurance group.
+Support budgeting, forecasting and reporting for our lending business.
+
+What you will do:
+• Track monthly variances
+• Analyse loan-portfolio performance
+• Automate dashboards in Power BI
+• Prepare MIS reports
+
+What we are looking for:
+• Skills: financial analysis, excel, sql, power bi, communication
+• Experience: 0-1 years.
+• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).
+
+Employment type: Full-time graduate trainee.
+Location: Gurugram, Haryana.
+Work mode: on-site, five days a week from our office.","communication, data visualization, excel, financial analysis, machine learning, power bi, sql","• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).",,,https://example.com/sample-jobs/umbra-insurance-digital/financial-analyst-graduate-trainee-124,Sample dataset (fictional),sample,sample,"Business, Product & Operations",True,2026-10-02T09:00:00+00:00
+7665d42e449c37a8,Financial Analyst – Graduate Trainee,Vertex Cloudworks,"Indore, Madhya Pradesh",On-site,0-1 years,0.0,1.0,Graduate Trainee,"About Vertex Cloudworks: Vertex Cloudworks is a DevOps and platform-engineering consultancy.
+Support budgeting, forecasting and reporting for our lending business.
+
+What you will do:
+• Analyse loan-portfolio performance
+• Automate dashboards in Power BI
+• Build financial models in Excel
+• Track monthly variances
+
+What we are looking for:
+• Skills: financial analysis, excel, sql, power bi, communication, teamwork, problem solving
+• Experience: 0-1 years.
+• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc. in Computer Science or a related field.
+
+Employment type: Full-time graduate trainee.
+Location: Indore, Madhya Pradesh.
+Work mode: on-site, five days a week from our office.
+CTC: 6 LPA.
+Apply by 26 September 2026.","communication, data visualization, excel, financial analysis, power bi, problem solving, sql, teamwork","• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc. Employment type: Full-time graduate trainee.",6 LPA,2026-09-26,https://example.com/sample-jobs/vertex-cloudworks/financial-analyst-graduate-trainee-126,Sample dataset (fictional),sample,sample,"Business, Product & Operations",True,2026-10-08T09:00:00+00:00
+0da89a662340855f,Senior Data Scientist,Monsoon Media Labs,"Ahmedabad, Gujarat",Unknown,Minimum 5 years,5.0,,Full-time,"About Monsoon Media Labs: Monsoon Media Labs is a digital media company running streaming and content platforms.
+Lead the design of large-scale recommendation models.
+
+What you will do:
+• Define the team's technical roadmap
+• Partner with product leadership
+• Lead model design and experimentation
+• Mentor junior data scientists
+
+What we are looking for:
+• Skills: python, machine learning, deep learning, spark, mlops, agile
+• Minimum 5 years of experience in applied machine learning.
+• Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.
+
+Employment type: Full-time.
+Location: Ahmedabad, Gujarat.
+Apply by 30 September 2026.","a/b testing, agile, deep learning, machine learning, mlops, python, spark",• Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.,,2026-09-30,https://example.com/sample-jobs/monsoon-media-labs/senior-data-scientist-127,Sample dataset (fictional),sample,sample,Data Science & AI,False,2026-10-17T09:00:00+00:00
+c2228a865b897957,Senior Data Scientist,Granite Infra Solutions,"New Delhi, Delhi",Unknown,Minimum 5 years,5.0,,Full-time,"About Granite Infra Solutions: Granite Infra Solutions is a cloud infrastructure and managed-services provider.
+Lead the design of large-scale recommendation models.
+
+What you will do:
+• Publish internal research
+• Define the team's technical roadmap
+• Lead model design and experimentation
+• Own production ML systems
+
+What we are looking for:
+• Skills: python, machine learning, deep learning, spark, mlops, communication
+• Minimum 5 years of experience in applied machine learning.
+• Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.
+
+Employment type: Full-time.
+Location: New Delhi, Delhi.","a/b testing, communication, deep learning, machine learning, mlops, python, spark",• Eligibility: Bachelor's degree in Engineering or Science with a minimum CGPA of 6.5.,,,https://example.com/sample-jobs/granite-infra-solutions/senior-data-scientist-128,Sample dataset (fictional),sample,sample,Data Science & AI,False,2026-10-18T09:00:00+00:00
+1688ebf624b931bb,Software Engineer II,Cedarline Technologies,"Jaipur, Rajasthan",Unknown,2-4 years,2.0,4.0,Full-time,"About Cedarline Technologies: Cedarline Technologies is an IT services firm delivering digital transformation projects.
+Scale our payments platform to millions of transactions.
+
+What you will do:
+• Improve reliability and latency
+• Design microservices
+• Drive technical decisions
+• Mentor new engineers
+
+What we are looking for:
+• Skills: java, microservices, kubernetes, system design, aws, agile
+• 2-4 years of experience in backend development.
+• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc. in Computer Science or a related field.
+
+Employment type: Full-time.
+Location: Jaipur, Rajasthan.","agile, aws, java, kubernetes, microservices, system design","• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc.",,,https://example.com/sample-jobs/cedarline-technologies/software-engineer-ii-129,Sample dataset (fictional),sample,sample,Software Development,False,2026-09-27T09:00:00+00:00
+1aa0dcf615f2a0a0,Software Engineer II,Arcadia Data Labs,"Indore, Madhya Pradesh",Unknown,2-4 years,2.0,4.0,Full-time,"About Arcadia Data Labs: Arcadia Data Labs is an analytics consultancy helping retailers make data-driven decisions.
+Scale our payments platform to millions of transactions.
+
+What you will do:
+• Own on-call rotations
+• Review designs and code
+• Mentor new engineers
+• Drive technical decisions
+
+What we are looking for:
+• Skills: java, microservices, kubernetes, system design, aws, git, linux
+• 2-4 years of experience in backend development.
+• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering.
+
+Employment type: Full-time.
+Location: Indore, Madhya Pradesh.
+Apply by 29 November 2026.","aws, git, java, kubernetes, linux, microservices, system design","• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering.",,2026-11-29,https://example.com/sample-jobs/arcadia-data-labs/software-engineer-ii-130,Sample dataset (fictional),sample,sample,Software Development,False,2026-10-10T09:00:00+00:00
+d9a15c512a862127,DevOps Lead,Teal Logistics Digital,"Noida, Uttar Pradesh",On-site,7+ years,7.0,,Full-time,"About Teal Logistics Digital: Teal Logistics Digital is a supply-chain analytics company.
+Lead our platform team's infrastructure strategy.
+
+What you will do:
+• Design multi-region infrastructure
+• Define SRE practices
+• Plan capacity
+• Lead a team of DevOps engineers
+
+What we are looking for:
+• Skills: kubernetes, terraform, aws, ci/cd, linux, agile, problem solving
+• 7+ years of experience in DevOps.
+• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering.
+
+Employment type: Full-time.
+Location: Noida, Uttar Pradesh.
+Work mode: on-site, five days a week from our office.
+Apply by 20 November 2026.","agile, aws, ci/cd, kubernetes, linux, problem solving, terraform","• Eligibility: B.Tech / M.Tech in Electronics, Electrical or Computer Engineering.",,2026-11-20,https://example.com/sample-jobs/teal-logistics-digital/devops-lead-131,Sample dataset (fictional),sample,sample,"Cloud, DevOps & IT Infrastructure",False,2026-10-14T09:00:00+00:00
+d3ea779001c53466,DevOps Lead,Bluefin Systems,"Noida, Uttar Pradesh",Unknown,7+ years,7.0,,Full-time,"About Bluefin Systems: Bluefin Systems is a product company building cloud-native logistics software.
+Lead our platform team's infrastructure strategy.
+
+What you will do:
+• Define SRE practices
+• Own the security posture
+• Lead a team of DevOps engineers
+• Design multi-region infrastructure
+
+What we are looking for:
+• Skills: kubernetes, terraform, aws, ci/cd, linux, communication, problem solving
+• 7+ years of experience in DevOps.
+• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc. in Computer Science or a related field.
+
+Employment type: Full-time.
+Location: Noida, Uttar Pradesh.","aws, ci/cd, communication, kubernetes, linux, problem solving, terraform","• Eligibility: B.Tech/B.E., BCA, MCA or M.Sc.",,,https://example.com/sample-jobs/bluefin-systems/devops-lead-132,Sample dataset (fictional),sample,sample,"Cloud, DevOps & IT Infrastructure",False,2026-10-15T09:00:00+00:00
+6b4a4fb5f19ec5c7,Data Analyst (3+ years),Saffron Agritech,"Noida, Uttar Pradesh",Unknown,3+ years,3.0,,Full-time,"About Saffron Agritech: Saffron Agritech is an agritech start-up using IoT and analytics for farmers.
+Drive experimentation and product analytics.
+
+What you will do:
+• Mentor junior analysts
+• Present to leadership
+• Own core product metrics
+• Design A/B tests
+
+What we are looking for:
+• Skills: sql, tableau, python, statistics, a/b testing, linux, communication
+• 3+ years of experience in product analytics.
+• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc. preferred.
+
+Employment type: Full-time.
+Location: Noida, Uttar Pradesh.","a/b testing, communication, iot, linux, problem solving, python, sql, statistics, tableau",• Eligibility: Any graduate with strong analytical skills; B.Tech or B.Sc.,,,https://example.com/sample-jobs/saffron-agritech/data-analyst-3-years-133,Sample dataset (fictional),sample,sample,Data Analytics & BI,False,2026-10-04T09:00:00+00:00
+426b1134e3cfac26,Data Analyst (3+ years),Umbra Insurance Digital,"Hyderabad, Telangana",On-site,3+ years,3.0,,Full-time,"About Umbra Insurance Digital: Umbra Insurance Digital is the digital arm of an insurance group.
+Drive experimentation and product analytics.
+
+What you will do:
+• Present to leadership
+• Own core product metrics
+• Build self-serve dashboards
+• Partner with product managers
+
+What we are looking for:
+• Skills: sql, tableau, python, statistics, a/b testing, agile, problem solving
+• 3+ years of experience in product analytics.
+• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).
+
+Employment type: Full-time.
+Location: Hyderabad, Telangana.
+Work mode: on-site, five days a week from our office.
+Apply by 18 September 2026.","a/b testing, agile, data visualization, machine learning, problem solving, python, sql, statistics, tableau","• Eligibility: B.Tech / B.E. in Computer Science, IT, AI & ML or related branches (2025 or 2026 batch).",,2026-09-18,https://example.com/sample-jobs/umbra-insurance-digital/data-analyst-3-years-134,Sample dataset (fictional),sample,sample,Data Analytics & BI,False,2026-09-28T09:00:00+00:00

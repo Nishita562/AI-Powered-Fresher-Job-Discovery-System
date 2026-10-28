@@ -1,0 +1,32 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 733 >>
+stream
+BT /F1 12 Tf 72 740 Td 14 TL (SAMPLE RESUME - FICTIONAL PERSON FOR DEMONSTRATION ONLY) Tj T* (Aarav Sample | B.Tech Artificial Intelligence and Machine Learning, 2027 batch | CGPA 8.4) Tj T* (Email: aarav.sample@example.com | Location: Bengaluru) Tj T* (Skills: Python, pandas, NumPy, scikit-learn, SQL, Power BI, Git, Machine Learning, Data Visualization) Tj T* (Project: Customer churn prediction with scikit-learn (logistic regression, random forest).) Tj T* (Project: Sales dashboard in Power BI using SQL queries on a MySQL database.) Tj T* (Internship: Data analysis intern (2 months) - cleaned data with pandas and built reports.) Tj T* (Interests: Data Analyst, Machine Learning Engineer roles; open to remote work.) Tj T* ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000001025 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1095
+%%EOF

@@ -1,0 +1,40 @@
+{
+  "_comment": "Fictional demo career pages used for offline Playwright crawls and integration tests.",
+  "pages": [
+    {
+      "id": "F001",
+      "company": "Nimbus Analytics",
+      "platform": "generic",
+      "file": "nimbus_careers.html",
+      "layout": "cards with detail pages and a duplicated featured listing"
+    },
+    {
+      "id": "F002",
+      "company": "Riverstone Infotech",
+      "platform": "generic",
+      "file": "riverstone_careers.html",
+      "layout": "HTML table"
+    },
+    {
+      "id": "F003",
+      "company": "QuantaLeap AI",
+      "platform": "generic",
+      "file": "quantaleap_careers.html",
+      "layout": "JavaScript-rendered list (800 ms delay)"
+    },
+    {
+      "id": "F004",
+      "company": "Orbit Fintech",
+      "platform": "greenhouse",
+      "file": "orbit_greenhouse_board.html",
+      "layout": "Greenhouse-style board"
+    },
+    {
+      "id": "F005",
+      "company": "Meridian Health Systems",
+      "platform": "lever",
+      "file": "meridian_lever_board.html",
+      "layout": "Lever-style board"
+    }
+  ]
+}

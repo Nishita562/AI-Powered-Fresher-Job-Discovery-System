@@ -1,0 +1,31 @@
+{
+  "name": "fresher-jobs-scraper",
+  "version": "1.0.0",
+  "description": "Playwright-based automation to search career pages of Indian companies and identify job openings suitable for freshers.",
+  "main": "src/scraper.js",
+  "type": "commonjs",
+  "scripts": {
+    "install-browsers": "playwright install --with-deps chromium",
+    "start": "node src/scraper.js",
+    "scrape": "node src/scraper.js",
+    "scrape:headed": "HEADLESS=false node src/scraper.js",
+    "report": "node src/generateReport.js",
+    "validate-urls": "node src/validateUrls.js"
+  },
+  "keywords": [
+    "playwright",
+    "web-scraping",
+    "job-search",
+    "freshers",
+    "automation"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.47.0",
+    "csv-parse": "^5.5.6",
+    "csv-writer": "^1.6.0",
+    "p-limit": "^3.1.0",
+    "winston": "^3.14.2"
+  }
+}

@@ -1,0 +1,11 @@
+# Dedicated Conda environment for this project (does not touch your other environments).
+#   conda env create -f environment.yml
+#   conda activate fresherjobs
+name: fresherjobs
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+      - -r requirements.txt

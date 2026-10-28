@@ -1,0 +1,112 @@
+company_name,career_url,sector
+Tata Consultancy Services,https://www.tcs.com/careers,IT Services
+Infosys,https://www.infosys.com/careers.html,IT Services
+Wipro,https://careers.wipro.com/,IT Services
+HCLTech,https://www.hcltech.com/careers,IT Services
+Tech Mahindra,https://careers.techmahindra.com/,IT Services
+Cognizant,https://careers.cognizant.com/global/en,IT Services
+Capgemini,https://www.capgemini.com/in-en/careers/,IT Services
+Accenture India,https://www.accenture.com/in-en/careers,IT Services
+IBM India,https://www.ibm.com/in-en/careers,IT Services
+Larsen & Toubro Infotech,https://www.ltimindtree.com/careers/,IT Services
+Mphasis,https://www.mphasis.com/home/careers.html,IT Services
+Persistent Systems,https://www.persistent.com/careers/,IT Services
+Mindtree,https://www.ltimindtree.com/careers/,IT Services
+Zensar Technologies,https://www.zensar.com/careers,IT Services
+Hexaware Technologies,https://hexaware.com/careers/,IT Services
+Coforge,https://www.coforge.com/careers,IT Services
+L&T Technology Services,https://www.ltts.com/careers,IT Services
+Cyient,https://careers.cyient.com/,IT Services
+Birlasoft,https://www.birlasoft.com/careers,IT Services
+Sonata Software,https://www.sonata-software.com/careers,IT Services
+Oracle India,https://www.oracle.com/in/careers/,Product/IT
+SAP Labs India,https://jobs.sap.com/,Product/IT
+Microsoft India,https://careers.microsoft.com/,Product/IT
+Google India,https://careers.google.com/,Product/IT
+Amazon India,https://www.amazon.jobs/en/,E-commerce/Cloud
+Adobe India,https://www.adobe.com/careers.html,Product/IT
+Salesforce India,https://www.salesforce.com/company/careers/,Product/IT
+VMware India,https://careers.vmware.com/,Product/IT
+Intuit India,https://www.intuit.com/careers/,Product/IT
+Cisco India,https://jobs.cisco.com/,Product/IT
+Dell Technologies India,https://jobs.dell.com/,Hardware/IT
+HP India,https://careers.hp.com/,Hardware/IT
+Qualcomm India,https://www.qualcomm.com/company/careers,Semiconductor
+Intel India,https://jobs.intel.com/,Semiconductor
+Texas Instruments India,https://careers.ti.com/,Semiconductor
+Nvidia India,https://www.nvidia.com/en-us/about-nvidia/careers/,Semiconductor
+Flipkart,https://www.flipkart.com/careers,E-commerce
+Myntra,https://careers.myntra.com/,E-commerce
+Amazon Development Centre India,https://www.amazon.jobs/en/,E-commerce
+Swiggy,https://careers.swiggy.com/,Food-tech
+Zomato,https://www.zomato.com/careers,Food-tech
+Paytm,https://paytm.com/careers,Fintech
+PhonePe,https://www.phonepe.com/careers/,Fintech
+Razorpay,https://razorpay.com/jobs/,Fintech
+CRED,https://careers.cred.club/,Fintech
+Zerodha,https://zerodha.com/careers/,Fintech
+PolicyBazaar,https://www.policybazaar.com/careers/,Fintech
+BYJU'S,https://byjus.com/careers/,Edtech
+Unacademy,https://unacademy.com/careers,Edtech
+upGrad,https://www.upgrad.com/careers/,Edtech
+Ola,https://www.olacabs.com/careers,Mobility
+Uber India,https://www.uber.com/us/en/careers/,Mobility
+Freshworks,https://www.freshworks.com/company/careers/,SaaS
+Zoho,https://www.zoho.com/careers.html,SaaS
+Postman,https://www.postman.com/company/careers/,SaaS
+Chargebee,https://www.chargebee.com/careers/,SaaS
+Druva,https://www.druva.com/careers/,SaaS
+Icertis,https://www.icertis.com/company/careers/,SaaS
+Reliance Industries,https://www.ril.com/careers,Conglomerate
+Tata Group,https://www.tata.com/careers,Conglomerate
+Aditya Birla Group,https://careers.adityabirla.com/,Conglomerate
+Mahindra Group,https://www.mahindra.com/careers,Conglomerate
+Bajaj Finserv,https://www.bajajfinserv.in/careers,BFSI
+HDFC Bank,https://www.hdfcbank.com/personal/about-us/careers,BFSI
+ICICI Bank,https://www.icicibank.com/careers,BFSI
+Axis Bank,https://www.axisbank.com/careers,BFSI
+State Bank of India,https://bank.sbi/web/careers,BFSI
+Kotak Mahindra Bank,https://www.kotak.com/en/careers.html,BFSI
+Deloitte India,https://www2.deloitte.com/in/en/careers.html,Consulting
+EY India,https://www.ey.com/en_in/careers,Consulting
+PwC India,https://www.pwc.in/careers.html,Consulting
+KPMG India,https://home.kpmg/in/en/home/careers.html,Consulting
+McKinsey & Company India,https://www.mckinsey.com/careers,Consulting
+Bosch India,https://www.bosch.in/careers/,Manufacturing
+Siemens India,https://www.siemens.com/in/en/company/jobs.html,Manufacturing
+Larsen & Toubro,https://www.larsentoubro.com/corporate/careers/,Engineering
+Tata Motors,https://www.tatamotors.com/careers/,Automotive
+Maruti Suzuki India,https://www.marutisuzuki.com/corporate/careers,Automotive
+Mahindra & Mahindra,https://www.mahindra.com/careers,Automotive
+Hero MotoCorp,https://www.heromotocorp.com/en-in/careers.html,Automotive
+Samsung R&D Institute India,https://www.samsung.com/in/careers/,Electronics
+LG Electronics India,https://www.lg.com/in/careers,Electronics
+Infoedge (Naukri),https://www.infoedge.in/careers,Internet
+MakeMyTrip,https://careers.makemytrip.com/,Internet
+Nykaa,https://www.nykaa.com/careers,E-commerce
+Meesho,https://careers.meesho.io/,E-commerce
+BigBasket,https://www.bigbasket.com/careers/,E-commerce
+Dream11,https://www.dream11.com/careers,Gaming
+Games24x7,https://games24x7.com/careers/,Gaming
+Nazara Technologies,https://nazara.com/careers/,Gaming
+UST Global,https://www.ust.com/en/careers,IT Services
+GlobalLogic India,https://www.globallogic.com/in/careers/,IT Services
+Publicis Sapient,https://www.publicissapient.com/careers,IT Services
+Thoughtworks India,https://www.thoughtworks.com/careers,IT Services
+Virtusa,https://www.virtusa.com/careers,IT Services
+Genpact,https://www.genpact.com/careers,BPO/IT
+WNS Global Services,https://www.wns.com/careers,BPO
+Concentrix,https://www.concentrix.com/careers/,BPO
+Infosys BPM,https://www.infosysbpm.com/careers.html,BPO
+Tata Communications,https://www.tatacommunications.com/careers/,Telecom
+Bharti Airtel,https://www.airtel.in/careers,Telecom
+Reliance Jio,https://www.jio.com/careers,Telecom
+Vodafone Idea,https://www.myvi.in/careers,Telecom
+Indian Space Research Organisation,https://www.isro.gov.in/Careers.html,Government/Aerospace
+Defence Research and Development Organisation,https://www.drdo.gov.in/career,Government/Defence
+Bharat Electronics,https://www.bel-india.in/Careers,PSU/Electronics
+Hindustan Aeronautics,https://hal-india.co.in/Career,PSU/Aerospace
+Oil and Natural Gas Corporation,https://www.ongcindia.com/web/eng/careers,PSU/Energy
+Bharat Petroleum,https://www.bharatpetroleum.in/careers.aspx,PSU/Energy
+Indian Oil Corporation,https://iocl.com/careers,PSU/Energy
+National Thermal Power Corporation,https://www.ntpc.co.in/careers,PSU/Energy
